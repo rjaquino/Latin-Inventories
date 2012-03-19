@@ -28,7 +28,7 @@ Line: 18
 	Contents: []
 	Styles []
 	Numbers: ['quadam']
-	Others: ['comedendi', 'de', 'magna', 'nuce', 'tabula']
+	Others: ['comedendi', 'de nuce', 'magna', 'tabula']
 	Attachment: 
 
 b.	Item in cellario
@@ -50,7 +50,7 @@ Line: 21
 	Contents: []
 	Styles []
 	Numbers: ['unum']
-	Others: ['de', 'eo', 'et', 'existentes', 'in', 'infrascriptas,', 'nuce', 'res', 'scrineum', 'silicet']
+	Others: ['de nuce', 'eo', 'et', 'existentes', 'in', 'infrascriptas,', 'res', 'scrineum', 'silicet']
 	Attachment: 
 
 2.	Item aliud copertorium de sindone cum fordiliis
@@ -61,7 +61,7 @@ Line: 23
 	Contents: []
 	Styles []
 	Numbers: ['aliud']
-	Others: ['copertorium', 'de', 'sindone']
+	Others: ['copertorium', 'de sindone']
 	Attachment: cum fordiliis
 
 3.	Item quinque septem tabulas et qua unum cabrionum
@@ -116,7 +116,7 @@ Line: 28
 	Contents: []
 	Styles []
 	Numbers: ['duo']
-	Others: ['Andrivete', 'Cancio', 'Pet', 'Petri', 'certa', 'de', 'impignorata', 'pecunie', 'pro', 'quantitate', 'qui', 'sunt', 'uxoris', 'vasa', 'vetera']
+	Others: ['Andrivete', 'Pet', 'Petri', 'certa', 'de Cancio', 'impignorata', 'pecunie', 'pro', 'quantitate', 'qui', 'sunt', 'uxoris', 'vasa', 'vetera']
 	Attachment: 
 
 v.	Item duas trahedoyras
@@ -479,7 +479,7 @@ Line: 63
 	Contents: []
 	Styles []
 	Numbers: []
-	Others: ['burto', 'copertas', 'de', 'platas', 'proprias', 'rubeo']
+	Others: ['copertas', 'de burto', 'platas', 'proprias', 'rubeo']
 	Attachment: 
 
 vii.	Item duas troynas
@@ -523,7 +523,7 @@ Line: 67
 	Contents: []
 	Styles []
 	Numbers: ['duos', 'tres', 'unum']
-	Others: ['cappellos', 'de', 'feutre']
+	Others: ['cappellos', 'de feutre']
 	Attachment: 
 
 xi.	Item unum cappellum de Pampalona
@@ -534,7 +534,7 @@ Line: 68
 	Contents: []
 	Styles []
 	Numbers: ['unum']
-	Others: ['Pampalona', 'cappellum', 'de']
+	Others: ['cappellum', 'de Pampalona']
 	Attachment: 
 
 xii.	Item duas servellerias magnas et unam parvam 
@@ -550,13 +550,13 @@ Line: 69
 
 xiii.	Item duos piccarios de stagno
 Line: 70
-	Subtrates: ['stagno']
+	Subtrates: ['de stagno']
 	Colors: []
 	Accessories: []
 	Contents: []
 	Styles []
 	Numbers: ['duos']
-	Others: ['de', 'piccarios']
+	Others: ['piccarios']
 	Attachment: 
 
 xiv.	Item unum fustum baleste fractum
@@ -611,7 +611,7 @@ Line: 75
 	Contents: []
 	Styles []
 	Numbers: ['unum']
-	Others: ['bassinetum', 'cupro', 'de', 'parvum']
+	Others: ['bassinetum', 'de cupro', 'parvum']
 	Attachment: 
 
 xix.	Item poadorium unum de cupro
@@ -622,7 +622,7 @@ Line: 76
 	Contents: []
 	Styles []
 	Numbers: ['unum']
-	Others: ['cupro', 'de', 'poadorium']
+	Others: ['de cupro', 'poadorium']
 	Attachment: 
 
 xx.	Item bassinum unum et bassinam unam de cupro 
@@ -633,7 +633,7 @@ Line: 77
 	Contents: []
 	Styles []
 	Numbers: ['unam', 'unum']
-	Others: ['bassinam', 'bassinum', 'cupro', 'de', 'et']
+	Others: ['bassinam', 'bassinum', 'de cupro', 'et']
 	Attachment: 
 
 xxi.	Item balansias de cupro
@@ -644,7 +644,7 @@ Line: 78
 	Contents: []
 	Styles []
 	Numbers: []
-	Others: ['balansias', 'cupro', 'de']
+	Others: ['balansias', 'de cupro']
 	Attachment: 
 
 xxii.	Item lanternam unam /26r/
@@ -677,7 +677,7 @@ Line: 81
 	Contents: []
 	Styles []
 	Numbers: ['unm']
-	Others: ['bossollum', 'de', 'ferro']
+	Others: ['bossollum', 'de ferro']
 	Attachment: 
 
 xxv.	Item quatuor calecnas 
@@ -721,18 +721,18 @@ Line: 85
 	Contents: []
 	Styles []
 	Numbers: ['duos', 'una']
-	Others: ['cultellos', 'de', 'in', 'mensa', 'vagina']
+	Others: ['cultellos', 'de mensa', 'in', 'vagina']
 	Attachment: 
 
 xxix.	Item unam cacxiam de sappo cum scripturis operatorii et una bassina parva ad tenendum pecuniam ac una cayseta corredissa 
 Line: 86
-	Subtrates: ['sappo']
+	Subtrates: ['de sappo']
 	Colors: []
 	Accessories: []
 	Contents: []
 	Styles []
 	Numbers: ['unam']
-	Others: ['cacxiam', 'de']
+	Others: ['cacxiam']
 	Attachment: cum scripturis operatorii et una bassina parva ad tenendum pecuniam ac una cayseta corredissa
 
 xxx.	Item unum scannum de duobus meianis in quorum uno meiano est circa unam quarteriam fabarum cum uno coffino, uno verubo, et una mappa mastre
@@ -742,8 +742,8 @@ Line: 87
 	Accessories: []
 	Contents: ['fabarum']
 	Styles []
-	Numbers: ['duobus', 'unam', 'uno', 'unum']
-	Others: ['circa', 'de', 'est', 'in', 'meianis', 'meiano', 'quarteriam', 'quorum', 'scannum']
+	Numbers: ['de duobus', 'unam', 'uno', 'unum']
+	Others: ['circa', 'est', 'in', 'meianis', 'meiano', 'quarteriam', 'quorum', 'scannum']
 	Attachment: cum uno coffino, uno verubo, et una mappa mastre
 
 xxxii.	Item aliud scannum cum duobus meianis in quorum uno meiano sunt scutelle et cisoria de boieza 50 vel circa 
@@ -781,13 +781,13 @@ Line: 91
 
 xxxv.	Item unam saleriam de stagno
 Line: 92
-	Subtrates: ['stagno']
+	Subtrates: ['de stagno']
 	Colors: []
 	Accessories: []
 	Contents: []
 	Styles []
 	Numbers: ['unam']
-	Others: ['de', 'saleriam']
+	Others: ['saleriam']
 	Attachment: 
 
 xxxvi.	Item quandam apiam antiquam paucis valoris /fol. 27v/
@@ -842,18 +842,18 @@ Line: 98
 	Contents: []
 	Styles []
 	Numbers: []
-	Others: ['astil', 'de', 'ferro', 'viritorium']
+	Others: ['astil', 'de ferro', 'viritorium']
 	Attachment: 
 
 v.	Item unum alabit de plumbo 
 Line: 99
-	Subtrates: ['plumbo']
+	Subtrates: ['de plumbo']
 	Colors: []
 	Accessories: []
 	Contents: []
 	Styles []
 	Numbers: ['unum']
-	Others: ['alabit', 'de']
+	Others: ['alabit']
 	Attachment: 
 
 vi.	Item duas cellas 
@@ -968,13 +968,13 @@ Line: 109
 
 xvi.	Item bossellum unum de coreo
 Line: 110
-	Subtrates: ['coreo']
+	Subtrates: ['de coreo']
 	Colors: []
 	Accessories: []
 	Contents: []
 	Styles []
 	Numbers: ['unum']
-	Others: ['bossellum', 'de']
+	Others: ['bossellum']
 	Attachment: 
 
 xvii.	Item duo astilia de ferro
@@ -985,7 +985,7 @@ Line: 111
 	Contents: []
 	Styles []
 	Numbers: ['duo']
-	Others: ['astilia', 'de', 'ferro']
+	Others: ['astilia', 'de ferro']
 	Attachment: 
 
 xviii.	Item unam payroletam cupri
@@ -1084,7 +1084,7 @@ Line: 121
 	Contents: []
 	Styles []
 	Numbers: []
-	Others: ['de', 'gardacossinum', 'mesclato']
+	Others: ['de mesclato', 'gardacossinum']
 	Attachment: cum penna agnorum
 
 vii.	Item unum lectum cum una parva culcitra et matalassio cum duabus flassiatis bonis et una flassiata paucis valoris 
@@ -1249,7 +1249,7 @@ Line: 138
 	Contents: []
 	Styles []
 	Numbers: ['unam']
-	Others: ['de', 'de', 'hominis', 'misclato', 'tela', 'tunicam']
+	Others: ['de misclato', 'de tela', 'hominis', 'tunicam']
 	Attachment: 
 
 vi.	Item unam tunicam albam hominis
@@ -1370,7 +1370,7 @@ Line: 150
 	Contents: []
 	Styles []
 	Numbers: ['unum']
-	Others: ['de', 'nuce', 'scrineum']
+	Others: ['de nuce', 'scrineum']
 	Attachment: cum cartulariis scripturis et quandam pencine? eburi in quodam stucho?
 
 x.	Item tres vannalhos
@@ -1403,7 +1403,7 @@ Line: 153
 	Contents: []
 	Styles []
 	Numbers: ['unam']
-	Others: ['(sic)', 'ccanna', 'de', 'pictam', 'scutellam']
+	Others: ['(sic)', 'de ccanna', 'pictam', 'scutellam']
 	Attachment: 
 
 xiii.	Item aliud scrineum novum cum lintheaminbus 14 et uno chalono magno
@@ -1518,13 +1518,13 @@ Line: 164
 
 4.	Item tres tralhole debiles cabate de sirico
 Line: 165
-	Subtrates: ['sirico']
+	Subtrates: ['de sirico']
 	Colors: []
 	Accessories: []
 	Contents: []
 	Styles []
 	Numbers: ['tres']
-	Others: ['cabate', 'de', 'debiles', 'tralhole']
+	Others: ['cabate', 'debiles', 'tralhole']
 	Attachment: 
 
 5.	Item pater noster unum de ambra
@@ -1535,7 +1535,7 @@ Line: 166
 	Contents: []
 	Styles []
 	Numbers: ['unum']
-	Others: ['ambra', 'de', 'noster', 'pater']
+	Others: ['de ambra', 'noster', 'pater']
 	Attachment: 
 
 6.	Item duas longerias 
@@ -1634,7 +1634,7 @@ Line: 180
 	Contents: []
 	Styles []
 	Numbers: ['novem']
-	Others: ['caffatano', 'de', 'palmi', 'stacato']
+	Others: ['de caffatano', 'palmi', 'stacato']
 	Attachment: 
 
 iii.	Item de camocato rubeo 4 palmi
@@ -1645,7 +1645,7 @@ Line: 181
 	Contents: []
 	Styles []
 	Numbers: []
-	Others: ['4', 'camocato', 'de', 'palmi', 'rubeo']
+	Others: ['4', 'de camocato', 'palmi', 'rubeo']
 	Attachment: 
 
 iv.	Item de caffatano viridis unum palmum
@@ -1656,7 +1656,7 @@ Line: 182
 	Contents: []
 	Styles []
 	Numbers: ['unum']
-	Others: ['caffatano', 'de', 'palmum']
+	Others: ['de caffatano', 'palmum']
 	Attachment: 
 
 v.	Item unum froyre clamidis caffatani viridi paucis valoris
@@ -1678,7 +1678,7 @@ Line: 184
 	Contents: []
 	Styles []
 	Numbers: ['unum']
-	Others: ['camocato', 'cossetum', 'de', 'rubeo']
+	Others: ['cossetum', 'de camocato', 'rubeo']
 	Attachment: cum tremi
 
 vii.	Item unum cardacossium de mesclato cum penna alungnorum? 
@@ -1689,7 +1689,7 @@ Line: 185
 	Contents: []
 	Styles []
 	Numbers: ['unum']
-	Others: ['cardacossium', 'de', 'mesclato']
+	Others: ['cardacossium', 'de mesclato']
 	Attachment: cum penna alungnorum?
 
 viii.	Item gardacossium, clamidem, et tunicam de preteto rubeo cum penna varia in clamide et scurolorum in gardacossio
@@ -1700,7 +1700,7 @@ Line: 186
 	Contents: []
 	Styles []
 	Numbers: []
-	Others: ['clamidem,', 'de', 'et', 'gardacossium,', 'preteto', 'rubeo', 'tunicam']
+	Others: ['clamidem,', 'de preteto', 'et', 'gardacossium,', 'rubeo', 'tunicam']
 	Attachment: cum penna varia in clamide et scurolorum in gardacossio
 
 ix.	Item tunicam et ganachiam de alio panno rubeo cum penna grossa varia in dicta ganachia
@@ -1710,8 +1710,8 @@ Line: 187
 	Accessories: []
 	Contents: []
 	Styles []
-	Numbers: ['alio']
-	Others: ['de', 'et', 'ganachiam', 'rubeo', 'tunicam']
+	Numbers: ['de alio']
+	Others: ['et', 'ganachiam', 'rubeo', 'tunicam']
 	Attachment: cum penna grossa varia in dicta ganachia
 
 x.	Item tria capucia
@@ -1738,13 +1738,13 @@ Line: 189
 
 xii.	Item unum copertorium de sirico
 Line: 190
-	Subtrates: ['sirico']
+	Subtrates: ['de sirico']
 	Colors: []
 	Accessories: []
 	Contents: []
 	Styles []
 	Numbers: ['unum']
-	Others: ['copertorium', 'de']
+	Others: ['copertorium']
 	Attachment: 
 
 xiii.	Item clamidem cum penna varia et cu gardacossium et tunica de bruneta mulieris
@@ -1766,7 +1766,7 @@ Line: 192
 	Contents: []
 	Styles []
 	Numbers: ['unum']
-	Others: ['clamidem', 'colleya', 'cossetum', 'de', 'et']
+	Others: ['clamidem', 'cossetum', 'de colleya', 'et']
 	Attachment: cum sindone viridi
 
 xv.	Item mantellum de mesclato rubeo cum penna varia
@@ -1777,18 +1777,18 @@ Line: 193
 	Contents: []
 	Styles []
 	Numbers: []
-	Others: ['de', 'mantellum', 'mesclato', 'rubeo']
+	Others: ['de mesclato', 'mantellum', 'rubeo']
 	Attachment: cum penna varia
 
 xvi.	Item aliud copertorium de sirico cum flordilis
 Line: 194
-	Subtrates: ['sirico']
+	Subtrates: ['de sirico']
 	Colors: []
 	Accessories: []
 	Contents: []
 	Styles []
 	Numbers: ['aliud']
-	Others: ['copertorium', 'de']
+	Others: ['copertorium']
 	Attachment: cum flordilis
 
 xvii.	Item cossetum unum et tunica mulieris cum penna agnorum in cosseto
@@ -1837,13 +1837,13 @@ Line: 198
 
 xxi.	Item copertorium unum parvum de sirico croceo et nigro
 Line: 199
-	Subtrates: ['sirico']
+	Subtrates: ['de sirico']
 	Colors: ['croceo']
 	Accessories: []
 	Contents: []
 	Styles []
 	Numbers: ['unum']
-	Others: ['copertorium', 'de', 'et', 'nigro', 'parvum']
+	Others: ['copertorium', 'et', 'nigro', 'parvum']
 	Attachment: 
 
 xxii.	Item duo capucia
@@ -1871,12 +1871,12 @@ Line: 201
 xxiv.	Item duas scutellas pictas de canna
 Line: 202
 	Subtrates: []
-	Colors: ['canna']
+	Colors: ['de canna']
 	Accessories: []
 	Contents: []
 	Styles []
 	Numbers: ['duas']
-	Others: ['de', 'pictas', 'scutellas']
+	Others: ['pictas', 'scutellas']
 	Attachment: 
 
 xxv.	Item tres manicas superfluas de colleya mesclata et listato
@@ -1887,7 +1887,7 @@ Line: 203
 	Contents: []
 	Styles ['listato']
 	Numbers: ['tres']
-	Others: ['colleya', 'de', 'et', 'manicas', 'mesclata', 'superfluas']
+	Others: ['de colleya', 'et', 'manicas', 'mesclata', 'superfluas']
 	Attachment: 
 
 xxvi.	Item duo paria manicarum de violeto et alia de camelino
@@ -1898,7 +1898,7 @@ Line: 204
 	Contents: []
 	Styles []
 	Numbers: ['alia', 'duo']
-	Others: ['camelino', 'de', 'de', 'et', 'manicarum', 'paria', 'violeto']
+	Others: ['de camelino', 'de violeto', 'et', 'manicarum', 'paria']
 	Attachment: 
 
 xxvii.	Item capellum unum domine solis
@@ -1925,13 +1925,13 @@ Line: 206
 
 xxix.	Item bursa una de sirico cum sex anulis auri /fol. 29v/
 Line: 207
-	Subtrates: ['sirico']
+	Subtrates: ['de sirico']
 	Colors: []
 	Accessories: []
 	Contents: []
 	Styles []
 	Numbers: ['una']
-	Others: ['bursa', 'de']
+	Others: ['bursa']
 	Attachment: cum sex anulis auri
 
 xxx.	Item zonam unam parvam de argento
@@ -1942,7 +1942,7 @@ Line: 208
 	Contents: []
 	Styles []
 	Numbers: ['unam']
-	Others: ['argento', 'de', 'parvam', 'zonam']
+	Others: ['de argento', 'parvam', 'zonam']
 	Attachment: 
 
 xxxi.	Item unam burssam de velluto viridi
@@ -1953,18 +1953,18 @@ Line: 209
 	Contents: []
 	Styles []
 	Numbers: ['unam']
-	Others: ['burssam', 'de', 'velluto', 'viridi']
+	Others: ['burssam', 'de velluto', 'viridi']
 	Attachment: 
 
 xxxii.	Item duas bursas de sirico
 Line: 210
-	Subtrates: ['sirico']
+	Subtrates: ['de sirico']
 	Colors: []
 	Accessories: []
 	Contents: []
 	Styles []
 	Numbers: ['duas']
-	Others: ['bursas', 'de']
+	Others: ['bursas']
 	Attachment: 
 
 xxxiii.	Item duas burssetas de filo albi
@@ -1975,7 +1975,7 @@ Line: 211
 	Contents: []
 	Styles []
 	Numbers: ['duas']
-	Others: ['burssetas', 'de', 'filo']
+	Others: ['burssetas', 'de filo']
 	Attachment: 
 
 xxxiv.	Item unam bursetam dauratam paucis valoris

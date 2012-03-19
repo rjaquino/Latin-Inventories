@@ -1,5 +1,6 @@
 import re
 from constants import *
+from helpers import *
 
 f = open('sample.txt', 'r')
 text = f.read()
@@ -18,6 +19,8 @@ for line in lines:
 	numbers = []
 	others = []
 	attachment = ""
+	phrase = ""
+
 	m = re.search('\tItem(.*)', line)
 	if not m is None:
 		item = m.group(1);
@@ -31,29 +34,60 @@ for line in lines:
 				if pos != -1:
 					attachment = attachment[:pos-1]
 				break;
+			if word == "de":
+				phrase = "de"
+				continue
 			if word in SUBSTRATE_STEMS or word[:-1] in SUBSTRATE_STEMS or word[:-2] in SUBSTRATE_STEMS or word[:-3] in SUBSTRATE_STEMS or word[:-4] in SUBSTRATE_STEMS:
 #				print "Line " + str(line_num) + ", Substrate: " + word
-				substrates.append(word)			
+				if phrase != "":
+					substrates.append(phrase + " " + word)
+					phrase = ""
+				else:	
+					substrates.append(word)			
 			elif word in COLOR_STEMS or word[:-1] in COLOR_STEMS or word[:-2] in COLOR_STEMS or word[:-3] in COLOR_STEMS or word[:-4] in COLOR_STEMS:
 #				print "Line " + str(line_num) + ", Color: " + word
-				colors.append(word)			
+				if phrase != "":
+					colors.append(phrase + " " + word)
+					phrase = ""
+				else:	
+					colors.append(word)			
 			elif word in ACCESSORY_STEMS or word[:-1] in ACCESSORY_STEMS or word[:-2] in ACCESSORY_STEMS or word[:-3] in ACCESSORY_STEMS or word[:-4] in ACCESSORY_STEMS:
 #				print "Line " + str(line_num) + ", Accessory: " + word
-				accessories.append(word)			
+				if phrase != "":
+					accessories.append(phrase + " " + word)
+					phrase = ""
+				else:	
+					accessories.append(word)			
 			elif word in CONTENTS or word in CONTENTS_STEMS or word[:-1] in CONTENTS_STEMS or word[:-2] in CONTENTS_STEMS or word[:-3] in CONTENTS_STEMS or word[:-4] in CONTENTS_STEMS:
 #				print "Line " + str(line_num) + ", Contents: " + word
-				contents.append(word)			
+				if phrase != "":
+					contents.append(phrase + " " + word)
+					phrase = ""
+				else:	
+					contents.append(word)			
 			elif word in STYLES or word in STYLE_STEMS or word[:-1] in STYLE_STEMS or word[:-2] in STYLE_STEMS or word[:-3] in STYLE_STEMS or word[:-4] in STYLE_STEMS:
 #				print "Line " + str(line_num) + ", Style: " + word
-				styles.append(word)			
+				if phrase != "":
+					styles.append(phrase + " " + word)
+					phrase = ""
+				else:	
+					styles.append(word)			
 			elif  word in NUMBER_STEMS or word[:-1] in NUMBER_STEMS or word[:-2] in NUMBER_STEMS or word[:-3] in NUMBER_STEMS or word[:-4] in NUMBER_STEMS:
 #				print "Line " + str(line_num) + ", Style: " + word
-				numbers.append(word)			
+				if phrase != "":
+					numbers.append(phrase + " " + word)
+					phrase = ""
+				else:	
+					numbers.append(word)			
 			elif word.find('/') != -1:
 				continue
 			else:
 #				print "Line " + str(line_num) + ", Other: " + word
-				others.append(word)
+				if phrase != "":
+					others.append(phrase + " " + word)
+					phrase = ""
+				else:	
+					others.append(word)
 		print line
 		print "Line: "+str(line_num)
 		print "\tSubtrates: " + str(sorted(substrates))
