@@ -2,15 +2,27 @@ import re
 from constants import *
 from helpers import *
 
+
 f = open('134801.txt', 'r')
 text = f.read()
-lines = text.splitlines()
+
 m = re.search('Sex:\t(.*)\n', text)
 sex =  m.group(1)+'\n'
 
+m = re.search("Inventory begins(.*)Inventory ends", text, re.DOTALL)
+if not m is None:
+	inventory = m.group(1)
+
+# lame attempt to handle et. Will be able to remove once there is support for xiii., etc
+# inventory = inventory.replace(" et ", "\n\tItem et ")
+
+lines = inventory.splitlines()
+
+
+
 line_num = 0
 
-print "Line\tSubstrates\tColors\tAccessories\tContents\tStyles\tNumbers\tOthers\tAttachment"
+print "Line\tSubstrates\tColors\tAccessories\tContents\tStyles\tNumbers\tOthers"
 for line in lines:
 	line_num = line_num + 1
 	substrates = []
@@ -20,7 +32,6 @@ for line in lines:
 	styles = []
 	numbers = []
 	others = []
-	attachment = ""
 	phrase = ""
 
 	m = re.search('\tIt[eu]m(.*)', line)
@@ -29,7 +40,7 @@ for line in lines:
 		words = item.split();
 		for idx, word in enumerate(words):
 			if word == "cum":
-				attachment = " ".join(words[idx:])
+				accessories.append(" ".join(words[idx:]))
 
 				# remove /fol from end of attachment
 				pos = attachment.find('/')
@@ -107,8 +118,6 @@ for line in lines:
 		print "\t" + str(", ".join(sorted(numbers))),
 		#print "\tOthers: " + 
 		print "\t" + str(", ".join(sorted(others))),
-		#print "\tAttachment: " + 
-		print "\t" + attachment
 		# print ""
 		# r = re.search('(un[ua][ms]?|du[oae]s?|tr(es|ia|ibus)|quattuor|quinque|sex|septem|octo|novem|decem|ali(um|a|o)s?|qu(i|a|o)dam) ([a-zA-Z]*) ', line)
 		# if not r is None:
