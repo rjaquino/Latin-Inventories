@@ -17,11 +17,20 @@ for line in lines:
 	styles = []
 	numbers = []
 	others = []
+	attachment = ""
 	m = re.search('\tItem(.*)', line)
 	if not m is None:
 		item = m.group(1);
 		words = item.split();
-		for word in words:
+		for idx, word in enumerate(words):
+			if word == "cum":
+				attachment = " ".join(words[idx:])
+
+				# remove /fol from end of attachment
+				pos = attachment.find('/')
+				if pos != -1:
+					attachment = attachment[:pos-1]
+				break;
 			if word in SUBSTRATE_STEMS or word[:-1] in SUBSTRATE_STEMS or word[:-2] in SUBSTRATE_STEMS or word[:-3] in SUBSTRATE_STEMS or word[:-4] in SUBSTRATE_STEMS:
 #				print "Line " + str(line_num) + ", Substrate: " + word
 				substrates.append(word)			
@@ -54,6 +63,7 @@ for line in lines:
 		print "\tStyles " + str(sorted(styles))
 		print "\tNumbers: " + str(sorted(numbers))
 		print "\tOthers: " + str(sorted(others))
+		print "\tAttachment: " + attachment
 		print ""
 		# r = re.search('(un[ua][ms]?|du[oae]s?|tr(es|ia|ibus)|quattuor|quinque|sex|septem|octo|novem|decem|ali(um|a|o)s?|qu(i|a|o)dam) ([a-zA-Z]*) ', line)
 		# if not r is None:
