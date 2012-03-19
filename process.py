@@ -15,7 +15,7 @@ except IOError:
 
 text = f.read()
 
-print "Code\tLine #\tHouse\tRoom\tContainer\tObject\tQuantity\tValue\tSubstrate\tTrim or Accouterments\tContents\tSize and Shape\tColor\tCondition\tFunction\tStyle\tGender\tOwner\tOther words"
+print "Code\tLine #\tHouse\tRoom\tContainer\tObject\tQuantity\tValue\tSubstrate\tTrim or Accouterments\tContents\tSize and Shape\tColor\tCondition\tFunction\tStyle\tGender\tOwner\tOther words\tNumOther"
 
 code_iter = re.finditer('Code:\s*(.*?)\n', text)
 iter = re.finditer("Inventory begins(.*?)Inventory ends", text, re.DOTALL)
@@ -151,4 +151,5 @@ while True:
 			print "\t" + str(", ".join(sorted(styles))),      # Style
 			print "\t",                                       # Gender
 			print "\t",                                       # Owner
-			print "\t" + str(", ".join(sorted(others)))       # Other words
+			print "\t" + str(", ".join(sorted(others))),      # Other words
+			print "\t" + str(len(others))                     # Number of Other words
