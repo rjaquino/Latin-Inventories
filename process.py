@@ -23,7 +23,7 @@ for line in lines:
 	attachment = ""
 	phrase = ""
 
-	m = re.search('\tItem(.*)', line)
+	m = re.search('\tIt[eu]m(.*)', line)
 	if not m is None:
 		item = m.group(1);
 		words = item.split();

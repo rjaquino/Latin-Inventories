@@ -1,8 +1,8 @@
-Line	Substrates	Colors	Accessories	Styles	Numbers	Others	Attachment
+Line	Substrates	Colors	Accessories	Contents	Styles	Numbers	Others	Attachment
 17 						due, unum 	et, mastre, pestrenhum 	
 18 						unum 	cacobum 	
 19 						duo 	camisia 	
-20 						quodam 	balansie, cupre 	
+20 	cupre 					quodam 	balansie 	
 21 						duo 	calegni 	
 22 	fuste 					quodam 	cassia 	cum brachie et ponderibus lapideis ad ponderandum farinam
 23 						unum 	(damage), ...., barucellandi, farinam, scrineum 	
@@ -20,7 +20,7 @@ Line	Substrates	Colors	Accessories	Styles	Numbers	Others	Attachment
 36 						una 	barrila 	
 37 						alia 	barila 	cum uno bodio
 38 						due 	chavarine 	
-39 						unum 	capellum, de feurre 	
+39 	de feurre 					unum 	capellum 	
 40 							cruvellum 	
 41 						una 	lanterna 	
 42 	stagni 					duo 	gobelli 	
@@ -48,7 +48,7 @@ Line	Substrates	Colors	Accessories	Styles	Numbers	Others	Attachment
 64 							(damage), …. 	
 65 				vacuum 		unum 	scrineum 	
 66 						quadam 	cacxieta 	
-67 						quadam 	de ferro, furni, pala 	cum quadam furca ferri
+67 	de ferro 					quadam 	furni, pala 	cum quadam furca ferri
 68 						duo 	gavanholi 	
 69 						quadam 	de fusta, furni, pala 	
 70 							ad, de pertitis, furni, opus 	
