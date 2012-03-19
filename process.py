@@ -12,24 +12,20 @@ try:
 except IOError:
 	print "Invalid filename"
 	sys.exit()
-	
+
 text = f.read()
-
-code_iter = re.finditer('Code:\t(.*?)\n', text)
-# code =  m.group(1)
-
-# m = re.search('Sex:\t(.*)\n', text)
-# sex =  m.group(1)
 
 print "Code\tLine #\tHouse\tRoom\tContainer\tObject\tQuantity\tValue\tSubstrate\tTrim or Accouterments\tContents\tSize and Shape\tColor\tCondition\tFunction\tStyle\tGender\tOwner\tOther words"
 
+code_iter = re.finditer('Code:\s*(.*?)\n', text)
 iter = re.finditer("Inventory begins(.*?)Inventory ends", text, re.DOTALL)
+
 while True:
 	try: 
 		m = iter.next()
 		c = code_iter.next()
 	except StopIteration:
-		break;
+		break
 
 	# should error check group count?
 	code = c.group(1)
