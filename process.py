@@ -9,6 +9,8 @@ m = re.search('Sex:\t(.*)\n', text)
 sex =  m.group(1)+'\n'
 
 line_num = 0
+
+print "Line\tSubstrates\tColors\tAccessories\tStyles\tNumbers\tOthers\tAttachment"
 for line in lines:
 	line_num = line_num + 1
 	substrates = []
@@ -88,17 +90,26 @@ for line in lines:
 					phrase = ""
 				else:	
 					others.append(word)
-		print line
-		print "Line: "+str(line_num)
-		print "\tSubtrates: " + str(sorted(substrates))
-		print "\tColors: " + str(sorted(colors))
-		print "\tAccessories: " + str(sorted(accessories))
-		print "\tContents: " + str(sorted(contents))
-		print "\tStyles " + str(sorted(styles))
-		print "\tNumbers: " + str(sorted(numbers))
-		print "\tOthers: " + str(sorted(others))
-		print "\tAttachment: " + attachment
-		print ""
+		#print line
+		#print "Line: "+
+		print str(line_num),
+		#print "\tSubtrates: " + 
+		print "\t" + str(", ".join(sorted(substrates))),
+		#print "\tColors: " + 
+		print "\t" + str(", ".join(sorted(colors))),
+		#print "\tAccessories: " + 
+		print "\t" + str(", ".join(sorted(accessories))),
+		#print "\tContents: " + 
+		print "\t" + str(", ".join(sorted(contents))),
+		#print "\tStyles " + 
+		print "\t" + str(", ".join(sorted(styles))),
+		#print "\tNumbers: " + 
+		print "\t" + str(", ".join(sorted(numbers))),
+		#print "\tOthers: " + 
+		print "\t" + str(", ".join(sorted(others))),
+		#print "\tAttachment: " + 
+		print "\t" + attachment
+		# print ""
 		# r = re.search('(un[ua][ms]?|du[oae]s?|tr(es|ia|ibus)|quattuor|quinque|sex|septem|octo|novem|decem|ali(um|a|o)s?|qu(i|a|o)dam) ([a-zA-Z]*) ', line)
 		# if not r is None:
 		# 	print "Number = "+r.group(1)+'\n'
