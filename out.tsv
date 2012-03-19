@@ -1,60 +1,60 @@
-Line	Substrates	Colors	Accessories	Contents	Styles	Numbers	Others	Attachment
-6 						due, unum 	et, mastre, pestrenhum 	
-7 						unum 	cacobum 	
-8 						duo 	camisia 	
-9 	cupre 					quodam 	balansie 	
-10 						duo 	calegni 	
-11 	fuste 					quodam 	cassia 	cum brachie et ponderibus lapideis ad ponderandum farinam
-12 						unum 	(damage), ...., barucellandi, farinam, scrineum 	
-13 						unum 	armarium 	
-14 						una 	comendendi, tabuleta 	cum tabulonis
-15 						unum 	matalassium 	
-16 					listatum 	unum 	pulvinar 	
-17 	laneam 					unam 	culcitram 	
-18 						due 	targia 	
-19 						tres 	aysate 	
-20 						unam 	securam 	
-21 						due 	picque 	
-22 						una 	balista 	cum croco et tribus carcaysiis cum cadrellis
-23 	stagni 					unum 	picarrium 	
-24 						duo 	bancqui 	
-25 						una 	barrila 	
-26 						alia 	barila 	cum uno bodio
-27 						due 	chavarine 	
-28 	de feurre 					unum 	capellum 	
-29 							cruvellum 	
-30 						una 	lanterna 	
-31 	stagni 					duo 	gobelli 	
-32 	de vitrio 					duo 	bosselli 	
-33 						quadam 	brilla 	
-34 						unum 	gavanholum 	
-35 						unum 	canistrum, panem, tenendi 	
-36 						quadam 	gaveda 	
-37 						unum 	canestellum 	
-38 						due 	cacxiete 	
-39 							iiiior, mappe 	
-40 						quinque 	lintheamina 	
-41 						quinque 	manutergia 	
-42 							de pebrello, mulieris, tunicam 	
-43 							de blavo, hominis, tunicam 	
-44 						unum 	mantellum, rubeum 	
-45 	panni 					uno 	de rubeo, exequiis, expendito, floreno, franseum, gardacossium, in, mulierem, pignore, positum, pro, pro 	
-46 						unum 	canestellum. 	
-47 						unum 	lectum, tabularum 	cum bassachia et culcitra
-48 						due, unum 	chalonum, et, flassiate 	
-49 							4, lintheamina 	
-50 						unum 	maniculum, pauci, valoris 	
-51 							cotardia, de camelino 	
-52 						quodam 	gippa 	
-53 							(damage), …. 	
-54 				vacuum 		unum 	scrineum 	
-55 						quadam 	cacxieta 	
-56 	de ferro 					quadam 	furni, pala 	cum quadam furca ferri
-57 						duo 	gavanholi 	
-58 						quadam 	de fusta, furni, pala 	
-59 							ad, de pertitis, furni, opus 	
-60 						tres 	ad, farinam, parvi, sachi, tenendum 	
-61 						duo 	lintheamina 	
-62 						una 	mappeta 	
-63 						unam 	de blavo, mulieris, tunicam 	
-64 						unum 	cossetum, mulieris, rubeum 	
+Line	Substrates	Colors	Accessories	Contents	Styles	Numbers	Others
+6 						due, unum 	et, mastre, pestrenhum
+7 						unum 	cacobum
+8 						duo 	camisia
+9 	cupre 					quodam 	balansie
+10 						duo 	calegni
+11 	fuste 		cum brachie et ponderibus lapideis ad ponderandum farinam 			quodam 	cassia
+12 						unum 	(damage), ...., barucellandi, farinam, scrineum
+13 						unum 	armarium
+14 			cum tabulonis 			una 	comendendi, tabuleta
+15 						unum 	matalassium
+16 					listatum 	unum 	pulvinar
+17 	laneam 					unam 	culcitram
+18 						due 	targia
+19 						tres 	aysate
+20 						unam 	securam
+21 						due 	picque
+22 			cum croco et tribus carcaysiis cum cadrellis 			una 	balista
+23 	stagni 					unum 	picarrium
+24 						duo 	bancqui
+25 						una 	barrila
+26 			cum uno bodio 			alia 	barila
+27 						due 	chavarine
+28 	de feurre 					unum 	capellum
+29 							cruvellum
+30 						una 	lanterna
+31 	stagni 					duo 	gobelli
+32 	de vitrio 					duo 	bosselli
+33 						quadam 	brilla
+34 						unum 	gavanholum
+35 						unum 	canistrum, panem, tenendi
+36 						quadam 	gaveda
+37 						unum 	canestellum
+38 						due 	cacxiete
+39 							iiiior, mappe
+40 						quinque 	lintheamina
+41 						quinque 	manutergia
+42 							de pebrello, mulieris, tunicam
+43 							de blavo, hominis, tunicam
+44 						unum 	mantellum, rubeum
+45 	panni 					uno 	de rubeo, exequiis, expendito, floreno, franseum, gardacossium, in, mulierem, pignore, positum, pro, pro
+46 						unum 	canestellum.
+47 			cum bassachia et culcitra 			unum 	lectum, tabularum
+48 						due, unum 	chalonum, et, flassiate
+49 							4, lintheamina
+50 						unum 	maniculum, pauci, valoris
+51 							cotardia, de camelino
+52 						quodam 	gippa
+53 							(damage), ….
+54 				vacuum 		unum 	scrineum
+55 						quadam 	cacxieta
+56 	de ferro 		cum quadam furca ferri 			quadam 	furni, pala
+57 						duo 	gavanholi
+58 						quadam 	de fusta, furni, pala
+59 							ad, de pertitis, furni, opus
+60 						tres 	ad, farinam, parvi, sachi, tenendum
+61 						duo 	lintheamina
+62 						una 	mappeta
+63 						unam 	de blavo, mulieris, tunicam
+64 						unum 	cossetum, mulieris, rubeum

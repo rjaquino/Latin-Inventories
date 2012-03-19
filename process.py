@@ -40,12 +40,13 @@ for line in lines:
 		words = item.split();
 		for idx, word in enumerate(words):
 			if word == "cum":
-				accessories.append(" ".join(words[idx:]))
+				attachment = " ".join(words[idx:])
 
 				# remove /fol from end of attachment
 				pos = attachment.find('/')
 				if pos != -1:
 					attachment = attachment[:pos-1]
+				accessories.append(attachment)
 				break;
 			if word == "de":
 				phrase = "de"
@@ -117,7 +118,7 @@ for line in lines:
 		#print "\tNumbers: " + 
 		print "\t" + str(", ".join(sorted(numbers))),
 		#print "\tOthers: " + 
-		print "\t" + str(", ".join(sorted(others))),
+		print "\t" + str(", ".join(sorted(others)))
 		# print ""
 		# r = re.search('(un[ua][ms]?|du[oae]s?|tr(es|ia|ibus)|quattuor|quinque|sex|septem|octo|novem|decem|ali(um|a|o)s?|qu(i|a|o)dam) ([a-zA-Z]*) ', line)
 		# if not r is None:
