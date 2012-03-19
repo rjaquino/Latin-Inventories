@@ -2,7 +2,7 @@ import re
 from constants import *
 from helpers import *
 
-f = open('sample.txt', 'r')
+f = open('134801.txt', 'r')
 text = f.read()
 lines = text.splitlines()
 m = re.search('Sex:\t(.*)\n', text)
@@ -10,7 +10,7 @@ sex =  m.group(1)+'\n'
 
 line_num = 0
 
-print "Line\tSubstrates\tColors\tAccessories\tStyles\tNumbers\tOthers\tAttachment"
+print "Line\tSubstrates\tColors\tAccessories\tContents\tStyles\tNumbers\tOthers\tAttachment"
 for line in lines:
 	line_num = line_num + 1
 	substrates = []
