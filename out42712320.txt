@@ -1,0 +1,4698 @@
+Code	Line #	House	Room	Container	Object	Quantity	Value	Substrate	Trim or Accouterments	Contents	Size and Shape	Color	Condition	Function	Style	Gender	Owner	Other words	NumOther
+1405-03 	6 				tinam 	aliam, quandam 			cum tribus plethis cum suo torculari 		parvam 								1
+1405-03 	7 					unum 					capacitatis, milhayrolarum 	rubeo 						circa, plenum, vas, vel, vino, xxiiii 	6
+1405-03 	8 					alia, duo 					capacitatis, milhayrolarum 	rubeo 						circa, plena, quodlibet, vasa, vel, viginti, vino 	7
+1405-03 	9 					alia, decem, duo 					capacitatis, milhayrolarum, parva 	rubeo 						circa, fol, plena, quolibet, vasa, vel, vino 	7
+1405-03 	10 					sex, unam 					capacitatis, parvam 	albo 						botam, milhayroarum, plenam, vino 	4
+1405-03 	11 					duo 				vacua 								vasa, vinaria 	2
+1405-03 	12 									vacuas 	parvas 							botas, quatuor 	2
+1405-03 	13 				discaricatoria 	unam 													1
+1405-03 	14 				trahedoyram 	unam 													1
+1405-03 	15 				imbutum 	unum 					magnum 								1
+1405-03 	16 				bancum 	unum 		fusteum 											1
+1405-03 	17 					unum 		ferratum 										pohayce, pro puteo, sive 	3
+1405-03 	19 					unam 			cum tabulonis 									mensalem, tabulam 	2
+1405-03 	20 				dreyssatorium 	unum 													1
+1405-03 	21 					unam 												mensam, retro, scueriam 	3
+1405-03 	22 																	pavesia, quatuor 	2
+1405-03 	23 										parva 							adornment, aule, duodecim, pavesia, pro paramento, que, scussella, sive, tenentur 	9
+1405-03 	24 					unam 												psitaci, tristegam 	2
+1405-03 	26 					unam 			cum duabus bredolis 									bed, colcam 	2
+1405-03 	27 					unam, unum 												culcitram, et, matalacium 	3
+1405-03 	28 				transverserium 	unum 													1
+1405-03 	29 					tres 						viridis 						cortinarum, curtains, petias, tele 	4
+1405-03 	30 					tria, unum 												auricularia, bancale, cushion, et, pillows 	5
+1405-03 	31 					unam 												capciam, de nuce, eam, et, infra, res, sequentes, sistentes, viz 	9
+1405-03 	33 					unum 						de livido 						Guillelmi, ipsius, mantellum 	3
+1405-03 	34 					duo 												capucia, de violeto, domine 	3
+1405-03 	35 					unum 						rubeum 						domine, et, mantellum 	3
+1405-03 	36 				capcietam 	quandam 			cum certis cartis seu instrumentis 		parvam 								1
+1405-03 	37 					alias, duas 			cum certis velis et camisiis domine 		parvas 							capcietas, modici, valoris 	3
+1405-03 	39 				colcam 	unam 					parvam 								1
+1405-03 	40 				matalacium 	unum 					parvam 								1
+1405-03 	41 				transverserium 	unum 													1
+1405-03 	42 				flassiatam 	unam 													1
+1405-03 	43 					unam, unum 		panni 				lividi 						burdi, copertam, copertorium, et 	4
+1405-03 	44 				capciam 	unam 					parvam 								1
+1405-03 	45 				eminam 	unam 		fusteam 					fractam 						1
+1405-03 	46 				panalem 	unam 		fusteam 											1
+1405-03 	47 					unam 							veterem 					capciam, farinam 	2
+1405-03 	48 				serrapos 	unum 		ferreum 											1
+1405-03 	49 				canistrum 	unum 			cum aliquibus sissoriis fuste 										1
+1405-03 	51 					unam 			cum tabulonis 									mensalem, tabulam 	2
+1405-03 	52 				bredolam 	unam 													1
+1405-03 	53 					unam 					parvam 		veterem 					modici, tabulam, valoris 	3
+1405-03 	54 				concam 	unam 					magnam 								1
+1405-03 	55 				concam 	aliam, unam 					parvam 				perforatam 				1
+1405-03 	56 				cacobos 	duos, duos 													1
+1405-03 	57 				calfatoria 	tria 		cupri 											1
+1405-03 	58 					unam 												fol, sartaginem 	2
+1405-03 	59 				grahilham 	unam 													1
+1405-03 	60 				tianum 	unum 		cupri 											1
+1405-03 	61 				tripedes 	duos 							veteres 						1
+1405-03 	62 					duas, tres 		stagni 										agferas, et, potos, quatuor, salerias 	5
+1405-03 	63 																	aquiferas, quatuor 	2
+1405-03 	64 				solerias 	duos 		stagni 											1
+1405-03 	65 					sex, sex 		stagni 										et, platos, salserias, scutellas, sesdecim 	5
+1405-03 	66 					unam, unam 								ad portandum 				et, mastram, panem, tabula 	4
+1405-03 	67 				tamissium 	unum 													1
+1405-03 	68 					duas, duo 		ferri 										astes, et, gratusas, sive, verii 	5
+1405-03 	69 				tionerium 	unum 		ferri 											1
+1405-03 	70 					duos, tres 												brocos, et, sedendi, sellas 	4
+1405-03 	71 					unam 							veterem 					capciam, modici, valoris 	3
+1405-03 	72 				candelabra 	duo 		lotoni 											1
+1405-03 	73 					unum 					terre 							augnum, urseum 	2
+1405-03 	74 				ollas 	duas 					terre 								1
+1405-03 	76 				colcam 	unam 			cum bredola 		magnam 								1
+1405-03 	77 				matalacium 	unum 													1
+1405-03 	78 				lintiamina 	duo 													1
+1405-03 	79 				copertam 	unam 						de livido 							1
+1405-03 	80 				flassiatam 	unam 													1
+1405-03 	81 					unum 						de livido 						copertorium, modici, valoris 	3
+1405-03 	82 					quinque 			cum listis [edging] rubeis 									bancalium, cushions, petias 	3
+1405-03 	83 					quinque 												cortinarum, de tela, petias, viridi 	4
+1405-03 	84 				translitium 	unum 													1
+1405-03 	85 					unam 						de livido 						copertam, lecti 	2
+1405-03 	86 					unum 					parvum 							copertorium, de burdo 	2
+1405-03 	87 					unam 									listatam 			flassiatam, fol 	2
+1405-03 	88 				capciam 	unam 							veterem 						1
+1405-03 	89 					aliam, quandam 												capciam, eam, et, infra, res, sequentes, sistentes, viz 	8
+1405-03 	93 												bonas, debiles 					longerias, quam, quatuordecim, tam 	4
+1405-03 	97 				colcam 	unam 			cum uno matalacio 		parvam 								1
+1405-03 	98 					duas 												flassiatas, modici, valoris 	3
+1405-03 	99 				jarras 	quinque 					terre 								1
+1405-03 	100 				bassinetam 	unam 					parvam 								1
+1405-03 	102 					unam 		auri, panni 	foderatum 									Guillelmi, Johannis, Massilete, Urbaneum, civitatis, coloris, condam, de variis, dicte, dicti, dicti, dixit, domine, exequiarum, existentem, florenis, in, mantellum, penes, pignore, pro duodecim, pro expensis, reperisse, se, viholeti 	25
+1405-03 	103 					quandam, quandam 		panni, panni 	foderatum 			lividi, lividi, rubei 	veteri 					Cambale, Guillelmi, Rixendem, civitate, coloris, coloris, condam, cotam, dicte, dicti, dicti, dominam, domine, et, et, funeria, in, mantellum, penes, penes, pignore, pro cera, quendam, sindone, sistentes 	25
+1405-6 	6 				mapas 	duas 							debiles 						1
+1405-6 	7 				lintiamina 	duo 							bona 						1
+1405-6 	8 					alia, sex 												lintiamina, modici, valoris 	3
+1405-6 	9 				tohalholas 	duas 													1
+1405-6 	10 				potum 	unum 		stagni 											1
+1405-6 	11 					aygaderiam, unam 		stagni 											0
+1405-6 	12 					unum 					parvum 							bassinum, modici, valoris 	3
+1405-6 	13 					unum 					parvum 							cacobum, modici, valoris 	3
+1405-6 	14 				capcias 	duas 													1
+1405-6 	15 				capciam 	unam 							fractam 						1
+1405-6 	16 					duas 					terre 							pictas, scutellas 	2
+1405-6 	17 					duobus, una, una, unum 		lanea 										colca, et, lectum, munitum, traverseriis 	5
+1405-6 	18 				ayssatam 	unam 							veterem 						1
+1405-6 	19 					duo 												candelabra, metalli 	2
+1405-6 	20 				oran 	unum 													1
+1405-6 	21 					unam 												auricularis, frunamfruvam 	2
+1405-6 	22 																	forsites, quasdam 	2
+1405-6 	23 																	condulatorias, quatuor 	2
+1405-6 	24 					unam 												boyssiam, pictam 	2
+1405-6 	25 					unum 												barral, cadum, sive 	3
+1405-6 	26 				crucibolla 	duo 													1
+1405-6 	27 					unum 												lapideum, morterium 	2
+1405-6 	28 					alium, unum 							fractum 					marmoreum, morterium 	2
+1405-6 	29 					tres 												ebraicos, libros, pargameni 	3
+1405-6 	30 				ollam 	unam 					terram 								1
+1405-6 	31 					unum 												corii, modicii, sive, stuch, stuerium, valoris 	6
+1405-6 	32 					unum, unum 												Fol, coffrum, dixit, infra, invenisse, pecten, quod 	7
+1405-6 	33 					aliam, unam, unam 					parvam 		fractam 					et, integram, lapideam, pilam 	4
+1405-6 	34 					duorum, unum 												endes, pedum 	2
+1405-6 	35 				scutellas 	quinque 		fusteas 											1
+1405-6 	36 				sisoria 	sex 		fustea 											1
+1405-6 	37 					unam 								ad tenendum 				gabiam, gallinas 	2
+1405-6 	38 				bancos 	tres 		fusteos 											1
+1405-6 	39 				sellas 	tres 		fustas 											1
+1405-6 	40 					unum 		burelli, panni 										mantuletum, modici, valoris 	3
+1405-6 	41 				mantuletum 	alium, unum 		burelli, panni 					laceratum 						1
+1405-6 	42 				gallum 	unum 													1
+1405-6 	43 				gallinas 	tres 													1
+1405-6 	44 																	cardas, quasdas 	2
+1405-6 	45 					unam 												cupertellam, olle 	2
+1405-6 	46 					pro tribus, unum 					parvum 							Leonem, Vide, bassinum, existentem, grossis, in, penes, pignore 	8
+1405-6 	47 					quandam 												Massilie, Sarturan, civitatis, confrontatam, dicte, dicto, et, finibus, in, loco, servilem, sitam, suis, territorio, vineam 	15
+1405-07 	67 				ensem 	unum 			cum vazina 										1
+1405-07 	68 					unum 												glavium, pictum 	2
+1405-07 	69 				peyreriam 	unam 													1
+1405-07 	70 					duas 												privatas, servellerias 	2
+1405-07 	71 					quandam 					magnam 							capciam, dixit, infra, primo, quam, reperisse, res, sequentes 	8
+1405-07 	73 				dobletum 	unum 			cum manicis panni de viridi 										1
+1405-07 	74 					quandam 						rubeam 	veterem 					modici, tunicam, valoris 	3
+1405-07 	75 							pannum 										de cotono, pictum, quendam 	3
+1405-07 	76 					quandam 						croceam 						istoriatam, sayham 	2
+1405-07 	77 				vanoham 	quandam 			cum floribus lilii 			albam 							1
+1405-07 	78 					quandam 		panni 										chopam, cororis, dicti, domine, “roheyha” 	5
+1405-07 	79 					aliam, quandam 		panni 	cum decemocto condulis perlarum minutarum? 									chopam, eiusdem 	2
+1405-07 	80 					quandam 		panni 	cum tribus magnis condulis et duobus parvis perlarum 			sanguiney 						coloris, domine, mantam 	3
+1405-07 	81 					duas 		burelli, panni 	foderatas 			rubea 						Guillelmi, chopas, dicti, felezenorum, sayha 	5
+1405-07 	82 				aurelherios 	duos 		cirici 				rubei 	veteres 						1
+1405-07 	83 					quandam 		panni 	foderatam 			livida, lividi, viridis 						choipam, coloris, crossed, domini, out, tela 	6
+1405-07 	84 					novem 												condulos, perlarum 	2
+1405-07 	85 					alium, duo, tria 						sanguiney 						capucia, coloris, coloris, dicti, domine, et, “roheyha” 	7
+1405-07 	86 					aliud 						lividi 						capucium, coloris, domine, quoddam 	4
+1405-07 	87 					trium, unam 		argenti 				albam 						ponderis, taciam, unciarum 	3
+1405-07 	88 				culhayreros 	duos 		argenti 											1
+1405-07 	89 																	Guillelmi, capucium, coloris, condam, de roheyha, dicti, quoddam 	7
+1405-07 	90 							argenti 										coffetum, coralli, dixit, et, infra, patrenostres, quem, quendam, quosdam, reperisse 	10
+1405-07 	91 					quandam 												decemseptem, fronteriam, operum, perlarum 	4
+1405-07 	92 					unam 			cum vigintinovem clavellis computatis funella? et pendenti 			argenteam 			superdeauratam 			domine, zonam 	2
+1405-07 	93 					octo 												condulos, perlarum 	2
+1405-07 	94 					alios, octo 												conduletos, perlarum 	2
+1405-07 	95 							aureum 	cum uno lapide viridi 									anulum, quendam 	2
+1405-07 	96 					alium 		aureum 	cum uno lapide viridi et quatuor perlis 									anulum, quendam 	2
+1405-07 	97 				anulum 	alium, unum 		aureum 	cum una perla 										1
+1405-07 	98 					unum 		ferratum 		vacuum 	parvum 							cofrum, viride 	2
+1405-07 	99 				cofretum 	aliud, unum 													1
+1405-07 	100 					aliam, quandam 												capciam, dixerunt, infra, quam, reperisse, res, sequentes 	7
+1405-07 	102 				boysseas 	tres 		fusteas 											1
+1405-07 	103 																	lintiamina, undecim, usata 	3
+1405-07 	104 					duas, una 					longior 							altera, cotonine, est, pessias, quarum, sive, telas 	7
+1405-07 	105 					duo, trium 												laserata, lintiamina, penna, telarum 	4
+1405-07 	106 					aliud, duarum, unum 												laseratum, lintiamen, prunum, telarum 	4
+1405-07 	107 					octo 												mapas, usatas 	2
+1405-07 	108 																	duodecim, tohalhonos, usatos 	3
+1405-07 	109 				longerias 	sex 													1
+1405-07 	110 				manutergia 	tria 													1
+1405-07 	111 				tohalholas 	duas 													1
+1405-07 	112 					quinque 												capitergia, v 	2
+1405-07 	113 					aliam, quandam 												capciam, dixerunt, infra, instrumenta, invenisse, nucis, plura, quam, se 	9
+1405-07 	114 					unum 												baliste, crocum 	2
+1405-07 	115 				capcietam 	unam 					parvam 								1
+1405-07 	118 					una, uno, uno, unum 					parvum 							et, flassiata, lectum, matalacio, munitum, traverserio 	6
+1405-07 	119 				capciam 	unam 				vacuam 			veterem 						1
+1405-07 	120 				capcietam 	aliam, unam 					parvam 								1
+1405-07 	122 				concam 	unam 		cupri 			magnam 								1
+1405-07 	123 				bassinam 	unam 		cupri 			rotundam 								1
+1405-07 	124 				bassinum 	unum 		cupri 			parvum 								1
+1405-07 	125 					duorum, unum 					capacitatis 							broquorum, cacobum 	2
+1405-07 	126 					alium, unius, unum 					capacitatis 							broqui, cacobum, et, medii 	4
+1405-07 	127 				tianetum 	unum 		cupri 											1
+1405-07 	128 				sargaginem 	unam 													1
+1405-07 	129 					aliam, unam 						castanearum 			perforatam 			chestnuts, for, pan, roasting, sartaginem 	5
+1405-07 	130 				craticulam 	unam 													1
+1405-07 	131 				tionerium 	unum 		ferri 											1
+1405-07 	132 					unum 			cum pedibus 									aste, sive, veru 	3
+1405-07 	133 					alia, duo 					parva 							astes, sive, veru 	3
+1405-07 	134 					unum 												lapideum, morterium 	2
+1405-07 	135 					alium, unum 												marmoreum, morterium 	2
+1407-01 	3 					quandam 												fayssiarum, quatuor, vineam 	3
+1407-01 	4 					quandam, tres 					terram 							apud, fratres, scitam 	3
+1407-01 	8 				saqui 	tres 					magni 								1
+1407-01 	9 					duo 							antiqui 					calaviami, de sapo 	2
+1407-01 	10 					due, trabes 													0
+1407-01 	11 					una 			cum taulonis 									mensales, tabula 	2
+1407-01 	12 					duo 					parvi 							banqui, fol, scanni, sive 	4
+1407-01 	13 				broquum 	unum 			cum cubertello 										1
+1407-01 	15 					unum 												ad vendendum, taulerium, vinum 	3
+1407-01 	16 				colca 	una 		fuste 	cum uno banco parvo 										1
+1407-01 	17 				matalacium 	unum 		lane 											1
+1407-01 	18 					unum 												plume, pulvinar 	2
+1407-01 	19 				trayllissium 	unum 													1
+1407-01 	20 					una 							debilis 					flassiata, satis 	2
+1407-01 	21 					unam 		fuste 										cessoria, cloquear, et 	3
+1407-01 	22 																	alfe, coffini 	2
+1407-01 	23 				crucibola 	duo 													1
+1407-01 	24 				tianum 	unum 		cupri 											1
+1407-01 	25 					alia, due, una 		cupri 			magna, parva 							et, sartagines 	2
+1407-01 	26 					unum 												aste, sive, verutum 	3
+1407-01 	27 					una 					longeria 								0
+1407-01 	28 					unum 												f, lintiamen, par 	3
+1407-01 	29 				lanterna 	una 													1
+1407-01 	30 					una 		fuste 										ad mensurandum, bladum, uchena 	3
+1407-01 	31 					quinque, una 					longitudinis 							capsieta, de nuce, fuerunt, infra, palmorum, quam, reperte, res, subscripte 	9
+1407-01 	33 				potum 	unum 		stagni 											1
+1407-01 	34 				platum 	unum 		stagni 											1
+1407-01 	35 				sculette 	sex 		stagni 											1
+1407-01 	36 				grazalleti 	sex 		stagni 											1
+1407-01 	37 					due 					longerie 								0
+1407-01 	38 				manutergium 	unum 													1
+1407-01 	39 				mape 	due 													1
+1407-01 	40 				lintiamina 	tria 													1
+1407-01 	41 					unum 												Fol, Massiliensis, autem”, breviarum, calumpna, ecclesie, eiusdem, eodem, et, et, et, finit, folio, folio, folio, in, in, in, in, incipit, incipit, incipit, incipit, kalendarium, mortuorum, officium, post, primo, quarta, quod, ultimo, usus, “eruere”, “mini”, “tu 	35
+1407-01 	42 				gracua 	una 		ferri 											1
+1407-01 	43 					unum 												modici, scriptorium, valoris 	3
+1407-01 	44 																	forfitete, modici, quedam, valoris 	4
+1407-01 	45 					aliud, unum 												breviarum, en, eodem, eodem, et, et, et, fini, finit, folio, folio, hominabatur, imperfectum, in, in, in, incipit, incipit, kalendarium, post, primo, quod, ultimo, “ab, “antiphona”, “missionem”, “volutas” 	27
+1407-01 	46 												antique 					de sapo, tramete 	2
+1407-01 	49 				cloquearia 	octo 		fuste 											1
+1407-01 	50 							fuste 										cessoria, quatuor 	2
+1407-01 	51 					duo 		ferri 										candelabra, modici, valoris 	3
+1407-01 	52 				endes 	unum 													1
+1407-01 	53 					unum 												lapidis, morterium 	2
+1407-01 	54 				enbuti 	duo 		ferri 			parvi 								1
+1407-01 	55 					una 					parva 							capsieta, modici, valoris 	3
+1407-01 	56 					una 												cella, sedendi 	2
+1407-01 	59 				torcular 	unum 													1
+1407-01 	60 				descargadoyra 	una 													1
+1407-01 	61 				trahedoyra 	una 													1
+1407-01 	62 					unum 							novum 					Fol, embutum 	2
+1407-01 	63 					unum 				vacuum 	capacitatis, magnum 							circa, milhayrolas, vas, vel 	4
+1407-01 	64 					aliud, unum 				vacuum 	capacitatis 							circa, milhayrolas, vas, vel 	4
+1407-01 	65 					duo 				vacua 	capacitatis 							cuiuslibet, milhayrolas, vasa 	3
+1407-01 	66 					tres 				vacue, vacue 								bote, sive, vegetes 	3
+1407-01 	67 					alia, octo, una 					capacitatis 							bota, milhayrolas 	2
+1407-01 	68 				carratellum 	unum 													1
+1407-01 	69 					duos 												cartinos, sive, tolares 	3
+1407-01 	70 				broquetum 	unum 													1
+1407-01 	71 				scalam 	unam 													1
+1407-01 	72 				ayssadas 	duas 													1
+1407-01 	73 				secures 	duas 													1
+1407-01 	74 					unam 												piram, pitam 	2
+1407-01 	77 					unum 												dreysatorium, sive, tauletum 	3
+1407-01 	78 					duos 												sive, tabula, taulonos 	3
+1407-01 	79 					unam, unam 		panni 	folratam 			alba, lividis 						almussam, penna 	2
+1407-01 	80 				superllitilium 	unum 													1
+1407-01 	81 					unam 		panni 										capam, nigri 	2
+1407-01 	82 					unam 												gavachiam, tele 	2
+1407-01 	83 				colcam 	unam 		fuste 											1
+1407-01 	84 				matalacium 	unum 		lane 											1
+1407-01 	85 					unum 		lane 										plume, pulvinar 	2
+1407-01 	86 				mapas 	tres 													1
+1407-01 	87 					unam, unum 												et, longeriam, manutergium 	3
+1407-01 	88 					una 					parva 							capsieta, de sapo 	2
+1407-01 	89 																	Fol, lintiamina, quatuor 	3
+1407-01 	90 					unam 												caderiam, pro assellando 	2
+1407-01 	91 				scannum 	unum 													1
+1407-01 	92 				flassiatas 	duas 													1
+1407-01 	93 					unam 												capsietam, cubertello, modici, sive, valoris 	5
+1407-01 	94 					unam 												ad modum, arquibanqui, capsiam, factam, in, quo, reperte, res, sunt, suscripte 	10
+1407-01 	96 					unum 		panni 				lividis 						hominis, mantulum 	2
+1407-01 	97 					unam 		panni 										chopa, hominis, obscuri 	3
+1407-01 	98 				saculum 	unum 			cum diversis scripturis 										1
+1409-01 	8 					aliquam 												d, quantitatem 	2
+1409-01 	9 				platelleti 			fuste 					novi 						1
+1409-01 	10 										parvum 							, cofretum, fol 	3
+1409-01 	11 				mastram 	unam 							bonam 						1
+1409-01 	12 					aliam 												mastram, pauci, valoris 	3
+1409-01 	13 				banquetum 														1
+1409-01 	14 				mastretam 						parvam 								1
+1409-01 	15 																	tabulas, tendendi 	2
+1409-01 	16 					unius 												broqui, cacobum, circa 	3
+1409-01 	17 				pavezium 														1
+1409-01 	18 				bloquerios 														1
+1409-01 	19 				putatoyra 														1
+1409-01 	20 				faussilhas 														1
+1409-01 	21 				tamisium 														1
+1409-01 	22 				cruvellum 														1
+1409-01 	23 				culcitram 						parvam 								1
+1409-01 	24 				flaciatam 														1
+1409-01 	25 				coffinos 														1
+1409-01 	26 				berroerios 					vacuos 									1
+1409-01 	27 					duarum 					eminarum 							berroerium, circa, farine, plenum 	4
+1409-01 	28 				gavanholam 						parvam 								1
+1409-01 	29 							ferri 										forcam, ventandi 	2
+1409-01 	30 							fuste 										ad ventandi, forcatos 	2
+1409-01 	31 					trium 												cellestam, pedum 	2
+1409-01 	32 					aliam, trium 												cellam, pedum, rodundam 	3
+1409-01 	33 				olam 						terre 		novam 						1
+1409-01 	34 				platelletum 			fuste 											1
+1409-01 	35 																	pauci, scrineum, valoris 	3
+1409-01 	36 				scutellam 			fuste 			magnam 								1
+1409-01 	37 					quodam 												in, orri 	2
+1409-01 	40 																	, alphe, coffines 	3
+1409-01 	43 																	crucibolum, fol 	2
+1409-01 	46 				vege 														1
+1409-01 	47 										capacitatis, milhayrolarum 							botas, circa, quolibet, vel 	4
+1409-01 	48 																	barrilam, pauci, valoris 	3
+1409-01 	49 				enbutum 			ferri 											1
+1409-01 	50 				barutellos 														1
+1409-01 	55 																	flaciatas, pauci, valoris 	3
+1409-01 	56 				pulvinar 								bonum 						1
+1409-01 	57 				pulvinaria 	alia 							illacerata 						1
+1409-01 	58 				relham 														1
+1409-01 	59 				ayssadas 						magnas 								1
+1409-01 	60 				ayssadam 						parvam 								1
+1409-01 	61 										parvos 							ad selcloridum, ayssadonos 	2
+1409-01 	62 				tripedes 														1
+1409-01 	63 				graticulam 														1
+1409-01 	64 				sartaginem 														1
+1409-01 	65 				crucibola 														1
+1409-01 	66 				cubertellas 			ferri 											1
+1409-01 	67 				astiles 			ferri 											1
+1409-01 	69 				broquos 														1
+1409-01 	70 				scandallum 														1
+1409-01 	71 				cartaletos 														1
+1409-01 	72 				gavedetam 														1
+1409-01 	73 				clame 														1
+1409-01 	74 				tortoyrieras 														1
+1409-01 	75 										terre 		novas 					fol, olas 	2
+1409-01 	76 				platos 			fustes 			magnos 								1
+1409-01 	77 							fuste 										duodenam, platelletarum 	2
+1409-01 	78 					aliam 		fuste 										duodenam, scissoriorum 	2
+1409-01 	79 				sausserios 			fuste 											1
+1409-01 	80 				scutellas 						terre 								1
+1409-01 	81 				grazillam 														1
+1409-01 	82 				cloquearia 			fuste 											1
+1409-01 	83 				barrale 			fuste 											1
+1409-01 	84 				trissonos 			fuste 											1
+1409-01 	85 					trium 		corey 										botam, cart, circa 	3
+1409-01 	86 					unius 						canne 						mapam, planam 	2
+1409-01 	87 					unus 						canne 						circa, manutergium, medie 	3
+1409-01 	88 					unius 						canne 						circa, et, mapam, medie 	4
+1409-01 	89 					aliam 												mapam, pauci, valoris 	3
+1409-01 	90 				tinam 	bugaderiam 													1
+1409-01 	91 				barrilam 														1
+1409-01 	92 				banastam 	bugaderiam 													1
+1409-01 	93 								cum tabulonis 									mensale, tabulam 	2
+1409-01 	94 				banquos 			fuste 											1
+1409-01 	95 											de livido 						mantam, quale, tale 	3
+1409-01 	96 				pitalfos 						terre 								1
+1409-01 	97 				securin 								bonam 						1
+1409-01 	98 				securin 	aliam 							bonam, debilem 						1
+1409-01 	99 																	cayssetam, pauci, valoris 	3
+1409-01 	100 				cruvellum 														1
+1409-01 	101 																	enbutam, marinarum 	2
+1409-01 	102 				sarrias 								vetulas 						1
+1409-01 	103 																	lanternam, pauci, valoris 	3
+1409-01 	104 					quodam 												Aycardi, cultellum, dicti, lateris 	4
+1409-01 	106 																	bastum, munitum 	2
+1409-01 	107 																	fol, lapidis, morterios 	3
+1409-01 	110 																	carteriatam, vine 	2
+1409-01 	111 					quandam 					terram 								1
+1409-01 	112 																	orti, tabulas 	2
+1409-02 	4 					aliud 												hospicium, quoddam 	2
+1409-02 	5 				vineam 	quandam 													1
+1409-02 	6 					unum 												, ortum 	2
+1409-02 	7 				ferraginem 	quandam 													1
+1409-02 	8 																	censuales, reginales, solidos 	3
+1409-02 	10 					octo, unam 					metretarum 							circa, vegetem, vel 	3
+1409-02 	11 					aliam, septem 					metretarum 							circa, vegetem, vel 	3
+1409-02 	12 				palium 	unum 		de sirico 			parvum 				listatum 				1
+1409-02 	13 					unam 		de siricis, de sirico 				croceo, livido, rubeo 						altaris, cabatam, et, et, mappam 	5
+1409-02 	14 					unam 		de sirico 										Clementis, Pape, ar, banderiam, de armis, domini 	6
+1409-02 	15 				banderiam 	aliam 		de sirico 	cum clavibus ecclesie 										1
+1409-02 	16 					unam 		de lino 				lividis 						cabatam, de listis, mappam 	3
+1409-02 	17 					duarum, duos 												petiarum, quolibet, retaules 	3
+1409-02 	18 								cum quatuor ymaginibus de vorio? 									de vorio, oratorium, quoddam 	3
+1409-02 	19 				candelabrum 			ferri 											1
+1409-02 	20 				candelabrum 	aliud 		de fusta 											1
+1409-02 	21 							pannum 				rubeum 						paramentum, quendam, sive 	3
+1409-03 	6 					duarum, unum 					capacitatis, metretarum 							carratellum, circa, vel 	3
+1409-03 	7 				clipeum 	unum 													1
+1409-03 	8 				bassachiam 	unam 							debilem 						1
+1409-03 	9 				lodicem 	unum 							debilem 						1
+1409-03 	10 				bancum 	unum 		fusteum 											1
+1409-03 	11 					unum 												fabri, martellum 	2
+1409-03 	12 				crucibolum 	unum 													1
+1409-03 	13 					unam 			cum tabulonis pauci valoris 									mensalem, tabulam 	2
+1409-03 	15 				tinellum 	unum 													1
+1409-03 	16 					unam 								ad tenendum 				jarram, oleum 	2
+1409-03 	17 				tripedem 	unum 													1
+1409-03 	18 					unum 												Johannis, cartularium, dicti, magistri, quondam, rationum 	6
+1409-03 	19 					quandam 					magnam 							Anthoni, Blacassi, arcam, domo, in 	5
+1409-03 	20 					unum 		panni 	cum penna de vars 			rubey 						anticum, mantellum, mulieris 	3
+1409-03 	21 				pulvinar 	unum 													1
+1409-03 	22 					unam 				vacuam 	capacitatis, metretarum 							Johannis, Juvenis, botam, circa, domo, est, in, quo, vel, vinariam 	10
+1409-03 	23 				cacobum 	unum 													1
+1409-03 	24 				dolum 	unum 													1
+1409-03 	25 				tamisium 														1
+1409-03 	27 																	, hospicium, quoddam 	3
+1409-03 	28 					aliud 												fol, hospicium, quoddam 	3
+1409-03 	29 					duarum, quandam 												circa, eminatarum, ferraginem, vel 	4
+1409-03 	30 					aliam, quandam, unius 												circa, eminate, ferraginem, vel 	4
+1409-03 	31 					quandam, trium 					terram 							circa, eminatarum, vel 	3
+1409-03 	32 					quandam 												carteriatarum, circa, vel, vineam 	4
+1409-03 	33 					alios, unum 												inter, ortos, ortum, situm 	4
+1409-03 	34 					quandam 												eminatarum, ferraginem 	2
+1409-03 	35 					unum 												, viridarium 	2
+1409-03 	36 					duarum, quandam 												Errore, cancellatum, eminatarum, ferraginem, fuerat, ideo, scriptum 	7
+1409-03 	37 					unam 			cum certis olivariis 		terram 								0
+1409-03 	38 					quandam 					terram 								1
+1409-03 	39 				cazale 	unum 													1
+1409-04 	6 					alia, una 			cum duobus taulonis 									de sapo, mensalis, tabula 	3
+1409-04 	7 					alia 			cum taulonis 		parva 							mensalis, tabula 	2
+1409-04 	8 								cum armis Monteolivarum 		parvi 							ad parandum, aulam, scuti, viginti 	4
+1409-04 	9 					una 			cum timbro armeiato armis Monteolivorum 									picta, targata 	2
+1409-04 	10 				targeta 	alia, una 													1
+1409-04 	11 					duabus 												annone, circa, circa, eminas, in, sachis, tele 	7
+1409-04 	12 					aliis, duabus 												amigdalarum, circa, eminas, in, integrarum, quatuor, sachis, tele 	8
+1409-04 	13 					duo 												coffini, palme 	2
+1409-04 	14 					unum 					parvum 							modici, scannum, valoris 	3
+1409-04 	15 				matalacium 	unum 		lane 											1
+1409-04 	16 					aliud, duo, unum 					parvum 		bonum 					est, est, et, pulvinaria, quorum, satis 	6
+1409-04 	17 					unum 		lane, pannum 	cum rosis rubeis circumcrota? 									armeiatum, et 	2
+1409-04 	18 					unum 												oratorium, pictum 	2
+1409-04 	19 				coffrum 	unum 			cum sera et clave vacuum latitudinis trium palmorum 				antiquum 						1
+1409-04 	22 																	certe, et, scripture 	3
+1409-04 	23 				capsia 	alia, una 			cum diversis ferramentis antiquis 				antiqua 						1
+1409-04 	24 					unum 					parvum 		antiquis 					diversis, erant, in, instrumenta, instrumentis, plenum, quo, saculum, sunt 	9
+1409-04 	25 					aliud 							antiquis 					instrumentis, plenum, saculum 	3
+1409-04 	26 					aliud 					parvulum 		antiquis 					instrumentis, plenum, saculum 	3
+1409-04 	27 				capsia 	alia, una 				vacua 			antiqua 						1
+1409-04 	28 					una 												Blaquerie, ad mensurandum, bladum, de Monteolivo, dicitur, dicti, emina, esse, nobilis, que 	10
+1409-04 	29 					alia 							antiqua 					capsia, fuerunt, in, qua, reperte, res, subscripte 	7
+1409-04 	31 				platelleti 	due, sex 		stagni 			magni 								1
+1409-04 	32 					alii, sex 		line, stagni 			parvi 							above, ad magr, brackets, de modum, facti, include, platelleto, tesariorumcesariorum, the 	9
+1409-04 	33 				platelli 	duo 		stagni 			parvi 								1
+1409-04 	34 					una 					magna 							de Bugia, picta, scutella 	3
+1409-04 	35 																	amigdalarum, modica, quantititas, sic 	4
+1409-04 	36 				platellum 	unum 		stagni 			parvum 								1
+1409-04 	37 				scutelle 	tres 		stagni 											1
+1409-04 	38 				grazaleti 	tres 		stagni 											1
+1409-04 	39 					una 							antiqua 					capsia, de sapo, valde 	3
+1409-04 	40 				poti 	duo 		stagni 											1
+1409-04 	41 				misserabe 	due 		stagni 											1
+1409-04 	42 				celleria 	una 		stagni 											1
+1409-04 	43 					duo 												endes, sive, tripodes 	3
+1409-04 	44 					unum 		cupri 										calfatorium, cubertello, fol, sine 	4
+1409-04 	45 				conca 	una 		cupri 			magna 								1
+1409-04 	46 				crucibola 	duo 		ferri 											1
+1409-04 	47 				scamnum 	unum 					magnum 								1
+1409-04 	48 					unum 												lapidis, morterium 	2
+1409-04 	49 					unum 					parvum 							de marmere, porterium 	2
+1409-04 	50 				payroleta 	una, unum 		cupri 											1
+1409-04 	51 				grazale 	unum 		fuste 											1
+1409-04 	52 				payrolum 	unum 		cupri 											1
+1409-04 	53 				trissoni 	duo 													1
+1409-04 	54 					una 												Blacayroni, ad balneum, de Monteolivo, dicitur, dicti, esse, que, tina 	8
+1409-04 	55 					aliud, duo, unum 					magnum, parvum 							astile, et 	2
+1409-04 	56 				candelebra 	duo 		ferri 											1
+1409-04 	57 					una 												mastra, modici, valoris 	3
+1409-04 	58 					una 		cupro, de lotono 			parva 							ad auriendum, capsieta, oleum 	3
+1409-04 	59 				sartago 	una 													1
+1409-04 	60 				gratula 	una 		ferri 											1
+1409-04 	61 				cessoria 			fuste 											1
+1409-04 	62 				payrolum 	unum 													1
+1409-04 	65 					unum 							antiquum 					coopertorium, de burdo 	2
+1409-04 	66 				flassiata 	una 													1
+1409-04 	67 					duo, trium 												lintiamina, telarum 	2
+1409-04 	68 					unum 			cum uno parvo matalacio 		parvum 							lectum, pedisseque 	2
+1409-04 	69 					duo 												coopertorio, de burdo, modici, valoris 	4
+1409-04 	70 					una 					parva 							modici, valoris, vanoa 	3
+1409-04 	71 				lintiamina 	duo 					parva 								1
+1409-04 	72 								cum cera et clave 									capsia, de sapo, fuerunt, in, quadam, reperte, res, scrineo, sive, suscripte 	10
+1409-04 	74 																	cabedelli, fili, sexagintaseptem 	3
+1409-04 	75 				breviarium 	unum 							antiquum 						1
+1409-04 	76 					unum 		ferratum 			parvum 							coffretum, pictum 	2
+1409-04 	77 								cum sera et clave 				antiqua 					capsia, de nuce, fuerunt, in, quadam, reperte, res, subscripte 	8
+1409-04 	79 					alia 			cum clave et sera 									capsia, de sapo, fuerunt, in, in, picta, qua, quadam, reperte, res, subscripte 	11
+1409-04 	81 					una 			cum sera et clave quam clavem dicitur esse penes Blaycayronum de Monteolivo 		magnum 							ante, capsia, de sapo, dictum, lectum 	5
+1409-04 	82 					unum 			cum uno tampasio? sine armis antiquum 		parvum 							bradum, cortine, cortinum, sive, supercelum, tele 	6
+1409-04 	83 				pectinen 	unum 		ad canapis 											1
+1409-04 	84 					una 												flassiata, modici, valoris 	3
+1409-04 	85 										parvum 							modici, pulvinar, valoris 	3
+1409-04 	86 					novem 					magnam 		antique 					ad secandum, aulam, caunissecauvisse, ficus, fuerunt, modici, reperte, supra, vaoris 	9
+1409-04 	89 				flassiata 	una 													1
+1409-04 	91 				lectum 	unum 			cum bassagie dumtaxat [a bed with nothing more than a bottom mattress] 		parvum 								1
+1409-04 	92 				scrineum 	unum 			cum sera et clave de nuce in quo fuerunt reperte res sub scripte 										1
+1409-04 	94 				mape 	sex 					parve 								1
+1409-04 	95 																	manutergia, sexdecim 	2
+1409-04 	96 					quinque 					longerie 								0
+1409-04 	97 					duarum, quinque, trium 							debilia 					lintiamina, satis, telarum 	3
+1409-04 	98 					duarum 												lintiamina, quatuordecim, telarum 	3
+1409-04 	99 					aliud 			cum sera et clave in quo fuerunt reperte res subscripte 									de sapo, scrineum 	2
+1409-04 	101 					decem 					longitudinis 							palmorum, petie, quatuor, quelibet, tele 	5
+1409-04 	102 					alia, unius 					longitudinis 	canne 						petia, quedam, tele 	3
+1409-04 	103 					una 		panni 				albe, viridis 	antique 					Dulciete, chopa, domine, florata, ipsius, penne 	6
+1409-04 	104 					unum 		panni 				de vernisio 						mantulum, obscuri, simplex 	3
+1409-04 	105 					unum 		panni 	folrata 									Dulciete, de pureya, deblis, domine, domine, ipsius, mantulum, penna, satis, varia 	10
+1409-04 	106 				lintiamina 	duo 					parva 								1
+1409-04 	107 					duplex, unum 			cum cotono satis debile 									copertorium, de syrico 	2
+1409-04 	108 					unum 												Monteolivorum, armeiatum, armis, copertorium, de virido 	5
+1409-04 	109 					duo 			cum floquetis de syrico rubeo 									auricularia, de chameloto 	2
+1409-04 	110 					unum 												copertorium, cunebuli, de syndone 	3
+1409-04 	111 					unum 		panni 										capucium, domine, pureya 	3
+1409-04 	112 					aliud, unum 		panni 				lividis 						capucium, clari 	2
+1409-04 	113 				capucium 	aliud 		panni 				viridis 							1
+1409-04 	114 					unum 												muscale, palme 	2
+1409-04 	115 					aliud, unum 							antiquum 					auricule, de pulpra 	2
+1409-04 	116 				coffretum 	unum 		ferratum 		vacuum 	parvum 								1
+1409-04 	117 					aliud, unum 		ferratum 	cum sera et clave cum uno marsupio de sirico et uno sencheto 									coffrum, de viridi, pictum 	3
+1409-04 	118 					aliud 		ferratum 	cum ymaginibus cum ser sine clave 									coffretum, pictum 	2
+1409-04 	119 				bredula 	una 		fuste 											1
+1409-04 	120 					alia 			cum sera et clave firmata quam clavem dicitur esse penes dictum Blaycayronum de Monteolivo et infra quam dicuntur esse plura et diversa instrumenta 		parva 							capsia, de sapo 	2
+1409-04 	123 					un 				vacua 			antiqua 					capsia, de sapo 	2
+1409-04 	124 					unam 								ad tenendum 				farinam, scrineum 	2
+1409-04 	125 				mastra 	una 													1
+1409-04 	126 				tamisium 	unum 													1
+1409-04 	127 					una, unum 								ad portandum 				panem, tabula 	2
+1409-04 	128 				serra 	una 													1
+1409-04 	129 				ranoyra 	una 													1
+1409-04 	130 				aysade 	due 													1
+1409-04 	131 				aysadonum 	unum 													1
+1409-04 	132 				securas 	una 							fracta 						1
+1409-04 	133 				pica 	una 													1
+1409-04 	134 					due 					magne 			ad faciendum 				baneste, bugadam, laundry 	3
+1409-04 	135 										terre 			ad tenendum 				certa, jarrarum, oleum, quantitas 	4
+1409-04 	136 																	modici, plate, quedam, valoris 	4
+1409-04 	137 				saculum 	saumate, unum 													1
+1409-04 	140 				pontem 	unum 													1
+1409-04 	141 				torcular 	unum 													1
+1409-04 	142 				dolium 	unum 													1
+1409-04 	143 					tria 				vacua 	capacitatis, milhayrolarum 							cuiuslibet, vasa, vinaria 	3
+1409-04 	144 										capacitatis, milhayrolarum 	rubeo 						circa, cuiuslibet, plena, quatuor, vasa, vel, vinaria, vino 	8
+1409-04 	145 					tria 				vacua 	capacitatis, milhayrolarum 							circa, cuiuslibet, vasa, vel, vinaria 	5
+1409-04 	146 					alia, due, septem 			cum modico vino rubeo 		capacitatis, milhayrolarum 							acetum, altera, circa, est, et, in, quarum, vegetes, vel 	9
+1409-04 	147 				embutum 	unum 													1
+1409-04 	148 				carratellum 	unum 				vacuum 	parvum 								1
+1409-04 	149 				descargadoyra 	una 													1
+1409-04 	150 					unum 								ad tenendum 				taulerium, vinum 	2
+1409-04 	151 					una 				vacua 	capacitatis, milhayrolarum 							bota, circa, vel 	3
+1409-04 	152 				scala 	una 													1
+1409-04 	153 					novem, trabes 		de pinus 			magnas, parvas 							et, fol, inter, vi 	4
+1409-04 	154 					quandam 					terram 								0
+1409-04 	155 					quandam 					terre 							et, possessionem, vinee 	3
+1409-04 	156 					quandam 												, vineam 	2
+1409-04 	157 					quandam 					terram 							et, vineam 	2
+1409-04 	158 					quandam 												, bastitam, et 	3
+1410-01 	6 										terre 							oleriam, viridam 	2
+1410-01 	7 				drayumdrayuni 														1
+1410-01 	8 				crucibolum 														1
+1410-01 	9 				scutellos 			stagni 					debiles 						1
+1410-01 	10 				sartaginem 						parvam 								1
+1410-01 	11 				tripedem 														1
+1410-01 	12 				oleriam 						terre 								1
+1410-01 	13 				potum 			stagni 			parvum 								1
+1410-01 	14 																	cultellum, laterale 	2
+1410-01 	15 				brocum 														1
+1410-01 	16 				grazele 			fuste 											1
+1410-01 	17 				ayssadonum 						magnum 								1
+1410-01 	18 				ayssadam 														1
+1410-01 	19 																	pauci, secures, valoris 	3
+1410-01 	20 				collarecium 														1
+1410-01 	21 				ayssetam 														1
+1410-01 	22 				ayssonum 														1
+1410-01 	23 				ayssadonum 	circulandi 													1
+1410-01 	24 																	frunem, ligamen, sive 	3
+1410-01 	25 				olame 														1
+1410-01 	26 				scalpeum 														1
+1410-01 	27 				cacobum 						parvum 		novum 						1
+1410-01 	28 				berroerios 														1
+1410-01 	29 					saumate 												fol, illaneatos, saquos 	3
+1410-01 	30 					novem 							bona, debilia 					lintiamina, quam, tam 	3
+1410-01 	31 					duarum 							bonam 					Francie, cannarum, mappam, operis 	4
+1410-01 	32 				manutergium 														1
+1410-01 	33 																	mappas, pauci, planas, valoris 	4
+1410-01 	34 				panalem 			fusteam 					debilem 						1
+1410-01 	35 				securim 								fractum 						1
+1410-01 	36 												bonum 					comunis, lodicem, valoris 	3
+1410-01 	37 				lodicem 	alium 							debilem 						1
+1410-01 	38 				barrale 														1
+1410-01 	39 				barrale 	alium 					parvum 								1
+1410-01 	40 																	mense, tabulonos 	2
+1410-01 	41 								cum trissono 									lapidis, morterium 	2
+1410-01 	42 				culheriam 			ferream 							perforatam 				1
+1410-01 	43 																	branilinas, camisias, et, pauci, valoris 	5
+1410-01 	44 																	brunitum, panerios 	2
+1410-01 	45 				massa 														1
+1410-01 	46 					unam 						albam 	debilem 					hominis, tunicam 	2
+1410-01 	47 					aliam 												homins, nigram, pauci, tunicam, valoris 	5
+1410-01 	48 				pulvinar 														1
+1410-01 	49 																	bassachiam, pauci, valoris 	3
+1410-01 	50 								cum basto 									nigri, pili, ronssinum, socum 	4
+1410-01 	51 								cum basto 			rubey 						mulum, pili, socum 	3
+1410-01 	52 																	castri, dicti, ecclesia, est, fol, frachissa, in, mensalis, qua, tabula 	10
+1410-01 	56 				ayssadas 						magnas 								1
+1410-01 	57 				ayssadas 						parvas 								1
+1410-01 	58 																	ayssadonos, de rompre 	2
+1410-01 	59 				ayssadonum 	circulandi 					parvum 								1
+1410-01 	60 																	pauci, serram, serrandi, valoris 	4
+1410-01 	61 				gaffam 														1
+1410-01 	62 				faussilhas 								debiles 						1
+1410-01 	63 				benhas 														1
+1410-01 	64 							vitri 										cartayronum, medium 	2
+1410-01 	65 																	rastellandi, rastellos 	2
+1410-01 	66 										parvum 							cacobum, pauci, valoris 	3
+1410-01 	67 				pulvinar 														1
+1410-01 	68 				tripedem 														1
+1410-01 	69 					duas, sex 					capacitatis, metretarum 							botas, circa, quamlibet, vel 	4
+1410-01 	70 				glavium 														1
+1410-01 	71 				furcam 			ferri 											1
+1410-01 	72 					duas, una 		ferri 					fracta 					arrestadoyras, est, quarum 	3
+1410-01 	73 				cartale 														1
+1410-01 	75 												debilem 					cad, caltadoyram 	2
+1410-01 	76 				carratellum 														1
+1410-01 	79 								cum torculari 									dolium, vinarium 	2
+1410-01 	80 				carratellos 														1
+1410-01 	81 				relham 														1
+1410-01 	82 																	ayssetam, fol 	2
+1410-01 	85 				vineam 	quandam 													1
+1410-01 	86 					quandam 					terram 								0
+1410-01 	87 				ortale 	unum 													1
+1410-02 	7 					unum 		ferratum 				albi 						cofretum, coloris, depictum 	3
+1410-02 	8 				cofretum 			de coreo, ferratum 			parvum 								1
+1410-02 	9 										magnum, rotundum 							depictum, massappanum 	2
+1410-02 	10 					alium 												cornutum, depictum, massapanum 	3
+1410-02 	11 																	absque, bustriam, cupertello, depictam 	4
+1410-02 	12 										parvam 		fractam 					bassinam, fol 	2
+1410-02 	13 					unam 							bonam 					cabatam, cabaturis, diversorum, et, nigris, sufficientem, tohalholam 	7
+1410-02 	14 					unam 												Francie, comunis, longeriam, operis, valoris 	5
+1410-02 	15 								cum tabulonis 									mensalem, tabulam 	2
+1410-02 	16 				bancum 	unum 		fusteum 											1
+1410-02 	17 										rotundam 							cedendi, cellam 	2
+1410-02 	18 				capciam 														1
+1410-02 	19 												debilium 					gantelletorum, par 	2
+1410-02 	20 							de coreo 										stuch, tacearum 	2
+1410-02 	21 					uno 		ferri 										astile, candelabro, munitum, sive, tornalho 	5
+1410-02 	22 				tripedem 														1
+1410-02 	23 							canapum 										ad penthinandum, portem 	2
+1410-02 	24 				cupertellam 			ferri 											1
+1410-02 	25 				tyonerium 			ferri 											1
+1410-02 	26 					circulandi, duos, unum 												ayssadonetum, bladum 	2
+1410-02 	27 							de ferro 										ensem, modici, valoris 	3
+1410-02 	28 							de ferro 										armigeris, cappellum 	2
+1410-02 	29 							de ferro 										par, pauci, sotularium, valoris 	4
+1410-02 	30 				faussilham 														1
+1410-02 	31 				gracusam 														1
+1410-02 	32 																	certam, ferramente, pauci, quantitatem, valoris 	5
+1410-02 	34 					duas 		fuste 										cloquearia, et, scutellas 	3
+1410-02 	35 				salserium 			stagni 											1
+1410-02 	36 							ferri 										ad ventandum, bladum, futas 	3
+1410-02 	37 																	drayni, draynum, pauci, valoris 	4
+1410-02 	38 							fusteam 										ca, colcam 	2
+1410-02 	39 				pulvinar 														1
+1410-02 	40 					unum 												fol, lodicem, modici, valoris 	4
+1410-02 	41 																	tabulam, tendendi 	2
+1410-02 	42 				crucibolum 														1
+1410-02 	43 				cartyassium 								debilem 						1
+1410-02 	45 				jarram 								bonam 						1
+1410-02 	46 				pohadoyram 			de ferro 					veterem 						1
+1410-02 	47 				jarram 	aliam 							fractam 						1
+1410-02 	48 																	lapidis, mo, morterios 	3
+1410-02 	49 				pavesium 								fractum 						1
+1410-02 	51 					unius 												dogas, dolhi, vinarii 	3
+1410-02 	52 				calcadoyram 														1
+1410-02 	53 																	ad enbotandum, enbutum, vinum 	3
+1410-02 	54 					sex, tres 				vacuas 	capacitatis, metretarum 							circa, quamlibet, vegetes, vel 	4
+1410-02 	55 				scalam 														1
+1410-02 	58 				fol 	quandam 					terram 								1
+1410-02 	59 					quandam 												, aream 	2
+1410-02 	60 					quandam 					terram 								0
+1410-02 	61 					quandam 												, vineam 	2
+1410-02 	62 								cum acurulo? ferri ad ponderandum 									lapideum, pondus 	2
+1410-02 	65 				ferraginem 	quandam 													1
+1410-02 	66 				ferraginem 	aliam, quandam 													1
+1410-02 	67 					unum 												, fol, ortum 	3
+1410-02 	69 					duobus, unam, uno, uno 												colcam, et, lodicibus, matalacio, munitam, pulvinari 	6
+1410-02 	70 					unum 					capacitatem, metretarum 							carratellum, circa, et, vegetem, vel 	5
+1410-02 	71 				bancum 			fusteum 											1
+1410-02 	72 				mastram 														1
+1410-02 	73 										parvam 							tabulam, tendendi 	2
+1410-02 	74 					aygaderiam 		stagni 										et, potum 	2
+1410-02 	75 				cacobum 														1
+1410-02 	76 				bassinam 														1
+1410-02 	77 							ferratum 										cofrum, depictum 	2
+1410-02 	78 								cum trissono 									lapidis, morterium 	2
+1410-02 	79 				tripedem 														1
+1410-02 	80 				barrilam 				cum vinco mo bodio 										1
+1410-02 	81 				calfatorium 			cupri 											1
+1410-02 	82 				cupertellam 			ferri 											1
+1410-02 	83 										parvum 							metalli, passinum 	2
+1410-02 	84 				scrineum 								veterem 						1
+1410-02 	85 				astile 						parvum 								1
+1410-02 	86 				ayssadonum 	circulandi 					parvum 								1
+1410-03 	5 																	annone, emine 	2
+1410-03 	6 				lintiamina 	sex 							nova 						1
+1410-03 	7 					due 							bone 					Francie, mappe, operis 	3
+1410-03 	8 					una 					longeria 		bona 					Francie, operis 	2
+1410-03 	9 							stagni 										et, missirabam, potum 	3
+1410-03 	10 				lodicem 								novum 						1
+1410-03 	11 				mastram 								novam 						1
+1410-03 	12 												novam 					tabulam, tendendi 	2
+1410-03 	13 				sartaginem 						parvam 								1
+1410-03 	15 				crucibolum 														1
+1410-03 	16 					octo, octo 		fuste 										et, scissoria, scutellas 	3
+1410-03 	17 				barrilam 														1
+1410-03 	18 				brocum 														1
+1410-03 	19 				putadoyram 														1
+1410-03 	20 				ayssadam 														1
+1410-03 	21 				piolam 														1
+1410-03 	22 				cloquearia 			fuste 											1
+1410-03 	23 				bassachiam 														1
+1410-03 	24 				pulvinar 				cum pluma 										1
+1410-03 	25 					due 												de dogarie, de mena, et, reliqua, spesso, vegetes, viz 	7
+1410-03 	26 											albo, rubeo 						de vino, fol, metrete, quam, tam 	5
+1410-03 	28 					unus 												, ortus 	2
+1410-03 	29 																	quedam, vinea 	2
+1410-04 	6 					unum 					capacitatis, metretarum 	rubeo 						circa, plenum, puro, vas, vel, vino 	6
+1410-04 	7 					unam 					capacitatis, metretarum 	rubeo 						circa, plenam, puro, vegetem, vel, vino, vino 	7
+1410-04 	8 					septem, unam 		linfe 										botam, circa, luife, luise, milayrolarum, plenam, vel 	7
+1410-04 	9 					sex 				vini 		rubey 						circa, dicte, in, meri, milhayrolas, puri, quadam, sistentes, tutricis, vegete, vel 	11
+1410-04 	10 					duas 				vacuas 	capacitatis, metretarum 							circam, quamlibet, vegetes, vel 	4
+1410-04 	11 					unum 				vacuum 	metretarum 							carratellum, circa, vel 	3
+1410-04 	12 					unam 					capacitatis, metretarum 							Andree, Cavallerii, botam, circa, domo, est, in, que, vel 	9
+1410-04 	13 										capacitatis, metretarum 							Jordani, St, circa, domini, domo, fol, in, sistens, vas, vel 	10
+1410-04 	14 																	calcadoyram, et, traheydoyram 	3
+1410-04 	15 				collarecium 														1
+1410-04 	16 							fuste 										ad vendendum, mensuram, vinum 	3
+1410-04 	17 				mensuram 	aliam 		fuste 			parvam 								1
+1410-04 	20 					quinque, unum 				fabarum 	eminarum 							bassacus, circa, dicte, est, plenum, qui, sacum, tutricis 	8
+1410-04 	21 																	circa, panalaes, paumole 	3
+1410-04 	22 									fabarum 			veterum 					circa, eminam, vel 	3
+1410-04 	23 												boni, debiles 					bassaqui, quam, tam 	3
+1410-04 	24 				gavanholum 														1
+1410-04 	25 																	banastonorum, duodenam, vinarium 	3
+1410-04 	26 				ensem 														1
+1410-04 	27 				clipeum 														1
+1410-04 	28 							lanciam 											0
+1410-04 	29 				pavesium 														1
+1410-04 	30 										magnam 							ab, capciam, de pictam, dictam, erant, extra, hereditatem, in, instrumenta, primo, qua, res, sequentes, tangencia, viz 	15
+1410-04 	31 				lintiamina 								bona 						1
+1410-04 	32 																	Francie, mappam, operis, pauci, valoris 	5
+1410-04 	33 																	crudam, mappam, planam 	3
+1410-04 	34 												bonas, debiles 					flaciatas, quam, tam 	3
+1410-04 	35 				matalacium 								bonum 						1
+1410-04 	36 				relham 														1
+1410-04 	38 																	Anthonius, Fulconis, ayssadonum, habet, quem 	5
+1410-04 	40 								cum tabulonis 		parvam 							mensalem, tabulam 	2
+1410-04 	41 				bancum 			fuste 											1
+1410-04 	42 					duas 												amigdolorum, circa, eminas 	3
+1410-04 	43 				putatoyram 														1
+1410-04 	44 				gracusam 														1
+1410-04 	45 				cartale 														1
+1410-04 	46 								cum trissono 									lapidis, morterium 	2
+1410-04 	47 				potum 			stagni 											1
+1410-04 	48 																	avellanarum, circa, eminas 	3
+1410-04 	49 					unam 												circa, eminam, grossam, nutam 	4
+1410-04 	50 					decem 												avene, certa, eminas 	3
+1410-04 	51 				tripedem 														1
+1410-04 	52 				cacobum 														1
+1410-04 	53 				astile 			ferreum 											1
+1410-04 	54 																	gavanholam, viniarium 	2
+1410-04 	55 				trenchador 														1
+1410-04 	56 				jarre 					vacue 									1
+1410-04 	57 										magnam, milhayrolarum 							circa, erat, infra, jarram, mediam, oley, quam 	7
+1410-04 	58 				capcietam 						parvam 								1
+1410-04 	59 				pioletam 						parvam 								1
+1410-04 	60 										magnam 							banastam, vinarium 	2
+1410-04 	61 				cruvellum 														1
+1410-04 	62 				scutellas 	quinque 		fuste 											1
+1410-04 	63 				scissoria 			fuste 											1
+1410-04 	64 				barriletam 						parvam 								1
+1410-04 	65 																	eminam, fayolorumfayclorum 	2
+1410-04 	66 				pulvinar 														1
+1410-04 	67 																	azina, bruni, nigri, pili 	4
+1410-04 	68 							ferreys 										de gantelleti, par 	2
+1410-04 	69 																	tabula, tendendi 	2
+1410-04 	70 					alia 												tabula, tendendi 	2
+1410-04 	71 				bressium 														1
+1410-04 	72 								cum dimidio 									florenos, in, peccunia 	3
+1410-04 	75 				stabulum 														1
+1410-04 	76 					duas 												carteriatias, vinee 	2
+1410-04 	77 																	carteriata, vinee 	2
+1410-04 	78 										terre 							, circa, eminatas, vel 	4
+1410-04 	79 																	, avellanete, carteriatam, circa, vel 	5
+1410-04 	80 										terre 							, eminatas 	2
+1410-04 	81 					unius 												circa, ortum, pavalate, vel 	4
+1410-04 	82 																	orti, tabulam 	2
+1410-04 	83 					unius 												circa, eminat, eminate, fol, olivayretam, vel 	6
+1410-04 	84 										terre 							circa, eminatas, vel 	3
+1410-04 	85 																	, orti, tabulas 	3
+1410-04 	86 																	orti, tabulas 	2
+1410-04 	87 				eminatam 						terre 								1
+1410-04 	88 				eminatas 						terre 								1
+1410-04 	91 																	Bertrandus, Martini, circa, debit, fl 	5
+1410-04 	92 																	Hugo, Maurini, cause, debit, fl, fol, mutui 	7
+1412-01 	6 				banquos 			fuste 											1
+1412-01 	7 																	canestellam, vinirium 	2
+1412-01 	8 				capciam 														1
+1412-01 	9 				brocum 														1
+1412-01 	11 							fuste 										et, scissoria, scutellas 	3
+1412-01 	12 				canestellam 				cum manelha 										1
+1412-01 	13 				postelham 														1
+1412-01 	14 				tariam 														1
+1412-01 	15 				scalam 														1
+1412-01 	16 				tabulam 			de pinu 			longam 								1
+1412-01 	17 				colcam 			fusteam 											1
+1412-01 	18 				cabrionos 														1
+1412-01 	19 				inferius 														1
+1412-01 	21 				gallinas 														1
+1412-01 	22 				pollasses 														1
+1412-01 	23 				pollas 														1
+1412-01 	24 				pollastrium 														1
+1412-02 	6 				matalacia 														1
+1412-02 	7 				pulvinar 														1
+1412-02 	8 				lintiamina 														1
+1412-02 	9 											livide 						cortinam, tele 	2
+1412-02 	10 				mastram 														1
+1412-02 	11 				tendedoyras 														1
+1412-02 	12 				camisium 														1
+1412-02 	13 				crucibola 														1
+1412-02 	14 								cum tabulonis 									mensales, tabulas 	2
+1412-02 	15 																	collarecium, vinarium 	2
+1412-02 	16 				tripedes 														1
+1412-02 	17 				cupertellas 			ferri 											1
+1412-02 	18 																	ayssadonos, de rompre 	2
+1412-02 	19 				piolam 														1
+1412-02 	20 				vezibol 														1
+1412-02 	21 				rebrandatorium 														1
+1412-02 	22 				crunellum 														1
+1412-02 	23 							fusteas 										et, sezenam, uchenam 	3
+1412-02 	24 				payrolum 						parvum 								1
+1412-02 	25 				cacobum 														1
+1412-02 	26 																	mappas, planas 	2
+1412-02 	27 																	Francie, longerias, operis, usatas 	4
+1412-02 	28 							fuste 										duodenam, scissoriorum 	2
+1412-02 	29 							fuste 										duodenam, platellarum 	2
+1412-02 	30 				bassaquos 								debiles 						1
+1412-02 	31 								cum trissono 									lapidis, morterium 	2
+1412-02 	32 				banquos 			fuste 											1
+1412-02 	33 										rotundas 							cellas, fol, sedendi 	3
+1412-02 	34 				cayssonum 			fuste 											1
+1412-02 	35 				olerias 						terre 								1
+1412-02 	36 				tionerium 			de ferro 											1
+1412-02 	37 				cumasculumcrunasculum 														1
+1412-02 	38 								cum pullo 									azinam, nigri, pili 	3
+1412-02 	39 				potos 			stagni 											1
+1412-02 	40 										terre 							duodenam, scutellarum 	2
+1412-02 	41 							argenti 										Aynardi, Guillelmo, Johannem, a, calcis, condam, dictum, grossi, habuit, per, pro certa, quantitate, quos, sibi, vendite 	15
+1412-02 	42 																	, hospicium 	2
+1415-01 	5 																	hospicium, quoddam 	2
+1415-01 	6 					aliud 			cum quodam viridario... 									hospicium, quoddam 	2
+1415-01 	8 										terre 							fayssia, quedam 	2
+1415-01 	9 																	fayssia, quedam, vinee 	3
+1415-01 	10 					alia 												fayssia, fol, quedam, vinee 	4
+1415-01 	11 					alia 					terre 							fayssia, quedam 	2
+1415-01 	12 					alia 					terre 							et, possessio, quedam, vinee 	4
+1415-01 	13 							ferrago 										Al, Enquisition, Massilie, civitatem, infra, modica, quedam, scita, viz 	9
+1415-01 	14 								cum quodam viridarium ... 		parvum 							hospicium, quoddam 	2
+1415-01 	19 					de octo 					magna, magnis 	rubeo, rubeo 						Antonio, ad partem, ante, dicte, domus, et, illa, ipsius, orrios, pervenerunt, plena, plenis, quatuor, que, subtus, sunt, vasa, vasis, vinaria, vinariis, vino, vino, viz 	23
+1415-01 	20 				carratelli 	duo 													1
+1415-01 	21 					aliud, de aliis 			cum quodam trolhio que sunt retro januam penoris dicti hospicii et que sunt in alio hospicio 		magnum 							Antonium, ad dictum, diversis, et, pervenit, predicta, quoddam, remanet, ultra, vas, vasa 	11
+1415-01 	22 					unum 			cum quodam aratro fortato? garnito 		magnum 							Anthonii, Santolhi, ad partem, dicti, pervenit, temprerium, vas 	7
+1415-01 	24 					una, una, unum 			cum _____ panale duobus palmis plantandi vineas cum duobus filiis dicti palmis pertinentibus et una pica ferri. Et iste res mobiles in presenti capitulo sine item descripte sunt pro indiviso ___ Peyretum Santolhi et dictum Anthonium suum tutorem. 									Anthonii, ad partem, cavalletum, descargadoyra, dicti, pervenit, trahedoyra 	7
+1415-01 	25 					novem 												Anthonium, Peyretum, ad dictos, banaste, bemhe, benche, et, et, indivise, pervenerunt, peyssonerie 	11
+1415-01 	26 							fuste 	cum 3 grasalibus novis et 6 parvis cum sex culheriis novis fuste 				nova 					Anthonium, Petrum, a, dictos, et, pervenerunt, sissoria, vigintiduo 	8
+1415-01 	27 					due, due, duo 					magni, parve 		fracte 					Anthonium, Peyretum, ad ipsos, ayssadoni, ayssate, et, et, et, inter, pervenerunt, quas, sunt, undecim 	13
+1415-01 	28 					due, duo 			cum 2 parvis ayssadonis selclandi? 		parvi 							Anthonium, Peyretum, ad prefatos, et, et, pervenerunt, pique, secures 	8
+1415-01 	29 					tres 			cum 3 cultelli magni et uno ense boni 									Anthonium, Peyretum, ad ipsos, baliste, et, nonni, pervenerunt, seutz 	8
+1415-01 	30 					due, una 			cum duobaus magnis terevellis 									Anthonium, Petrum, ad prefatos, et, et, pedadoyre, pervenerunt, vecuradoyra 	8
+1415-01 	31 					unus 			cum tamalho? una useta bona et uno capello ferri una servelleria privata 3 carcayssiis cum certa quantitate viratonrum duobus lanceis longis et tribus miechclaniis 									ad iamdictos, bassinetus, pervenerunt 	3
+1415-01 	32 					una 			cum uno passadorio uno spolsatorio bladi uno crunello et uno drapo cinate 		rotunde 							Anthonium, Petrum, ad ipsos, cella, et, et, frechissa, paves, pervenerunt 	9
+1415-01 	33 				cavestellum 	unum 			cum 5 panies et una paneria cum 7 banastis peyssoverandi pervenerunt ad predictos Anthonium et Petrum 			album 							1
+1415-01 	34 					duo 			cum 3 trazaletoduobus tamis 4 broquis et uno broqueto cum etiam 3 tabulis mensalibus tam bonis quam fractis cum 4 submensalibus tribus lucerius inter quas est una fracta 				novvi 					coufini, nonni, palme 	3
+1415-01 	35 					una 			cum una tendedoyra 					ad portandum 				panem, tabula 	2
+1415-01 	36 					una, una 			cum padella et uno tiano magno ac tri bus copertellis magnis ferri devenerunt ad ipsos Anthonium et Peyretum. 									payrola, sartago 	2
+1415-01 	37 					decemocto 		fuste 	cum 3 grasalibus et 6 culheriis fuste. 									Anthonium, Petrum, ad ipsos, devenerunt, et, et, scutelle, sizoria 	8
+1415-01 	38 					una, una 		erami 	cum uno aste ferri 									bassina, graylha 	2
+1415-01 	39 												bonos 					olames, pravos, quam, tam 	4
+1415-01 	40 				jarre 	due 					magne 								1
+1415-01 	41 							stagni 	cum 3 platis stagni et duobus pitalfis sive potis stagni pervenerunt ad ipsos Anthonium et Petrum indivise 									scutelle, tresdecim 	2
+1415-01 	42 					duo, una 												Anthonium, Petrum, ad ipsos, et, et, fol, pervenerunt, scanhada, scanhadoni, tripedes 	10
+1415-01 	43 												bona, bone, debilia 					Anthonium, Igtem, November, Peyretum, ad prefatos, duodecim, et, et, et, linteamina, mape, pauci, pervenerunt, triginta, valoris 	15
+1415-01 	45 				tessos 								boni 						1
+1415-01 	46 					novem 			cum uno saco saurmate 		capacitatis 							berroyes, panalatorium 	2
+1415-01 	47 				cuebreliech 	unum 							novum 						1
+1415-01 	48 				chalons 								boni 						1
+1415-01 	49 				toalhlas 								bone 						1
+1415-01 	51 				amoelherium 	unum 			cum flunia 										1
+1415-01 	52 				capcia 	una 			cum duabus cayssiis parvis 		magna 								1
+1415-01 	53 																	camera, egredarium, in, iuxta 	4
+1415-01 	55 					alia 												aulam, cameria, in, iuxta 	4
+1415-01 	57 					una 		argenti 										corona, et, perlarum 	3
+1415-01 	58 																	coufini, vindemiandi 	2
+1415-01 	59 							panni 			parvum 							mantulum, nigri 	2
+1415-01 	62 								cum alio mulo ruffo veteri et quoddam asino cum ... 			ruffus 						Anthonium, Peyretum, ad predictos, et, mulus, pervenerunt 	6
+1415-02 	5 				arquibans 														1
+1415-02 	6 				capcias 						parvas 								1
+1415-02 	7 								cum tabulonis 									edendi, tabulam 	2
+1415-02 	8 				brocos 														1
+1415-02 	9 																	computibus, lintiamina, omnibus 	3
+1415-02 	10 					novem 												computibus, mapas, omnibus 	3
+1415-02 	11 				longerias 														1
+1415-02 	12 				trisonos 														1
+1415-02 	13 										parvam 							mapam, pro dreyssiotono 	2
+1415-02 	14 																	qualis, tales, toalholas 	3
+1415-02 	15 																	annone, circa, salmatas 	3
+1415-02 	16 				potum 			stagni 	cum pro_______ 										1
+1415-02 	17 				paraxides 	duas 		stagni 											1
+1415-02 	18 					octo 												circa, fil, fol, ll 	4
+1415-02 	20 				colcam 														1
+1415-02 	21 				matalacia 														1
+1415-02 	22 				pulvinawr 														1
+1415-02 	23 				flassiatas 														1
+1415-02 	24 				arcam 						magnam 								1
+1415-02 	25 				capcietam 						parvam 								1
+1415-02 	26 				bancale 														1
+1415-02 	27 																	cortinarum, petias 	2
+1415-02 	28 				crucibolum 														1
+1415-02 	29 																	Bertrandi, condam, dicti, pellissonum 	4
+1415-02 	30 											de livido 						Bertrandi, condam, dicti, mantulum 	4
+1415-02 	32 				tabulam 				cum tabulonis 										1
+1415-02 	33 				mastram 														1
+1415-02 	34 				tendedoyram 														1
+1415-02 	35 				tauletam 	aliam 													1
+1415-02 	36 																	coffinum, palme 	2
+1415-02 	37 				tamis 														1
+1415-02 	38 				grasilhas 														1
+1415-02 	39 				sartaginem 														1
+1415-02 	40 				astes 														1
+1415-02 	41 				tripedes 														1
+1415-02 	42 					sex 												sedendi, sellas 	2
+1415-02 	43 								cum trissono 									lapidis, morterium 	2
+1415-02 	44 				paneros 														1
+1415-02 	45 							cupri 										fol, tianum 	2
+1415-02 	46 				cacobum 														1
+1415-02 	47 				flassiatum 														1
+1415-02 	48 				bassachiam 														1
+1415-02 	49 																	sacum, salmate 	2
+1415-02 	50 				candelabrum 			ferri 											1
+1415-02 	51 																	de ferramenta, modica 	2
+1415-02 	52 				bassinam 						magnam 								1
+1415-02 	53 				bassinam 						parvam 								1
+1415-02 	54 				lanternam 														1
+1415-02 	56 										magnos, parvos 							cugluges, engluges, et, inter 	4
+1415-02 	57 				balansam 						longam 								1
+1415-02 	58 				balansonos 	alios 					rotundes 								1
+1415-02 	59 										magnos, parvos 							et, inter, martellos 	3
+1415-02 	60 										parvos 							martellos, plus 	2
+1415-02 	61 				stayre 			de ferro 											1
+1415-02 	62 				toros 														1
+1415-02 	63 				trissonum 			ferri 											1
+1415-02 	64 																	ferios, pro futrendo, taceas 	3
+1415-02 	65 				sizonas 			ferri 											1
+1415-02 	66 				tenalhas 				cum catena 										1
+1415-02 	67 				turqsas 														1
+1415-02 	68 				tenalhas 			ferri 											1
+1415-02 	69 																	beterium, fol 	2
+1415-02 	70 				filaras 			ferri 											1
+1415-02 	71 							ferri, lingos 											0
+1415-02 	72 				mollos 			ferri 											1
+1415-02 	73 										longum 							ad treandum, argentum, tenalham 	3
+1415-02 	74 				englinnes 														1
+1415-02 	75 				servelleriam 								antiquam 						1
+1415-02 	76 				bloquerium 														1
+1415-02 	77 				olerias 														1
+1415-02 	78 				luquetum 														1
+1415-02 	79 				petias 	octo 		de lotono 	cum pomo et crufixe cum caffonis? 										1
+1415-02 	80 							de cupro 										in, pedem, petiis, quatuor, reliquerias 	5
+1415-02 	81 							de lotono 			parvos 							de plombo, molles, quam, tam 	4
+1415-02 	82 							de cupro 					novum 					cruce, patonos, pro maga 	3
+1415-02 	83 				grataboyssas 														1
+1415-02 	84 																	circa, colorum, diversorum, lapid, lb, pro esmantar 	6
+1415-02 	85 																	capcietam, modici, valoris 	3
+1415-02 	86 										longam 							cofretum, fol, modici, valoris 	4
+1415-02 	88 				capcias 														1
+1415-02 	89 				bassinetum 				cum camalho? 										1
+1415-02 	90 				colcam 														1
+1415-02 	91 				matalacium 														1
+1415-02 	92 				avielhios 														1
+1415-02 	93 				coyffinum 														1
+1415-02 	94 							lan 										copertorium, et, flassiatam 	3
+1415-02 	95 				bredolam 														1
+1415-02 	96 				bancum 														1
+1415-02 	97 				canellum 														1
+1415-02 	98 				potensas 														1
+1415-02 	99 				englinnes 						magnos 								1
+1415-02 	100 																	a, fentorue, tas 	3
+1415-02 	101 							ferras 										vidastes, vocatas 	2
+1415-02 	102 				potensam 														1
+1415-02 	103 				ronc 														1
+1415-02 	104 				totham 								bonam 						1
+1415-02 	105 				tas 			ferri 											1
+1415-02 	106 				engluvies 						parvos 								1
+1415-02 	107 				borcellas 														1
+1415-02 	108 				tothas 	alias 													1
+1415-02 	109 				vinaterias 			de cupro 											1
+1415-02 	110 							de cupro 						pro tenendo 				enseus, nanetam 	2
+1415-02 	111 				limas 														1
+1415-02 	112 				baulass 			fuste 	cum ________ 		parv 								1
+1415-02 	113 																	a, poncha, sigillos, talha 	4
+1415-02 	114 																	botayrolas, de talhas 	2
+1415-02 	116 											rubeo 						botas, plene, quarum, sunt, vino 	5
+1415-02 	117 				tormundam 														1
+1415-02 	118 				pavesia 														1
+1415-02 	119 				bancos 														1
+1415-02 	120 																	euputas, pargamenas 	2
+1415-02 	121 				balansias 														1
+1415-02 	122 																	bolhon, de man, et, marcharum, vut 	5
+1415-02 	123 					aliud, octo 												bolho, marcharum 	2
+1415-02 	124 																	gabiam, pro taulio 	2
+1415-02 	125 				scalam 														1
+1415-02 	126 																	a, par, pro fenia, vinarum 	4
+1419-01 	5 					trium 												lintiamina, primo, telarum, tresdecim 	4
+1419-01 	6 					duarum 												lintiamina, telarum 	2
+1419-01 	7 							argenti 										culherios, marcati, non, qui, sunt 	5
+1419-01 	8 				mapas 								bonas 						1
+1419-01 	9 				longerias 								bonas 						1
+1419-01 	10 					una 						rubea 	nova 					est, inter, lodices, quos 	4
+1419-01 	11 				copertorium 	unum 						rubey 							1
+1419-01 	12 				pulvinaria 														1
+1419-01 	13 				culcitra 														1
+1419-01 	14 				matalacia 														1
+1419-01 	15 				colcas 			fuste 											1
+1419-01 	16 				pentos 								novas 						1
+1419-01 	17 											lividarum 						cortinarum, pans 	2
+1419-01 	18 				sissoria 						magna 								1
+1419-01 	19 				sissoria 						parva 								1
+1419-01 	20 				platos 			stagni 											1
+1419-01 	21 				scutellas 			stagni 											1
+1419-01 	22 				potos 			stagni 											1
+1419-01 	23 				myssirabas 			stagni 											1
+1419-01 	24 					unus 		ferri 			magnus 							candelabra, est, in, quo 	4
+1419-01 	25 				capsias 														1
+1419-01 	26 				bassachiam 														1
+1419-01 	27 				bredolam 														1
+1419-01 	28 				bassinas 														1
+1419-01 	29 								cum tabulonis 									edendi, tabulam 	2
+1419-01 	30 																	tabulam, tendendum 	2
+1419-01 	31 																	fol, mastram 	2
+1419-01 	32 				sellas 														1
+1419-01 	33 				tripedes 														1
+1419-01 	34 				calfatorium 			cupri 											1
+1419-01 	35 				salerias 			stagni 											1
+1419-01 	36 				sartaginem 														1
+1419-01 	37 				grailham 														1
+1419-01 	38 				gracuam 														1
+1419-01 	39 				culherias 														1
+1419-01 	40 				paletam 														1
+1419-01 	41 				astes 														1
+1419-01 	42 				bancal 														1
+1419-01 	43 														listats 			flaciatas, pauci, valoris 	3
+1419-01 	44 				broqui 														1
+1419-01 	45 				paneriam 														1
+1419-01 	46 				coffinum 														1
+1419-01 	47 																	sissoria, spissa 	2
+1419-01 	48 																	lapidis, morterios 	2
+1419-01 	49 				morterium 			fuste 											1
+1419-01 	50 				camisium 														1
+1419-01 	51 				saleriam 			fuste 											1
+1419-01 	52 										parvum 							cacobum, galee 	2
+1419-01 	53 				picas 								novos 						1
+1419-01 	54 				tripedes 								novos 						1
+1419-01 	55 				rebrondados 								novos 						1
+1419-01 	56 				securim 								novas 						1
+1419-01 	58 				grailhas 								novas 						1
+1419-01 	59 				partitorium 														1
+1419-01 	60 				relham 								novam 						1
+1419-01 	61 				grasals 			fuste 											1
+1419-01 	62 											rubey 						Jude, Petri, cuiusdam, de Sto, eidem, quam, raupam, restitutere, voluit 	9
+1419-01 	63 					amolandui 												fornitam, molam 	2
+1419-01 	64 																	bougarum, par 	2
+1419-01 	65 				englugium 														1
+1419-01 	66 				tovalhas 														1
+1419-01 	67 				botas 														1
+1419-01 	68 				marteletos 			ferreas 											1
+1419-01 	69 										magnos, parvos 							martelos, quam, tam 	3
+1419-01 	70 				cohieras 														1
+1419-01 	71 																	fol, fyli, lb 	3
+1420-01 	6 					unam 		panni 										, atineis, chopam, destructam, devastatam, et, mesclati, muliebrem, precio, qi 	10
+1420-01 	7 					unam 			cum suis submensalibus, unum bancum et tres sellas parvas modici valoris, unam toalhetam illaceratam et unum toalhonum precio ... 6gr. 									ad comendendum, tabuletam 	2
+1420-01 	8 					duas, unam, unum, unum 							fractam 	ad faciendum 				banastas, et, gr, ii, mastram, modici, pannipurgiam, pauci, precio, thamisium, truvellumtrunellum, valoris, valoris 	13
+1420-01 	9 					tres, tria, unum 		fuste, fustea, fustea 										, broquetum, cissoria, cloquearia, et, gr, ii, precio, scutellas, vii 	10
+1420-01 	10 					unam 							debilem 					, botam, gr, menemeve, precio, vi 	6
+1420-01 	11 					unum 			cum uno basto precio ... iiii fl. 		parvum 							bochardi, et, macerum, muletum, multum, pili, senem 	7
+1420-02 	6 																	colcam, fons, postam, sive 	4
+1420-02 	7 					unum 					parvi 							, matalassium, valoris 	3
+1420-02 	8 					unam 												, lodissem 	2
+1420-02 	9 					duo 							antiqua 					, linteamina 	2
+1420-02 	10 					unum 												, pulvinal 	2
+1420-02 	11 					unum 							antiquum 					, scannum 	2
+1420-02 	12 												lacerata 					, linteamina 	2
+1420-02 	13 																	, cessors, tessors 	3
+1420-02 	14 					duorum, unam 							antiquam 					, capciam, meganorum 	3
+1420-02 	15 					unam 					parvam, parvi 							, capciam, valoris 	3
+1420-02 	16 					unam 												, comensale, sine, tabulam, tabulis 	5
+1420-02 	17 												antiquas 					, capcias 	2
+1420-02 	18 					unam, unam 												, colcam, flassiatam, matalassium, pulvinal 	5
+1420-02 	19 					unam 												, albalistam, paussi, sench, valoris 	5
+1420-02 	20 					unam 		lanssam 											1
+1420-02 	21 					unas 												, , begias 	3
+1420-02 	22 					unam 												, de tabula, gr, pauci, taulo, tendedoyram, valoris, ½ 	8
+1420-02 	23 					sex 												, gr, pauci, satas, valoris, ½ 	6
+1420-02 	24 					sex, unam 												, et, longeriam, mapas, pausi, valoris 	6
+1420-02 	25 					novem, unam 												, de pignore, est, grossos, mapam, per, que 	7
+1420-02 	27 												antiquam 					, ad tendendum, comendendum, gr, tabulam, ½ 	6
+1420-02 	28 				tauletam 	unam 			cum 2 tabulonis, unum bancum cm quinque cellas ad codendum? ... 6gr. 										1
+1420-02 	29 					unum 												, pestim, pestrin 	3
+1420-02 	30 				tabularium 	unum 			cum pede ... 3gr. 		parvnum 								1
+1420-02 	31 					unum 												, birquetum, brocos 	3
+1420-02 	32 					duos 												, mortier, trissonos 	3
+1420-02 	33 					unam 												, ad tendendum, tabulam 	3
+1420-02 	34 					unam 							antiquam 					, capsiam 	2
+1420-02 	35 					duos 												, baral, caderiam 	3
+1420-02 	36 					unum, unum 												, andes, et, lieg, puorili 	5
+1420-02 	37 					unam, unam 												, colcam, lodisse, matalassium, pauci, pulvinal, valoris 	7
+1420-02 	38 				jarram 	unam 			cum aliis munidariis? ... 9gr. 										1
+1420-02 	39 				capciam 	unam 			cum aliqua quantitate podassorum ... 6gr. 				antiquam 						1
+1420-02 	40 																	, crussibola, et, tetena 	4
+1420-02 	41 																	, barrillas, celletas, iii 	4
+1420-02 	42 					unam 					parvam 							, payroletam 	2
+1420-02 	43 					unam 												, gr, lanterna, sartaginem 	4
+1420-02 	44 					unam 			cum tribus plethis unam torcular unam descargadoyra unum pontem cum lecto tine ... 8fl. 		parvam 							tinam, vinariam 	2
+1420-02 	46 					duo, unam 				vacua 	parvos 							, botam, et, vasa, vinag, vinaria 	6
+1420-02 	48 																	, , aurifabrie, carreria, hospicium, in, scitum 	7
+1420-02 	49 												bone 					, boqueria, carrerie, descenduda, fit, fl, hospicium, in, in, quo, quodddam, situm, ½ 	13
+1420-04 	4 																	, colcam 	2
+1420-04 	5 				cartinis 														1
+1420-04 	6 				dardos 														1
+1420-04 	7 				tabula 				cum tabulonis 										1
+1420-04 	8 				bancos 														1
+1420-04 	9 				carcays 														1
+1420-04 	10 																	avans, brassos 	2
+1420-04 	11 				cultellum 														1
+1420-04 	12 																	par, stivallorum 	2
+1420-04 	13 				morterium 			fuste 											1
+1420-04 	14 																	de coralli, patiespatres 	2
+1421-01 	7 					unam, unum 				vacuam 								, bancum, capsiam, et 	4
+1421-01 	8 					tros, unum, unum 		de lana 					antiquum 					, deflassadonum, et, sacum 	4
+1421-01 	10 												novas 					, crudas, linteamina, quatuor, sive 	5
+1421-01 	11 											alba 						, , linteamina, two 	4
+1421-01 	12 					duo 					parva 							, linteamina 	2
+1421-01 	13 										parvas 							, mapas, quatuor 	3
+1421-01 	14 					duo, duo, unam, unams 												, camiziam, domina, et, femorallia, longeriam, mans, sive, tessors, torqua, viayas 	11
+1421-01 	16 					unum, unum 												, calelh, candelabrum, crusibolum, de ferramenta, et, minuta, sive 	8
+1421-01 	17 					unam 					parvam 			ad tenendum 				, panem, tabulam 	3
+1421-01 	18 					unam, unam, unam 					parvam, parvam 							, bassachiam, cayssiam, colcam 	4
+1421-01 	19 												bonas 					, barrillas, grossas, pravas, quam, tam, xi 	7
+1421-01 	20 					unam 					parvam 							, jarretam 	2
+1421-01 	21 					duas, unam 												, comissam, de gallinis, et, gabias 	5
+1421-01 	24 				tauletam 	unam 			cum tabulonis et unum bantum ... 6gr. 										1
+1421-01 	25 					tres, unam 					magnam 							, et, jarretas, olam 	4
+1421-01 	26 					unam 												, jarram 	2
+1421-01 	27 				tendedoyram 	unam 					parvam 								1
+1421-01 	28 					unum, unum 												, et, morterium, tassonum 	4
+1421-01 	29 					quinque 												, barrillas 	2
+1421-01 	30 					duos, unam, unam, unam, unam 												, endes, et, gradoyram, grazilham, sartaginem, sive, tayssietam, totum, tripedes 	10
+1421-01 	31 					duos 												, brocos 	2
+1421-01 	32 					octo, unam 					magnam, terre, terre 							, et, scutellas, sistoria, x 	5
+1421-01 	33 					duo, unum, unum 		ferri, ferri 							perforata 			, cloquearia, crusibolum, cubutiam, et, et, gr, totum 	8
+1421-01 	34 					unum 												, crudellas, et, ii, tamitz 	5
+1421-01 	35 					unam 												, , , fol, gabiam 	5
+1421-01 	38 					tres 												, cortinarum, pessias 	3
+1421-01 	39 										magnas, parvas 							, cayssias, inter, quam, quatuor 	5
+1421-01 	40 					unam 			cum tabulonis et tres sellas, totum ... 1fl. 4gr. 									bessos, ii, tabulam 	3
+1421-01 	41 					duos 												, pitalphos, stangni 	3
+1421-01 	42 					unam, unum 					magnam, terre 							, et, grazale, pitheiram 	4
+1421-01 	43 					unum 												, candelabras, crucibolum, et, ii 	5
+1421-01 	44 					duabus 					parvis 							, de liberando, medium, mensutis, quartayronum, vinum 	6
+1421-01 	47 					unum 						albi 						, est, gingiberi, gr, in, lib, massapanum, media, quo, ½ 	10
+1421-01 	48 					unum, unum 												, est, et, in, massapanum, medium, piperis, quat, quo 	9
+1421-01 	49 					unum 												, datilis, fl, ii, lib, massapanum, tsis 	7
+1421-01 	50 					una 												, de girofles, est, et, i, in, massapanum, onssia, quarta, quo 	10
+1421-01 	51 					tres, unum 												, de ris, in, lb, massapanum, mont, quo, sunt 	8
+1421-01 	52 																	, amidoi, lb, ½ 	4
+1421-01 	53 					unum 						canella 						, massapanum, quartam, ½ 	4
+1421-01 	55 					tres, unum 												, cart, confili, enis, massapanum 	5
+1421-01 	56 					una, unum 												, est, gingiberi, in, lb, massapanum, mesquini, quo 	8
+1421-01 	57 					unum 												, crudi, enis, lb, masaponum, media 	6
+1421-01 	58 					unum 												, colliandii, massapanum, pparati 	4
+1421-01 	59 					unam 												, massis, onssam 	3
+1421-01 	60 																		1
+1421-01 	61 					unum 												especiarum, monta, quart 	3
+1421-01 	62 					unum 					magnum 							, aramgati, massapanum 	3
+1421-01 	63 					unum 												, entofflos, et, medium, quart 	5
+1421-01 	64 					unam 						sanguinem 						, dragonis, onsiam, p, ½ 	5
+1421-01 	65 																	, dels, medium, quart, tirasuant 	5
+1421-01 	66 					unam 												, lb, mosconia 	3
+1421-01 	67 					unum 												, de glassia, p, quart, ½ 	5
+1421-01 	68 																	, lb, peonie, semensam, ½ 	5
+1421-01 	69 					unam 												, lb, masargne 	3
+1421-01 	70 																	, dragonis, et, goma, lb, quart, ½, ½ 	8
+1421-01 	71 					unum 												, ladere, quartum 	3
+1421-01 	72 					unum 												, incenssi, quartum 	3
+1421-01 	73 					duas 												, arpinventi, et, librarum, mediam 	5
+1421-01 	74 					tres 												, indivadaguadelli, quart 	3
+1421-01 	75 					duas 												, esbon, librarum, rasure 	4
+1421-01 	76 											alba 						, cera, lb, ½ 	4
+1421-01 	77 																	, ii, lb, montani, siberi 	5
+1421-01 	81 																	, augeloti, medium, quart 	4
+1421-01 	82 					tres 												, lb, verdeti 	3
+1421-01 	83 					unam, unum 												, coperoze, et, libram, quartum 	5
+1421-01 	84 																	, coralhi, monti 	3
+1421-01 	85 					unam 												, enforbi, libram 	3
+1421-01 	86 					tres 												, bedelli, quarti 	3
+1421-01 	87 																	, medium, mouna, quart 	4
+1421-01 	88 																	, libram, mediam, vermelhoni 	4
+1421-01 	89 																	, spicinardi 	2
+1421-01 	90 					duas 												, arabice, gomme, libras 	4
+1421-01 	91 					decem 							antiqui 					, codonati, libras 	3
+1421-01 	92 					unum 												, pistati, quart, verdeti 	4
+1421-01 	93 																	, garengalli 	2
+1421-01 	94 					duas 												, bolliaruneni, lib 	3
+1421-01 	95 									vini 								, aregenti, libram, mediam 	4
+1421-01 	96 					unam 												, lb, tiriate 	3
+1421-01 	97 					unam 												, aramjati, et, lb, mediam 	5
+1421-01 	98 					unam, unciam 												, mastici 	2
+1421-01 	99 					unum 												, christati, incenssi, or, pistati, quartum 	6
+1421-01 	100 																	, archrumenti, arpimenti, or 	4
+1421-01 	101 																	, codoni, conserva 	3
+1421-01 	102 					unam 												, aveti, libram, semen 	4
+1421-01 	103 																	, libram, mediam, pontirii, siti 	5
+1421-01 	104 					duas 												, The, a, below, lib, mellis, renvoi, rosati, via 	9
+1421-01 	105 																	, mirabolans 	2
+1421-01 	106 					duas 												, cacoys, lib 	3
+1421-01 	107 					tres 					terre 							, duodene, in, pitalfos, quibus, sunt 	6
+1421-01 	108 										terre 							, pitalfos 	2
+1421-01 	109 																	, cayssetas, et, massapanos 	4
+1421-01 	110 																	, massapanos, meganos 	3
+1421-01 	111 																	, confiturarum, massapanos 	3
+1421-01 	112 								cum eorum aquis ... 4fl. 		magnas, parvas 							anforas, quam, tam 	3
+1421-01 	113 				ollam 	unam 			cum datilibus confitis ... 1gr. 										1
+1421-01 	114 																	, senegreti 	2
+1421-01 	115 																	, confitas, nuces 	3
+1421-01 	116 					duas 												, aqui, corte, librarum 	4
+1421-01 	117 																	, gallas 	2
+1421-01 	118 							cere 										, lib, operate 	3
+1421-01 	119 																	, gr, lb, moundetorarum, ½ 	5
+1421-01 	120 					octo 					magnas, parvas 							, barrillas, quam, tam 	4
+1421-01 	121 																	, lb, mellis 	3
+1421-01 	122 				tabularium 	unum 			cum certa quantitate fustalhe ... 1fl. 										1
+1421-01 	123 					duas, unum 				vini 	parvas 							, cartayronum, et, medium, mensuras 	5
+1421-01 	124 							vitrioli 										, lb 	2
+1421-01 	125 																	, lb, rizii 	3
+1421-01 	126 																	, lb, milhii 	3
+1421-01 	127 					unum 												, ad numerandum, tabularium 	3
+1421-01 	129 					duas, tres, unam 												, barrillam, carratellos, et, vegetes 	5
+1421-01 	130 									vini 								, milhay, passati, per, racam 	5
+1421-02 	6 					unam 								ad lavandum 				bassinam, manus 	2
+1421-02 	7 					duos 												, sartagines 	2
+1421-02 	8 					unam 												, cassam 	2
+1421-02 	9 					sex 					magnos, parvos 							, quam, tam, tripedes 	4
+1421-02 	10 					duas, tria, unum 		ferri 										, cloquearia, cupertellas, et, graticulas, veru 	6
+1421-02 	11 																	, gratuas, quatuor 	3
+1421-02 	12 				morteria 	duo 			cum trissonis ... 9gr. 										1
+1421-02 	13 					duo, tribla 													1
+1421-02 	14 					tres 		fuste 										, grazalos 	2
+1421-02 	15 							fuste 			magna, parva 							, quam, scissoria, tam 	4
+1421-02 	16 					quinque 		fuste 										, platellos 	2
+1421-02 	17 							fuste 										, paraxides 	2
+1421-02 	18 					quinque 		fuste 										, cloquearia 	2
+1421-02 	19 					quinque 		ferri 										, candelabra 	2
+1421-02 	20 					unam, unam 												, et, mastram, tendedoyram 	4
+1421-02 	21 					duos 												, brocos 	2
+1421-02 	22 					unam 												, gavedam 	2
+1421-02 	23 					duoes 		fuste 										, bancos 	2
+1421-02 	24 					unam 												, banastam 	2
+1421-02 	25 					quinque, septem, septem 		stagni 										, et, et, grazaletos, paraxides, platos, qt 	7
+1421-02 	26 					aygaderias 		stagni 										, et, pitalfos, quatuor, quatuor 	5
+1421-02 	27 					duas 												, canestellas 	2
+1421-02 	28 					duas 		ferri 			parvas 							, serras 	2
+1421-02 	29 					duos 								ad tenendum 				, arnesium, cayssonos 	3
+1421-02 	30 				tauletam 	unam 			cum taulonis cum uno banqueto et duabus sellis ... 5gr. 										1
+1421-02 	31 					unam 			cum duobus cupertellis fuste ... 8gr. 									jarram, magam 	2
+1421-02 	32 				colcam 	unam 			cum tabulis, una bredola, uno mathalacio, et uno transversio ... 3fl. 6gr. 										1
+1421-02 	33 					quinque 		laneas 											1
+1421-02 	34 					unum 							antiquum 					, disploydem 	2
+1421-02 	35 					unum 												, gardavetis 	2
+1421-02 	36 					duo 												, crucibola 	2
+1421-02 	37 					una, uno, uno 			cum duobus strivis ... 5fl. 6gr. 									bancos, bassachia, desuper, et, et, mathalacio, panalech, quatuor 	8
+1421-02 	38 					unam 												, capciam 	2
+1421-02 	39 				ensem 	unum 			cum suo tolochio et una serveleria ... 1fl. 										1
+1421-02 	40 					unum 												, colp 	2
+1421-02 	41 					tres 			cum decem viratonis?? ... 6gr. 					ad tenendum 				carcayssios, viras 	2
+1421-02 	42 										parvos 							, cortinarum, nigre, quatuor, sic, tele 	6
+1421-02 	43 					unam, unum 		panni, panni 				lividi 						, bocassino, choppam, clari, dicti, domine, et, folderata, folderatum, mantoletum, tela 	11
+1421-02 	44 					unum 		stagnum 											1
+1421-02 	45 					navigandi, unam 												capssiam, cayssonos, et 	3
+1421-02 	46 					decem, trium 							nova 					, linteamina, tellarum 	3
+1421-02 	47 					duarum, trium 							bona, debilia 					, et, linteamina, quam, tam, telarum 	6
+1421-02 	48 												bonas, debilias 					, mapas, quam, tam 	4
+1421-02 	49 																	, and, bad, good, longerias, quatuor 	6
+1421-02 	50 					sex 												, capitergia 	2
+1421-02 	51 												novas 					, mapas, undecim 	3
+1421-02 	52 				tabulam 	unam 			cum taulonis ... 4gr. 										1
+1421-02 	53 					duas, unum 												, espieu, et, lanssetas 	4
+1421-02 	54 					unum 												, suictum, valiste 	3
+1421-02 	55 					unam 												, listadam, toalholam 	3
+1421-02 	56 					duo 												, capucia, pueri 	3
+1421-02 	57 					unum 												, carratellum 	2
+1421-05 	3 												bonis 					No, in, mobilibus, que, room, sequuntur 	6
+1421-05 	5 					duarum, duas 												, et, linteamina, mapas, quatuor, telarum 	6
+1421-05 	6 					duos, unam 												, capciam, cayssonos, et, precio 	5
+1421-05 	7 					duas, duo, unam, unam 												, paneriam, pavesium, precio, stanna, targietas 	6
+1421-05 	8 					unum 		fusteas, fustis 					bonos, debiles 					, a, et, et, platelletum, precio, quam, scissoria, scudellas, tam 	10
+1421-05 	9 					duos, duos, unum 					terreum 							, bancos, barralos, picherium, precio 	5
+1421-05 	10 					unam, unum 		stagna 			parvum 							, et, missirabam, potum, precio 	5
+1421-05 	11 					novem 					terreorum 							, et, pessias, precio, scissororum, scudellarum 	6
+1421-05 	12 					duas 												, capcias, precio 	3
+1421-05 	13 					unam, unam, unam 			cum tabulonis, duos bancos et unam cellam clotundam? precio ... 9gr. 									mastram, mensalem, tabulam, tabulam, tendendi 	5
+1421-05 	14 					duas 				vacuas 								, botas, precio 	3
+1421-06 	6 					decem 					parva 		debilia, illacerata 					, et, linteamina, precio, quasi 	5
+1421-06 	7 					aliam, duas, duas, unam 							debiles, novam 					, et, longerias, mapam, mapas, precio 	6
+1421-06 	8 					unum 		panni 	cum novem condulis perlarum minutarum et uno freso precio ... 1fl. 3gr. 			viridis 						capucium, coloris, domine 	3
+1421-06 	9 					unam, unum 		panni 				lividi 						, de canhetotauheto, et, gonellam, mantulum, modici, precio, valoris 	8
+1421-06 	10 																	, fili, stanhas, vi 	4
+1421-06 	11 					unam 			cum duobus tabulonis et uno stanno precio ... 6gr. 		parvam 							mensalem, tabulam 	2
+1421-06 	12 					unam 			cum una tendedoyra precio ... 1gr. 									mastram, modici, valoris 	3
+1421-06 	13 					octo, unam, unum, unum 												clipeum, ensem, et, pavesia, precio, servelleriam 	6
+1421-06 	14 					duos 							fractos 					, cutellos, modici, precio, valoris 	5
+1421-06 	15 					unum 							debile 					, precio, putatorium 	3
+1421-06 	16 					tres, unum 												, et, fausilhas, gr, iii, mofici, olanie, precio, valoris 	9
+1421-06 	17 					aliam, duos, unam, unam, unam, unam, unam 							fractam 	ad selclandum 				, aysadam, aysadam, aysadetam, ayssadonos, blada, calabresam, et, gr, pitam, precio, securam, viii 	13
+1421-06 	18 												bonos 					, ad vindemiandum, coffinos, gr, iii, precio, xii 	7
+1421-06 	19 					tres, unam 							fractam 					, et, gr, iii, lanternam, precio, tambolos 	7
+1421-06 	20 					duos, tres 							veteri 					berroerios, coffinos, de palma, et, gr, iii, iiiior, modici, precio, sacos, valoris 	11
+1421-06 	21 					unam, unum 												, et, evidessium, fol, gr, iii, precio, sartaginem 	8
+1421-06 	22 					quinque 		fuste, fuste, fuste 										, cissoria, clengaria, et, gr, ii, iii, platellos, precio, xvii 	10
+1421-06 	23 					alium, unum, unum 		fuste 	cum duobus cassonis precio ... i gr. 		parvum 							et, lapidis, morterium, morterium 	4
+1421-06 	24 													ad venandum 				, debles, et, grossi, ii, iii, lepores, multum, panellos, precio, quartos, usitatos 	12
+1421-06 	25 					unam 												, cloquam, fons, gr, precio, sive, vi 	7
+1421-06 	26 					unam 					capacitatis, milhayrolarum, parvum 							circa, devastato, plenum, precio, vas, vel, vfl, vgr, vino, xiiii 	10
+1421-06 	27 					octo, unam 				vacuam 	capacitatis, milhayrolarum 							, botam, circa, precio, vel 	5
+1421-06 	28 					unum 												, cartum, gr, iii, precio 	5
+1421-06 	29 					unum, unum 			cum certa parte raube dicti aratri unambenhas et unam berroas ad ducendum fenum precio ... 1fl. 									aratrum, relham, sive, vomerem 	4
+1421-06 	30 					unam 			cum tribus plethis precio ... 7fl. 									destructam, domus, in, positam, sine, tinam, vinariam 	7
+1421-06 	31 					unum 												, gr, modici, precio, q, scriveum, valoris, vii 	8
+1421-06 	32 					duo 				vacua 	capacitatis, milhayrolarum, parva 							, circa, cuiuslibet, fl, precio, vasa, vel, vi, xiiii 	9
+1421-06 	33 					unam 					parvam 		antiquam, debilem, veterem 					, distargaryram, et, fol, gr, ii, precio, sive 	8
+1421-06 	34 					unum 		auri 										, computato, florenorum, hospicium, pro xxxii, quolibet, reg, solidis 	8
+1421-06 	35 					unam 					terram 							, carteriarum, et, medie 	4
+1421-06 	36 										terre 							, carteriartum, et, et, etiam, fol, mediam, vinee 	8
+1421-06 	38 					unam 												, at, carteriarturam, vineam 	4
+1421-06 	39 					unam 					terram 								1
+1421-07 	5 					duas 			cum quatuor circulis de sex et septem gnotis precio ... 1fl. 7 ½ gr. 									circulorum, duodenas 	2
+1421-07 	6 					decemocto 												, barrilarum, circulorum, duodenas, gr, precio 	6
+1421-07 	7 					unam 												, circulorum, cirocatellorum, duodenam, gr, precio 	6
+1421-07 	8 					unam 												gr, plecham, precio, vasis 	4
+1421-07 	9 					octo 												, precio, stanguetas 	3
+1421-07 	10 					aliquas 							veteres 					, dogas, et, gr, precio, tine, vasis 	7
+1421-07 	11 					tros 		fuste 										, castanherii, precio, viginti 	4
+1421-07 	12 					alia, duas, una 												, botas, circulis, desburata, est, et, precio, quarum, sine 	9
+1421-07 	13 				bancum 	unum 			cum grepo et unam ceblam? appocopandi?? sive ronhandi? ... 4gr. 										1
+1421-07 	14 				bancum 	alium, unum 			cum grepo precio ... 4gr. 										1
+1421-07 	15 					tres, unam 												, ad remalhandum, almarnias, et, fol, gr, precio, tinellos, tinetam, ½ 	10
+1421-07 	16 				capolerios 	duos 			cum croto et unam astam lancee? precio ... 3gr. 										1
+1421-07 	17 																	Laari, Spinelli, butigie, condam, dicti, fracham, precio, totum 	8
+1421-07 	18 					duas, una 			cum ferro et alia sine ferro necnon unum symentum? et medium simentum precio ... 1fl. 									cofferias, est, quarum 	3
+1421-07 	19 					due, quinque 		ferro 										, planas, precio, quarum, sine, sunt 	6
+1421-07 	20 					tres 												, doladoyras, precio 	3
+1421-07 	21 					sex, tres, tres, unum 												danis, de davit, et, fl, gassas, pantas, precio, trossum 	8
+1421-07 	22 					appotopandi, duas, ronhandi, unam, unum 					parvum 							, ayssiam, ayssias, barrili, et, payssonum, precio, rectam, sive 	9
+1421-07 	23 					unam 												, precio, securim 	3
+1421-07 	24 					duo, duo, unam, unam, unum 												, et, gabiam, precio, scalpies, tirados, verrubium, verumam 	8
+1421-07 	25 					unam, unam 												, et, precio, rotam, serram 	5
+1421-07 	26 					unam, unam 		fuste 										, et, gr, palam, plegadoyram, precio, ½ 	7
+1421-07 	27 				cosseriam 	unam 			cum ferro et unum trossum raspe precio ... 6gr. 										1
+1421-07 	28 					duos, unum 												, bloquerium, cutellos, et, precio 	5
+1421-07 	29 					unum 												culputum, precio 	2
+1421-07 	30 					unam 			cum suis submensalibus et iiiior sellas ac duo scanna totum modici valoris precio ... 4gr. 		parvam 							mensalem, tabulam 	2
+1421-07 	32 					unam 												, ayguaderiam, barilam, precio 	4
+1421-07 	33 					sex 							veteres 	ad faciendum 				, barrilas, panipurgia, precio 	4
+1421-07 	34 					unam, unum 												cayssiam, et, gr, modici, precio, scanum, valoris 	7
+1421-07 	35 					unam 					parvam 		debilem 					, absque, colcam, foris, multum, precio 	6
+1421-07 	36 					duo 												, endessia, multum, precio, usitata 	5
+1421-07 	37 					unam 												, canestellam, precio 	3
+1421-07 	38 					trium 					terre 							, , at, carteriatarum, circa, fayssia, fol, vel 	8
+1421-08 	5 					aliam, unam 												, dumtaxat, duodenam, et, inceptorum, patinorum, precio, solum 	8
+1421-08 	6 					quinque 												, botinarum, hominis, paria, precio, sotularium 	6
+1421-08 	7 					decem 					magnarum, parvarum 							, domine, paria, precio, quam, sotularium, tam 	7
+1421-08 	8 					sex 												, infantum, paria, precio, puerorum, sive, sotularium 	7
+1421-08 	9 					duas 												, de paribus, duodenas, forma, precio 	5
+1421-08 	10 					unum 		corei 										, precio, rethalium, rusque 	4
+1421-08 	11 					unam 							veterem 					, armarium, cayssiam, existentem, pote, precio, ut 	7
+1421-08 	12 					unum 							vetus 					, criveum, precio 	3
+1421-08 	13 					unum 		fustrem 										, ad stindendum, precio, sotulares 	4
+1421-08 	14 					duas 		pinus 										, precio, pro estachiis, tabulas 	4
+1421-08 	15 					unum 												, pro picando, quar, sepatum 	4
+1421-08 	16 					duas, duas, duos, unum 												ad mutinum, alenas, et, gr, precio, sellas, traditos, tranchetum, tutellos 	9
+1421-08 	17 					duas, duos 												, botas, carratellos, et, precio 	5
+1421-08 	18 					unam, unum, unum, unum 												, et, flaciatam, linteaminum, mathalassium, par, precio, pulvinar 	8
+1421-08 	19 					unam 							veta 					, colcam, precio 	3
+1421-08 	20 					unam 						de alba 						cayssiam, precio 	2
+1421-08 	21 					aliam, unam 					parvam 							, cayssiam, frivolem, precio 	4
+1421-08 	22 					unam 			cum una mastra precio ... 3gr. 									panem, pro tendendo, tabulam 	3
+1421-08 	23 					duorum, unam 			cum suo sutam? precio ... 10gr. 									albaristam, fustaminum, modici, valoris 	4
+1421-08 	24 					unum 												, Folio, ensem, foleam, precio, sive, soleam 	7
+1421-08 	25 					unam 			cum suis tabulonis et duobus stannis precio ... 10gr. 									mensalem, tabulam 	2
+1421-08 	26 					unam 												de funeo, duodenam, patinorum, precio 	4
+1421-08 	27 					duas, duas 												, et, longerias, mapas, precio, usitatas 	6
+1421-08 	28 					unum 												, chalonum, precio 	3
+1421-08 	29 					unam, unum 												, endessium, et, precio, sartaginem 	5
+1421-08 	30 					duas, duobus, una, uno, uno 					parva, parvas 							, colcas, et, flaciata, linteaminbus, mathalassio, modici, munitas, precio, pulvinar, valoris 	11
+1421-08 	31 					unam 												, cissorium, duodenam, fusteorum, gr, precio, ½ 	7
+1421-08 	32 					duos 							veteres 					, et, precio, tabule, taulonos, tiossum 	6
+1421-08 	33 					unum 					parvum 							, cayssonetum, precio 	3
+1421-08 	34 					unum 			cum suo pistono precio ... 2gr. 									marinoris, morterium 	2
+1421-08 	35 					unum 												Gauteri, Guillelmo, Margarite, debitum, domino, eidem, et, gossarum, nomine, orto, plus, quod, quos, viz 	14
+1421-09 	4 								cum tabulonis 									edeo, tabula 	2
+1421-09 	5 					de trela 												modi, retro, tabulam 	3
+1421-09 	6 				myssirabam 			cupri 					antiqua 						1
+1421-09 	7 																	de moflas, par 	2
+1421-09 	8 																	de gans, par 	2
+1421-09 	9 				capsia 						magna 								1
+1421-09 	10 					aliam 							fractam 					et, integra, jarras 	3
+1421-09 	11 								foderatam 									chopam, de grizo, nigra, tela 	4
+1421-09 	12 																	chopam, de pureyza, hominis 	3
+1421-09 	13 											de livido 						hominis, mantulum 	2
+1421-09 	14 				banquetum 						parvum 								1
+1421-09 	15 										parvum 							ligni, pentam 	2
+1421-09 	16 				bredolam 														1
+1421-09 	18 																	capsia, in, qua, res, sequentes, sunt 	6
+1421-09 	19 				toalholas 														1
+1421-09 	20 																	fol, toalhonos 	2
+1421-09 	21 					trium 												lintiamina, telarum 	2
+1421-09 	22 				crussibolum 														1
+1421-09 	23 					duarum 												lintiamina, telarum 	2
+1421-09 	24 					sex 						canorum 						et, mapas, palmorum, relique 	4
+1421-09 	25 																	camisias, et, fomnas 	3
+1421-09 	26 				gavanholas 														1
+1421-09 	27 				platos 			stagni 											1
+1421-09 	28 				scultellonos 			stagni 											1
+1421-09 	29 																	bassinam, rodundam 	2
+1421-09 	30 				longerias 														1
+1421-09 	31 				tomellam 				foderatum 			de albo, de livido 							1
+1421-09 	32 				capucia 														1
+1421-09 	33 																	fili, stag 	2
+1421-09 	34 				sat 														1
+1421-09 	35 				pugillar 														1
+1421-09 	36 				tamisium 														1
+1421-09 	37 																	perlies, sobie 	2
+1421-09 	38 					de una 												bassachia, lectum, munitum 	3
+1421-09 	39 					uno 												matalacio, pulvinari 	2
+1421-09 	40 				ligni 							canas 							1
+1421-09 	41 				flaciatas 														1
+1421-09 	42 				vanoam 														1
+1421-09 	43 				copertam 														1
+1421-09 	44 				aurelhonis 														1
+1421-09 	45 				pilvaria 														1
+1421-09 	47 				culcitra 														1
+1421-09 	48 				matalacio 														1
+1421-09 	49 																	tabulas, viii 	2
+1421-09 	50 				bancas 														1
+1421-09 	51 				bredola 														1
+1421-09 	52 																	jarretum, oley 	2
+1421-09 	53 										parva 							Fol, capsia 	2
+1421-09 	54 										terris 							arquibans, et, in, qua, scutellas, sissoria, sunt 	7
+1421-09 	55 				scutellas 														1
+1421-09 	58 																	fili, scanhas 	2
+1421-09 	59 																	cabedellos, fili 	2
+1421-09 	60 																	fratas, ligni 	2
+1421-09 	61 																	gavachiam, tele 	2
+1421-09 	62 				stola 														1
+1421-09 	63 				torcam 														1
+1421-09 	64 							lanceam 											0
+1421-09 	65 					de una, uno, uno 												basswachia, et, lectum, matalacio, munitum, pulvinar 	6
+1421-09 	66 				sueria 														1
+1421-09 	67 				cortinam 														1
+1421-09 	68 																	colo, petiam 	2
+1421-09 	71 				paneria 														1
+1421-09 	72 				ar 														1
+1421-09 	73 																	bladi, eminas 	2
+1421-09 	74 																	eminas, farine 	2
+1421-09 	75 				mastram 														1
+1421-09 	76 				tendedoyre 														1
+1421-09 	77 																	lapidi, morterias 	2
+1421-09 	78 				trissos 														1
+1421-09 	79 				grasalos 														1
+1421-09 	80 				saleriam 														1
+1421-09 	81 				endes 														1
+1421-09 	82 				tianum 														1
+1421-09 	83 				payrolum 														1
+1421-09 	84 				bredolam 														1
+1421-09 	85 				bredolas 														1
+1421-09 	86 																	fol, stuera 	2
+1421-09 	87 				calfatorium 														1
+1421-09 	88 				oleris 														1
+1421-09 	89 				vonges 														1
+1421-09 	90 				bredolam 														1
+1421-09 	91 				trahedoyra 														1
+1421-09 	92 																	nigram, rapam 	2
+1421-09 	93 																	circa, jarram, mediam 	3
+1421-09 	94 																	focanea, in 	2
+1421-09 	95 				sarram 														1
+1421-09 	96 				gratua 														1
+1421-09 	97 				pracha 														1
+1421-09 	98 				morterium 			fuste 											1
+1421-09 	99 				grazalem 														1
+1421-09 	100 				truvellum 														1
+1421-09 	101 				cassam 														1
+1421-09 	102 				sissoria 														1
+1421-09 	103 				tinelletum 														1
+1421-09 	104 				jarram 														1
+1421-09 	105 				cultellum 														1
+1421-09 	106 				myssirabaum 			cupri 											1
+1421-09 	107 				cufellas 			ferri 											1
+1421-09 	108 																	demendals, palte 	2
+1421-09 	109 				brocum 														1
+1421-09 	110 				ydriam 														1
+1421-09 	111 				taceas 			argenti 											1
+1421-09 	112 									vini 		rubey 						Adsanis, Johanne, domo, in, milh, q, sunt 	7
+1421-09 	113 				ayssera 														1
+1421-09 	114 				destraleta 														1
+1421-09 	115 				podadoyra 								antiquam 						1
+1421-09 	116 				scalpis 														1
+1421-09 	117 				martol 														1
+1421-11 	7 										longerie, longitudinis 		nove 					cannarum, quasi, quelibet 	3
+1421-11 	8 							fustam 					bonam 						0
+1421-11 	9 				linteamina 								bona 						1
+1421-11 	10 																	linteamina, pauci, valoris 	3
+1421-11 	11 				flaciata 								bona 						1
+1421-11 	12 																	copertorium, lecti, pauci, valoris 	4
+1421-11 	13 				penhal 				cum una cavineta 				bonum 						1
+1421-11 	14 					una 			cum blanis obscuri bonam 			rubei 						bispertita, mulieris, tunica 	3
+1421-11 	15 												novam 					blani, chopam, mulieris 	3
+1421-11 	16 																	blani, hominis, mantelum 	3
+1421-11 	17 								foderatum 			rubeo 	novum 					blani, bocassino, curtum, domine, mantulum, quasi 	6
+1421-11 	18 							panni, pannorum 	foderata 									certorum, chopam, hominis 	3
+1421-11 	19 					duo, unum 						album, rubeum 	bona 					capucia, et, mulieris 	3
+1421-11 	20 											rubeum 	novum 					capucium, hominis 	2
+1421-11 	21 					unum 			cum condulis perlarum 									manicarum, par, rebearum 	3
+1421-11 	22 					unum 						rubee 	bonum 					giponum, sede 	2
+1421-11 	23 					unam 		fustanei 				albi 	laceratam 					boneratam, clotham 	2
+1421-11 	24 							panni 	foderatum 				bonum 					antellinum, blani, de blanqueto 	3
+1421-11 	25 					unam 												pauci, valoris, vonam 	3
+1421-11 	26 								cum domini nostri Regis 									clopetam, pueri 	2
+1421-11 	27 																	fronteria, operum, perlarum 	3
+1421-11 	28 				zona 			argenti 	cum testuto morato cum lini, clavis amputatis morralho et fibla. 		parva 								1
+1421-11 	29 																	de ambra, patres 	2
+1421-11 	30 				strenhedor 				cum perlis pauci valoris 										1
+1421-11 	31 																	violeti, vita 	2
+1421-11 	32 				toalhonos 								noves, novos 						1
+1421-11 	33 				cofre 	unum 			cum rebus infrascriptis 										1
+1421-11 	35 																	cotoni, plechetos 	2
+1421-11 	36 												vetas 		dauratas 			blanas, et, in, medio 	4
+1421-11 	37 				anulos 				cum perlis 										1
+1421-11 	38 				anulum 			argenti 											1
+1421-11 	39 				virgam 			auri 											1
+1421-11 	40 					duo 												Januen, cavinetorum, paria 	3
+1421-11 	41 																	bossas, de Messina 	2
+1421-11 	42 				carlinos 			argenti 					fractos 						1
+1421-11 	43 				gilatum 			argenti 											1
+1421-11 	44 				bolonhinos 														1
+1421-11 	45 					duos 								ad tenendum 				arnesium, cayssonos 	2
+1421-11 	46 							panno 				rubeo 						copertas, curassas 	2
+1421-11 	47 				avantbrasses 				cum _iolino cum duobus bassinetis pauci valoris 										1
+1421-11 	48 																	carrayssium, viratonorum 	2
+1421-11 	49 																	cervelleriam, pruniatam 	2
+1421-11 	50 				mastra 														1
+1421-11 	51 				tendedoyra 														1
+1421-11 	52 								cum scaudetis 									mensalis, tabula 	2
+1421-11 	53 				bancos 														1
+1421-11 	54 				tamis 														1
+1421-11 	55 					duos 												coffinos, palme 	2
+1421-11 	56 				mathalacium 														1
+1421-11 	57 										parvi 							coyssinum, valoris 	2
+1421-11 	58 																	bassachiam, pauci, valoris 	3
+1421-11 	59 																	antica, caxia 	2
+1421-11 	60 																	misserabas, stangni 	2
+1421-11 	61 																	fili, muytellos, simplicis 	3
+1421-11 	62 				payrol 														1
+1421-11 	63 				sacos 	saumate 													1
+1422-01 	6 					unam 		panni 	foderatam 									, bocassino, chopam, domine, fl, morati, vi 	7
+1422-01 	7 					unam 			foderatam 			alba, de livido 						, chopam, domine, fl, pena, rebolla, vii 	7
+1422-01 	8 					unam 			cum xxxxta condulis parvis argenti in manicis ... fl. v 			albam 						cotam, domine 	2
+1422-01 	9 					unam, unum 		panni 				albam 	antiqui 					, et, fl, gonellam, gr, grossi, mandoletum, nigri, sive, usitati, vi 	11
+1422-01 	10 					duas 			cum lxxta parvis condulis argenti ... fl. 1 									arnatas, blanqueti, manicas 	3
+1422-01 	11 					unum 												, domine, duprietum, fl, fustaneri, ii 	6
+1422-01 	12 					unam 												, chopam, domine, fl, foederatam, iii, violeti 	7
+1422-01 	13 					duo 		de sirico 										ad , auricularia, coaperta, gr, vii, viridi 	6
+1422-01 	16 				linteamina 	duo 		lini 	cum calaturis de sirico ... fl. v 										1
+1422-01 	17 				linteamina 	alia, duo 		lini 	cum cadanet..as? antiqua ... fl. i gr. iii 										1
+1422-01 	18 					unum 					parvum 							, corpertorium, gr, iii 	4
+1422-01 	19 					sex 												, crudas, f, iii, mapas 	5
+1422-01 	20 					alias 												, fl, gr, mapas, quatuor, viii 	6
+1422-01 	21 					quinque 							antiquas 					, et, fl, ii, longerias, mapas, quatuor, sive, usitatas 	9
+1422-01 	22 					decem 		lini 										, domine, fl, iii, vela 	5
+1422-01 	23 					decem 												, crudas, fl, gr, iii, toalhetas 	6
+1422-01 	24 																	, cotoni, domine, fl, ii, iiiior, vela 	7
+1422-01 	25 					quinque 							bona, debile 					ad , fl, iiiior, pulvinaria, quam, tam 	6
+1422-01 	26 					duas 												, fl, satisbonas, v, vannas 	5
+1422-01 	27 					unum 							debilem 					, copertorium, de bort, gr, viiio 	5
+1422-01 	28 					unam, unum 					parva 		debiles 					, culcitram, et, fl, iii, matalacium 	6
+1422-01 	29 				colcam 	unam 			cum una bredola ... fl. iii 										1
+1422-01 	30 											lividas 	debiles 					, cortinarum, fl, ii, iiiior, petias 	6
+1422-01 	31 					unam 							bonam 					, capciam, fl, i 	4
+1422-01 	32 					duo, unam 					parva 							, capcietam, cofreta, et, gr, modici, valoris, vi 	8
+1422-01 	33 					unam, unam, unam 												, cacobum, catredam, et, fl, gr, ii, iii, jarram 	9
+1422-01 	34 							fuste, fuste 										ac, clothide, et, gr, i, iiiior, parrici, q, siseria, viginti, viiio, xxxxiio 	12
+1422-01 	35 					duo 			cum eorum tasonis ... gr. iii 									lapidea, morteria 	2
+1422-01 	36 					unum 					magnum, terre 							, gr, i, pitalphum 	4
+1422-01 	37 					duo, unam, unum 					magna 							, balistam, et, fl, gr, ii, medium, pavesia, pavesium, vi 	10
+1422-01 	38 					unam 												, ayguaderiam, gr, ii, jarretam 	5
+1422-01 	39 					unum 												, catidis, culp, gr, viiii 	5
+1422-01 	40 					unam, unam, unum 					parvum 							, ac, botici, cacrubitam, gr, sartagine, veru, viiii 	8
+1422-01 	41 					duos 		stagni 					novas 					, gr, platellas, x 	4
+1422-01 	42 					duoas, unum 							novas 					, ayguaderias, et, fl, gr, i, pitalfum, vi 	8
+1422-01 	43 					duas 							antiquos 					, gr, pitalfos, viii 	4
+1422-01 	44 					unam 			cum sumensalibus ... gr. iiii 		parvam 							mensalem, tabulam 	2
+1422-01 	45 					quinque 		laneas 					bonas, debiles 					, fl, iii, quam, tam 	5
+1422-01 	46 					unuam, unum 							debiles 					, bassacham, et, fl, iii, matalacium 	6
+1422-01 	47 																	, Fol, coralho, de ambro, et, fl, iii, patresnostres, quosdam 	9
+1422-01 	48 					unam, unum 							antiquum 					, bota, et, fl, fres, fronteriam, perlarum, v 	8
+1422-01 	49 					duas 								ad tenendum 				, aquam, brocas, gr, iii 	5
+1422-01 	50 					quinque 							debiles 					, capcietas, fl, gr, iii 	5
+1422-01 	51 					duas, duo, unam, unum 												, ad tendendum, attamen, conchetas, crucibola, et, et, gr, matram, panem, x 	11
+1422-01 	52 					unam 								ad tenendum 				ad fl, capcietam, gr, raupam, vi 	5
+1422-01 	53 					unam 			cum sumensalibus unum bancum et quinque cellas ... fl. 1 									mensalem, tabulam 	2
+1422-01 	54 					unam 							debilem 					, capciam, fl, i 	4
+1422-01 	55 					unum 												, cacidis, colp, gr, ix, masqueta, sive 	7
+1422-01 	56 					unam 												, gr, vi, vomerem 	4
+1422-01 	57 								cum non nullis vetis? diversorum colorum ad fl. iiiior 				vetas 	ad faciendum 				certam, fili, quantitatem 	3
+1422-01 	58 													ad faciendum 				, certam, fili, fl, quantitatem, telam, vi 	7
+1422-01 	59 					unam, unum 							fractam 					bassinam, cacobum, et 	3
+1422-01 	61 					duas, octo 												, barrillas, fl, lxxxta, lxxxta, salsacarum, sardinarum 	7
+1422-01 	62 																	ad , barrillas, fl, salsate, thonine, xxiiiior, xxvi 	7
+1422-01 	63 					decem 								ad tenendam 				, dogas, fl, petias, vinum, xiiiior 	6
+1422-01 	64 											pices 						, ad salsandum, cinetas, fl, iiiior, xvi 	6
+1422-01 	65 					octo, quinque 				vini 								, ad rationem, fl, gr, grossorum, iii, iiiior, milhayrolas, milhayrolas, pro qualibet 	10
+1422-01 	66 					unam 							antiquam 					, capciam, gr, vi 	4
+1422-01 	67 																	Auruvellariead, annis, carreria, censum, hospicium, in, librarum, precio, quinquaginta, quoddam, regalium, servicium, seu, sexdecim, singulis, situm, sol 	17
+1422-01 	68 																	, , Cordellarie, Fol, ad censum, annis, carreria, hospicium, in, librarum, precio, quadraginta, quoddam, reg, servicium, seu, sexaginta, singulis, situm, sol 	20
+1422-01 	69 					duarum, sex 												, , , ad censum, annis, certam, cuiusdam, denariorum, librarum, partem, penoris, precio, regalium, regalium, servicium, seu, singulis, triginta 	18
+1422-02 	6 					decem 												, bassinas, cacaba, calfatoria, et, in, inter, numero, petias 	9
+1422-02 	7 					duo 			cum trissonis ... 5gr. 									lapidea, morteria 	2
+1422-02 	8 					duo, duo, tres, unam, unam, unam, unam, unum, unum 					parvum 							cafuec, cassam, et, graciculam, gratinam, sartagines, tionerium, tripedes, veru, veruta 	10
+1422-02 	9 					quinque, unum, unum 		ferri 										, candelabra, et, pestrium, tuinascle 	5
+1422-02 	10 								cum tribus pedibus et unam bassam... 1gr. 2q 									ii, sellas 	2
+1422-02 	11 					tres 		fuste 										, and, paraxides, scissoria 	4
+1422-02 	12 					duas 												, colcas 	2
+1422-02 	13 					tria, unam, unum, unum 					parvam, parvum 							, coopertorium, culcitram, et, et, et, matalacium, modici, transverssia, valoris 	10
+1422-02 	14 					duas, unam, unam, unum 		ferri, ferri 										, ayssadas, et, furcam, picam, servitorium 	6
+1422-02 	15 					tres, unum, unum 		laneas 										et, matalacium, transverssium 	3
+1422-02 	16 					tres 												capssias, modici, valoris 	3
+1422-02 	18 					tres 			cum submensalibus et duas cellas sedendi ... 2fl. 									mensales, tabulas 	2
+1422-02 	19 					unam 												, et, tabulam, tendedoyram, tendendi 	5
+1422-02 	20 					duo 												, intorticia, mocanda 	3
+1422-02 	21 					septem, unum 												, Fol, et, media, pavesia, pavesium, poste 	7
+1422-02 	22 					duo, unam, unam, unam, unum 		ferri 										, balistam, crucibolla, de viride, et, jarretam, massam, modici, stabellum, valoris 	10
+1422-02 	23 					quinque, unam 		stagni 										, ayguaderiam, et, grazeletos, paraxides, plata, potos, quatuor, undecim 	9
+1422-02 	24 					quinque, tria 												, clavium, milliaria, milliariorum 	4
+1422-02 	25 					unam 												, capciam, siprecii 	3
+1422-02 	26 																	, in, libros, modici, papiru, pargameno, quam, scriptos, tam, tresdecim, valoris 	11
+1422-02 	27 					unam, unum 			cum sua clave ... 6gr. 									et, laternam, luquetum 	3
+1422-02 	28 					alios, duos, unum, unum 												, avellum, de corallo, et, et, oricoriiii 	6
+1422-02 	29 					quinque 		laneas 					bonas, debiles 					, quam, tam 	3
+1422-02 	30 					unam 												, poncham, punctam, vanoam 	4
+1422-02 	31 					duas, unum 		de sirico 										, auriculariorum, brecii, coopertorium, et, flunas 	6
+1422-02 	32 												bonas, debiles 					, and, longerias, mapas, quam, tam, tresdecim, undecim 	8
+1422-02 	33 					octo, quinque, unam 												, auricularum, capitergia, et, et, flunam, tessonos 	7
+1422-02 	34 												bona, debilia 					linteamina, quam, tam, viginti 	4
+1422-02 	35 					unum, unum 												, coopertorium, et, modici, traylicium, valoris 	6
+1422-02 	36 					unam 												, jarram, oleriam 	3
+1422-02 	37 					unam, unam, unum 												, ayssetam, et, martellum, modici, tenalham, valoris 	7
+1422-02 	38 					unam, unum 		fuste 			magnam 	lividi 						, cartayronum, cotoni, et, fillati, paraxidem, punctam 	7
+1422-02 	39 					unam 							bonam 					, arcam 	2
+1422-02 	40 					unam, unum 												, et, modici, traylicium, valoris, vanoam 	6
+1422-02 	41 					sex 												, fili, stanhas 	3
+1422-02 	42 					duos 		argenti 										, gladios, munitos 	3
+1422-02 	43 					tria, unum 												, auricular, et, manutergia 	4
+1422-02 	44 					unam 												, fol, poderrandi, romana, sive, virgam 	6
+1422-02 	45 					duos 		ferratos 										, cofros 	2
+1422-02 	46 				massapanum 	unum 			cum duodecim condulis perlarum minutarum et unam brancam coralli munitam argento et unam zonam argenti domine ... 2fl. 6gr. 										1
+1422-02 	47 					duas 												, canivetas, mensse 	3
+1422-02 	48 					unum 			cum duabus marsupiis de cirico ... 6gr. 					ad tenendum 				bassinum, peccunias 	2
+1422-02 	49 				colcam 	unum 			cum duabus bredolis, unam culcitram plume, unum matalacium cum suo transversio, quinque pannos cortinarum, unam vanoam simplicem, et unum traylissium ac unam bassachiam ... 19fl. 6gr. 										1
+1422-02 	50 					aliam, duas, unam 			cum duobus bolhonis ponderandi, duabus zonis boni marini, tribus librarum vermelhoni, ac quibus de scateris parvis... 3fl. 	vacuam 								capssietas, et 	2
+1422-02 	51 					duas, duo, unam, unum 												, discargatoriam, dolia, torcular, trahedoyras 	5
+1422-02 	52 					duas, duos, sex 												, carratellos, et, vayssellos, vegetes 	5
+1422-02 	53 					bugaderias, duas, duas, duas, tres, unum, unum 		ferri 			magnum 		antiquorum 					, ad imbotandi, benhas, carratellum, coffinorum, cortinarum, duodenas, et, imbutum, modici, quatuor, tinas, valoris, vegetes, vindemiandi, virgas 	16
+1422-02 	54 					unam, unum 												, bastum, colcam, et, in, sistentes, stabulo, the 	8
+1422-02 	58 					unum 												, de scarvillata, domine, folderatum, mantellum, pena, varia 	7
+1422-02 	59 					duas, octo, unum 		argenti 										, and, ciphum, copam, decemseptem, denariorum, et, onciarum, ponderis, sive, taceas 	11
+1422-02 	60 					decemocto, unam 		argenti 										, domine, esmaltatam, ponderis, unciarum, zonam 	6
+1422-02 	61 					unum 						rubeum 						, capucium, domine 	3
+1422-02 	62 					unam 			cum decemocto condulis grossis et sex parvis perlarum ... 16fl. 									choppam, domine, et, mantam 	4
+1422-02 	63 					unum 												, domine, folderatum, mantoletam, modici, pena, valoris, varia 	8
+1422-02 	64 					unam 						livido 						, bocassiono, choppam, de sanguinia, domine, folderatam 	6
+1422-02 	65 					unam 						rubeam 						, sargam 	2
+1422-02 	66 					unam 		argenti 	cum decem floribus ponderis tresdecim onciarum et medie ... 18fl. 									coronam, et, perlarum 	3
+1422-02 	67 					unum 			cum decem molinetis (molmetis, violinetis)... 25fl. 									guarlandellum, perlarum 	2
+1422-02 	68 					unam 												, choppam, de scarvillata, folderatam, pena, rebolla 	6
+1422-02 	70 																	, apium, bastita, bruscos, centum, dicta, et, in, triginta 	9
+1422-02 	71 					quandam 					terram 							, et, vineam 	3
+1422-02 	72 																	, hospicium, quoddam 	3
+1422-02 	73 																	, , fol, hospicium, quoddam 	5
+1422-02 	74 								cum quodam stabulo scitum in carreria Frucharie ... 125fl. 									hospicium, quoddam 	2
+1422-02 	75 					unus 												, Frucharie, carreria, est, furnus, hospicium, in, in, quo, quoddam, scitum 	11
+1422-03 	6 					duos 												, matalacia 	2
+1422-03 	7 					tres 		laneas 											1
+1422-03 	8 					duarum, novem, octo 					longitudine 							ad , et, latitudis, linteaminas, palmorum, quatuordecim, telarum 	7
+1422-03 	9 					duas 												, mapas, palmore, sexdecim 	4
+1422-03 	10 					alias, duas 												, mapas 	2
+1422-03 	11 					tres 												, longerias, palmorum, quatuordecim 	4
+1422-03 	12 					duo, unam 		lini 										, ad , et, manutergia, mapam 	5
+1422-03 	13 					unam 												, chopam, de viridi, domine 	4
+1422-03 	14 					unam 												, de pureya, mantam 	3
+1422-03 	15 					tria 												, capucia, mulierum 	3
+1422-03 	16 					duas, unam, unam 		ferri 										, copersellas, et, graticulam, sartaginem 	5
+1422-03 	17 					unam, unam, unam 												, ad tendendum, et, mastram, panem, tabulam, tendedoyram 	7
+1422-03 	18 					aygaderiam, unam 		stagni 											1
+1422-03 	19 					unam, unum 		vitri 							damascino 			, anforam, boscellum 	3
+1422-03 	20 				colcam 	unam 			cum quatuor tabulis ... 9gr. 										1
+1422-03 	21 					duos, unam 					parvos 							, bancos, et, scallam 	4
+1422-03 	22 					unam, unum 					rotundas 							, bancum, bredolam, cellas, et, quatuor 	6
+1422-03 	23 					duas 			cum quatuor submensalibus ... 1fl. 6gr. 									mensales, tabulas 	2
+1422-03 	24 					duas 							bonas 					, capcietas 	2
+1422-03 	25 					unum 												, botitumbocitum, cofretum 	3
+1422-03 	26 					unam, unum 		ferratum 										, capcietam, cofrum, et, modici, valoris 	6
+1422-03 	27 					tres 												, cofretos 	2
+1422-03 	28 					unum 												ad , balansier, pulcrum, sive, staterium 	5
+1422-03 	29 					tres, unum 												, barrillas, broqum, et 	4
+1422-03 	30 					duas 								ad tenendum 				, gerras, oleum 	3
+1422-03 	31 					unam 												, Folio, tabulam 	3
+1422-03 	32 				cavinetam 	unam 			cum manubrio et boreo ad ... 4gr. 										1
+1422-03 	33 					alium, duas, unum 												, codicem, et, et, et, et, in, in, in, papiro, pargameno, pargameno, quoddam, rofle, romancio, statutas 	16
+1422-03 	34 					duarum, unam, unum 		lini 										, ac, et, gavinetam, linteamen, medie, tellarum 	7
+1422-03 	35 					duo, quandam 		ferri 										, candelbra, et, lampadem, metalli 	5
+1422-03 	36 					unum 					parvum 							, veru 	2
+1422-03 	37 																	, hospicium, quoddam 	3
+1422-04 	6 												bonas 					, mapas, quatuor 	3
+1422-04 	7 					duas 							debiles 					, mapas 	2
+1422-04 	8 					quinque 							debiles 					, longerias 	2
+1422-04 	9 																	, manutergiorum, petias, vi 	4
+1422-04 	10 					tres 		laneas 											1
+1422-04 	11 					unum 												, tapicium 	2
+1422-04 	12 					tres, unam, unum, unum 												, bancos, bassachiam, et, et, ii, matalacium, tabulas, transversserium 	9
+1422-04 	13 					navigandi, unam 							bonam 					, capssiam 	2
+1422-04 	14 					unam 												, capssietam, modici, valoris 	4
+1422-04 	15 					unam 			cum submensalibus ... 4gr. 									mensalem, tabulam 	2
+1422-04 	16 					tres 		stagni 										, q, scutellas 	3
+1422-04 	17 					duos 		stagni 										, platos 	2
+1422-04 	18 					unum 		fuste 										, et, platum, q, scissoria, scutellas, vi, xiii 	8
+1422-04 	19 					unum, unum 		cupri 										, et, tianum, tripedem 	4
+1422-04 	20 					unam 												cayssonam, curassie, in, plate, quedam, quo, sive, sunt 	8
+1422-04 	21 					navigandi, unam, unum 												, , Folio, agulham, et, orologinem 	6
+1422-04 	22 					aygaderias, duas 		stagni 											1
+1422-04 	23 					duos, unam 												, coffinos, et, indutam, jarram, palme 	6
+1422-04 	24 					tres 		pannos 			parvarum 	lividarum 						, cortinarum 	2
+1422-04 	25 					unam 												, antena, arbore, barchiam, et, et, munitam, piscandi, quatuor, remis, timone, vela 	12
+1422-04 	26 																	, Bernardi, car, condam, cuiusdam, de Berra, hospicii, in, indivisam, medietatem 	10
+1429-01 	4 					unum 												hospicium, sive, stabulum 	3
+1429-01 	5 					unam 												fol, suelham 	2
+1429-01 	6 				ortum 	unum 													1
+1429-01 	7 					alium, unum 												, ortum 	2
+1429-01 	8 				eminatarum 	duarum, unam 					terram 								1
+1429-01 	9 					duarum, quandam 					terram 							eminatarum, et, medie 	3
+1429-01 	10 					quandam 					terre 							, et, possessionem, vinee 	4
+1429-01 	13 					decem, quandam 					terram 							, eminatarum, fol 	3
+1429-01 	14 					duarum, quandam 					terre 							eminatarum, fayssiam 	2
+1429-01 	17 					unum 					capacitatis, milhayrolarum 							circa, dolium, plechatum, sexdecim, vel, vinarium 	6
+1429-01 	18 					septem, unam 					capacitatis, milhayrolarum 							botam, circa, vel, vinariam 	4
+1429-01 	19 					aliam, sex 					capacitatis, milhayrolarum 							botam, circa, vel, vinariam 	4
+1429-01 	20 					aliam, quinque 					capacitatis, milhayrolarm 							botam, circa, vel, vinariam 	4
+1429-01 	21 					trium, unum 					capacitatis, milhayrolarum 							carratellum, circa, vel, vinarium 	4
+1429-01 	22 					trium, unum 					capacitatis, milhayrolarum 							bodiis, carratellum, circa, sine, vel 	5
+1429-01 	23 					unum 												ayssadonum, de rompir 	2
+1429-01 	24 				ayssadam 	unam 													1
+1429-01 	25 					unam 												grossam, tranellamtravellam 	2
+1429-01 	26 				tranellas 	duas 					parvas 								1
+1429-01 	27 					tres 												destrals, secures, sive 	3
+1429-01 	28 				ayssetas 	duas 													1
+1429-01 	29 				cassam 	unam 		de cupro 											1
+1429-01 	30 					duorum, unum 					capacitatis 							, brocarum, cacobum, fol 	4
+1429-01 	31 					unam 												de here, sartaginem 	2
+1429-01 	32 				tripedem 	unum 							debilem 						1
+1429-01 	33 					aygaderiam, unam, unum 		stagni 										et, potum 	2
+1429-01 	34 					unam 			cum tabulonis 									de nuce, mensalem, tabulam 	3
+1429-01 	35 					duas 												tabulas, tendendi 	2
+1429-01 	36 				mastram 	unam 							debilem 						1
+1429-01 	37 				panalem 	unam 		fusteam 											1
+1429-01 	38 				cruciboles 	tres 													1
+1429-01 	39 				gavinetas 	duas 													1
+1429-01 	40 				banquos 	tres 		fuste 											1
+1429-01 	41 				vomerem 	unum 													1
+1429-01 	42 					circulandi 												ayssadonetos, quatuor 	2
+1429-01 	43 				caxietam 	unam 							bonam 						1
+1429-01 	45 				tamisium 	unum 													1
+1429-01 	46 				platos 	tres 		fuste 			magnos 								1
+1429-01 	47 					unam 		fuste 										duodenam, quam, scissoriarum, scutellarum, tam 	5
+1429-01 	48 					duas 												mapas, planas 	2
+1429-01 	49 					duas 												francie, mapas, operis 	3
+1429-01 	50 				tohalholas 	duas 													1
+1429-01 	51 																	manutergia, tia 	2
+1429-01 	52 																	lintiamina, quatuor 	2
+1429-01 	53 				pulvinar 	unum 			cum plumis 										1
+1429-01 	54 				lodicem 	unum 													1
+1429-01 	55 				jarram 	unam 													1
+1429-01 	56 				jarram 	aliam 					parvam 								1
+1429-01 	57 				bassaquos 	quinque 							bonos 						1
+1429-01 	58 					unum 					parvum 							coffrum, depictum 	2
+1429-01 	59 					trium, unam 												florenorum, fronteriam, perlarum, valoris 	4
+1429-01 	60 				colcam 	unam 		fusteam 					debilem 						1
+1429-01 	61 				planam 	unam 													1
+1429-01 	62 				planons 	duos 													1
+1429-01 	63 																	faussilhas, quatuor 	2
+1429-01 	64 					unam 		panni 				rubey 						mantam, usitatam 	2
+1429-03 	5 				discargaderiam 														1
+1429-03 	7 																	botas, circa, milhayrolas, utraque 	4
+1429-03 	8 				caissiam 			pannos 						ad tenendum 					1
+1429-03 	9 																	caissiam, farneriam 	2
+1429-03 	10 													ad tenendum 				caissietum, fructus 	2
+1429-03 	11 				caissonum 				cum caxiassiis? mintis? et canonis? 										1
+1429-03 	12 					aliam 		fustorum 	cum suicto? etiam? 2 carrasiis? cum xatonia?? 									balistam, balistam, et 	3
+1429-03 	13 																	nulanestam, servelleriam 	2
+1429-03 	14 				rudelletum 				cum lanseta 										1
+1429-03 	15 							lanea 										bassachia, colca, et, lectum, lintiaminibus, munitum, pulvinari 	7
+1429-03 	16 				cabanum 														1
+1429-03 	17 							fuste 			de terra, terre 							scissoria, scutellas 	2
+1429-03 	18 							de fusta, stagni 										brocum, salseriam 	2
+1429-03 	19 				molterium 			fuste 	cum trisono 										1
+1429-03 	20 				banastonetum 														1
+1429-03 	22 																	banquetum, sellas 	2
+1429-03 	23 							stagni 										et, misirabam, potum 	3
+1429-03 	24 																	corpertus, mapam, racemorum, trisorium 	4
+1429-03 	25 												ruptas 					aisadas, aissadam, aysadonum, olanie, podadoream 	5
+1429-03 	26 																	barales, butum, crunlola, em, et, et, gracusam, non, plura 	9
+1430-01 	6 					una 												cella, equitandi, humidity 	3
+1430-01 	7 					una 												, , barberii, bassina, eranis, humidity 	6
+1430-01 	8 				scanhatas 	sex 													1
+1430-01 	9 							stagni 										humidity, p 	2
+1430-01 	10 					aliud, duo, unum 		stagni 			magnum, parvnum, rotunda 							est, pitalpha, quorum 	3
+1430-01 	11 				miysseraba 	una 		stagni 											1
+1430-01 	12 				matalacium 	unum 							bonum 						1
+1430-01 	13 				flaciate 	quinque 													1
+1430-01 	14 												bona, debilia 					linteamina, quam, quatuor, tam 	4
+1430-01 	15 					alia, due, una 		cupri 			magna, parva 							olle, viz 	2
+1430-01 	16 												bone, debiles 					mappe, quam, tam 	3
+1430-01 	17 																	fol, humidity 	2
+1430-01 	18 					duo, tria, unum 		erami 			magna, parvnum 							cacoba, et, payrolis, sive, viz 	5
+1430-01 	19 					duo 												competentis, holames, tam, valoris 	4
+1430-01 	22 				grahilha 	una 													1
+1430-01 	23 					due 												comunis, forme, trenelle 	3
+1430-01 	24 				ginonetum 	unum 													1
+1430-01 	25 				culheria 	una 		erami 			magna 								1
+1430-01 	26 					una 												cul, humidity 	2
+1430-01 	27 				humidity 	una 													1
+1430-01 	28 					duo 												humidity, valoris 	2
+1430-01 	29 					una 												dadoira, gavotorum, in, modum 	4
+1430-01 	30 																	ad vindemandum, humidity 	2
+1430-01 	31 					unum 					magnum 			ad tenendum 				coffrum, ficus 	2
+1430-01 	32 					una 												ad tendendum, cathena, porcum, seu, tear 	5
+1430-01 	33 																	ad descerandum, cannicie, ficus 	3
+1430-01 	34 					una 		ferri 										comunis, forme, sartago 	3
+1430-01 	35 					tripes, unum 												endesium, mediori, sive, valoris 	4
+1430-01 	36 					unum 												humidity, lapideum 	2
+1430-01 	37 				humidity 									ad comedendum 					1
+1430-01 	38 				humidity 	unum 		ferri 			parvum 								1
+1430-01 	39 				humidity 			stagni 											1
+1430-01 	40 					unum 					milhayrolarum 							carra, humidity 	2
+1430-01 	41 																	, brocum, quale, tale 	4
+1430-01 	42 																	bastum, eque 	2
+1430-01 	51 				boa 	alia, septem, una 					milhayrolarum 								1
+1430-01 	52 				bota 	alia, septem 					milhayrolarum 								1
+1430-01 	53 					alia, sex, una 					milhayrolarum 							bota, et 	2
+1430-01 	61 							lane 										et, humidity, quatuor, satas 	4
+1430-01 	62 				gralha 	una 							nova 						1
+1430-01 	63 					duarum, una 							nova 					cannarum, mapa 	2
+1430-01 	66 				linteaminen 	unum 							novum 						1
+1430-01 	67 												bonas 					flaciatas, quatuor 	2
+1430-01 	68 					una 												metalli, olla 	2
+1430-01 	69 					aliud, duo, unum 		erami 			magnum, parvnum 							et, payroli 	2
+1430-01 	70 				endes 	unum 							novum 						1
+1430-01 	71 				ayssadonum 	unum 													1
+1430-01 	72 				securim 	unam 													1
+1430-01 	73 				cucupendium 	unum 													1
+1430-01 	74 				tionerium 	unum 		ferri 											1
+1430-01 	75 				verrunas 	duas 			cum uno sta[humidity] 										1
+1430-01 	76 				sartago 	una 							bona 						1
+1430-01 	77 					una, unas 		ferri 										culheria, et, tenalhas 	3
+1430-01 	78 				bassachia 	una 		lane 											1
+1430-01 	79 					una, unum 					parva 	albi 						grossi, petia, sive, trostyos 	4
+1430-01 	80 					due, tralhe 												modici, valoris 	2
+1430-01 	81 				bancale 	unum 					magnum 		novum 						1
+1430-01 	82 				balista 	una 			cum sigto? sive maneta? et cum duabus gautetis? lutoni? 										1
+1430-01 	83 					unu 												barberii, mbassinum 	2
+1430-01 	84 					aliud, duo, unum 					rotundum 							cadratum, pitalpha, stangni 	3
+1430-01 	85 				mysserabas 	duas 		stagni 											1
+1430-01 	86 				scanhadas 	sex 							bonas 						1
+1430-01 	87 				relha 	una 							bona 						1
+1431-01 	5 																	hominis, togam 	2
+1431-01 	6 																	mantam, nigram 	2
+1431-01 	7 											lividi 						manicarum, par, ponhetey 	3
+1431-01 	8 																	nigram, togam 	2
+1431-01 	9 											lividam 						obscuram, togam 	2
+1431-01 	10 							fustanei 										dobletum, dobletum, fol, vanilanie 	4
+1431-01 	11 				mapam 						parvam 								1
+1431-01 	12 				longerias 														1
+1431-01 	13 				tersonis 														1
+1431-01 	14 				linteamina 														1
+1431-01 	15 												antiquam 					camisiam, femine 	2
+1431-01 	16 																	certos, pedasses 	2
+1431-01 	17 								cum bassachiam, matalacio, et pulvinari, 2 linteaminibus 1 lanea 									bancos, et, lectum, sp, sumptum, tabulas 	6
+1431-01 	18 							laneas 											0
+1431-01 	19 				bancale 				cum litis rubeis cioceis? et albis 										1
+1431-01 	20 																	calotis, et, et, linteamina, tamissias, trisorium, velas 	7
+1431-01 	21 				gonellam 			panni 				albi 							1
+1431-01 	22 				gavachiam 								antiquam 						1
+1431-01 	23 				mapas 														1
+1431-01 	24 							laneas, lanee 										bassachiam, linteamina, matalacium, trossum 	4
+1431-01 	25 				pellissiam 								antiquam 						1
+1431-01 	26 																	crudas, velas 	2
+1433-01 	6 				bancum 						magnum 								1
+1433-01 	7 										parvam 							mensalem, tabulam 	2
+1433-01 	8 				banquetam 						parvam 								1
+1433-01 	9 				barrilam 					vacuam 									1
+1433-01 	10 				jarreta 						parva, terre 								1
+1433-01 	11 				sissoria 			fuste 											1
+1433-01 	12 				plat 			fuste 											1
+1433-01 	13 				platelletos 			fuste 											1
+1433-01 	14 				trissonum 														1
+1433-01 	15 				mape 						parve 								1
+1433-01 	16 				sacum 														1
+1433-01 	17 										parva 							linteamina, pauci, valoris 	3
+1433-01 	18 				tersor 														1
+1433-01 	19 				banastonum 														1
+1433-01 	20 				cellam 						parvam 								1
+1433-01 	21 				flaciatas 						parvas 								1
+1433-01 	22 																	blani, chopa 	2
+1433-01 	23 				tamis 														1
+1433-01 	24 				camisias 														1
+1433-01 	25 				garbellam 														1
+1433-01 	26 				endes 														1
+1433-01 	27 				grasale 			fuste 											1
+1433-01 	28 				barrale 	duorum 					cartayronorum 								1
+1433-01 	29 				barrile 						parvum 								1
+1433-01 	30 				canestella 						magna 		vetus 						1
+1433-01 	31 				gardellinum 														1
+1433-01 	32 													ad tenendum 				frucham, scutella 	2
+1433-01 	33 				anforam 						cartayronorum 								1
+1433-01 	34 				velum 								bonum 						1
+1433-01 	35 																	bassachiam, fol, pauci, valoris 	4
+1433-01 	36 																	coffinum, palme 	2
+1433-01 	37 				cloquears 														1
+1433-02 	6 				torcular 	aliud 													1
+1433-02 	7 				discarcatoria 														1
+1433-02 	8 				trahedoyra 						parva 								1
+1433-02 	9 													ad tenendum 				jarram, oleum, vestitam 	3
+1433-02 	10 					duo 			cum duabus barris? sisten. versus portam carrerie Palacii 									quodlibet, vasa, vinaria 	3
+1433-02 	11 					duo 			cum una unus barra versus dictam portam sisten. 									quodlibet, vaza 	2
+1433-02 	12 					quinque 			cum una barra sistenta versus aliam portam carrerie domini Petri de Serveriis sistencia 									quodlibet, vasa 	2
+1433-02 	13 				vas 	unum 			cum duabus barris sistens in alio latere dice porte pauci valore 										1
+1433-02 	14 					duas 												botas, pauci, valoris 	3
+1433-02 	15 												bonam 					botam, dogaminis, fol, muscarellam, spiss 	5
+1433-02 	16 										parvum 							carratellum, dogaminis, vinaygregium 	3
+1433-02 	17 										capacitatis, milhayrolarum 							carratellos, circa, dogaminis, quemlibettrium, spissi, vel, vel 	7
+1433-02 	18 					aliqua, unam 							antiquam 					ferramenta, portam, sine 	3
+1433-02 	19 				broquos 	duos 													1
+1433-02 	20 				auritorium 			fuste 	cum talhola nova facte cum ceure? munita corta? 										1
+1433-02 	21 												antiquis 					barratis, cellarium, de portis, dicte, dictum, domus, et, factum, inter, meianum, stabulum 	11
+1433-02 	22 																	desubtus, dogamina, lapidibus, munita, omnia, sunt, supradicta, vocatis, “ossors” 	9
+1433-02 	24 					duorum 		fuste 			longitudinis 							ac, cadastam, latitudinis, palmorum, palmorum, plus, quatuor 	7
+1433-02 	25 																	barrilam, pauci, valoris 	3
+1433-02 	26 												fractam 					lapideam, pilam 	2
+1433-02 	27 					duo, tros 		de fusta 											0
+1433-02 	28 														perforatum 			ad modum, factum, fol, lapidem, prus, quendam, zucar 	7
+1433-02 	29 					octo 		fustarum 					antiquarm 					modici, pecie, valoris 	3
+1433-02 	30 				mastram 						parvam 								1
+1433-02 	32 					unam 		fuste 										banqum, pauci, valoris 	3
+1433-02 	34 					unum 		fusteum 										banqum, bredolam, claratum, iuxta, sive, trabestam 	6
+1433-02 	35 							fustei 										aulam, banqui, circumquaque, clausi, conclavati, dictam, sunt 	7
+1433-02 	36 								cum tabulonis 									mensalem, tabulam 	2
+1433-02 	37 							lanceam 											0
+1433-02 	38 										parvam 							bassam, cellam, clausam, sedendi 	4
+1433-02 	39 										rotundam 							cellam, sedendi 	2
+1433-02 	40 					pro duobus 					parvas 							bassas, cellas, fol, sedendi 	4
+1433-02 	41 										parvam 		debilem 					celletam, sedendi 	2
+1433-02 	42 				d 														1
+1433-02 	44 					duos 			cum banquo clauso? cadena de retro conclavatis 					ad tenendum 				librorum, rota, rotas, tabularios 	4
+1433-02 	45 								cum una poste de retro depicta 									bredolam, ii 	2
+1433-02 	46 				bredolam 	aliam 					parvam 								1
+1433-02 	47 				colcam 	unam 			cum uno matalacio 		de parvam 								1
+1433-02 	48 					unam 					parvam 							capantam, de nuce, sc, sera, sine 	5
+1433-02 	49 				anforam 			vitream 	cum aqua plantaginis 										1
+1433-02 	51 					una, unam 			cum circumquaque duobus scannis 				debili 					colcam, culcitra, et, fluna, matalacio, munitam, paleas, supra 	8
+1433-02 	52 											livide 						cortinarum, petias, tele 	3
+1433-02 	53 										magnum 							depictum, pavesium 	2
+1433-02 	54 					unum 												crucibolum, fol 	2
+1433-02 	55 				candelabrum 			ferri 											1
+1433-02 	56 										longam, magnam 		fractam 					capciam, de retro 	2
+1433-02 	57 				trapalam 			fuste 											1
+1433-02 	59 					unam 												munitam, rotam, studii 	3
+1433-02 	60 				pavesia 	duo 					parva 								1
+1433-02 	61 				capcias 								debiles, fractas 						1
+1433-02 	63 					unam 			cum tabulonis 									mensalem, tabula 	2
+1433-02 	64 				scannum 				cum suo scabello marchape 										1
+1433-02 	65 								cum duobus trissonis 									lapidea, morteria 	2
+1433-02 	66 										parvum 							fol, pavesium, sive, targetam, z 	5
+1433-02 	67 				candelabra 			ferri 					debilia 						1
+1433-02 	68 				dreyssatorium 			fusteum 											1
+1433-02 	69 				cellam 				cum unico pede 										1
+1433-02 	70 												debilem 					botelham, de corio 	2
+1433-02 	71 														clavatum 			bancum, bredolam, fenestras, sive, versus 	5
+1433-02 	73 				capcias 								fractas 						1
+1433-02 	74 				banastonos 								novos 						1
+1433-02 	76 				oleriam 						parvam, terre 								1
+1433-02 	77 				scutellam 						terre 								1
+1433-02 	78 				anforas 						parvas 								1
+1433-02 	80 					unam 			cum paleys tm.? 									colcam, depictam, lectitam, sive 	4
+1433-02 	81 				bredolam 														1
+1433-02 	82 											viridis 						cortinarum, pauci, petias, tele, valoris 	5
+1433-02 	83 										magnam 							arcam, depictam, sera, sine 	4
+1433-02 	84 												antiquam 					bassam, capciam, pedibus, sine 	4
+1433-02 	85 				capciam 				cum pedibus 		longam 		antiquam 						1
+1433-02 	86 										longam, magnam 		bonam 					capciam, erant, in, in, qua 	5
+1433-02 	89 				useta 	una 			cum careta 										1
+1433-02 	90 					una 		de lotono 										bassina, fol 	2
+1433-02 	91 				concam 				cum duabus aussis? sive manelhis 		parvam 								1
+1433-02 	92 				sercapos 														1
+1433-02 	93 																	affixatum, candelabrum, in, pariete 	4
+1433-02 	94 				sartaginem 						magnam 								1
+1433-02 	95 				veru 			ferreum 											1
+1433-02 	96 				tripedem 						parvum 								1
+1433-02 	97 				grazale 			fusteum 			magnum 								1
+1433-02 	98 				palam 			de ferro 											1
+1433-02 	99 				grazilham 														1
+1433-02 	100 																	lapidis, mortarium 	2
+1433-02 	101 										magnam, terre 							scutellam, viridam 	2
+1433-02 	102 				bouges 														1
+1433-02 	103 				cloqueria 			fuste 											1
+1433-02 	104 				scissoria 	sex 		fuste 											1
+1433-02 	106 				colcam 				cum una matalacio pauci valoris et una bredola antiqua 		parvam 								1
+1433-02 	107 				postes 				cum duobus tratellis 		parvas 		antiquas 						1
+1433-02 	108 				cellam 				cum tribus pedibus 										1
+1433-02 	109 				candelabrum 			ferri 			parvum 								1
+1433-02 	110 												antiquas 	ad tenendum 	clavatas 			in, libros, pariete, postes 	4
+1433-02 	111 																	postem, spissam 	2
+1433-02 	112 				postes 	duas 							antiquos 						1
+1433-02 	113 				clitellam 								debilem 						1
+1433-02 	114 																	cellas, de mala, fol 	3
+1433-02 	116 												antiqum 					cunabulum, forme 	2
+1433-02 	117 										magnam 							botelham, de corio, pauci, valoris 	4
+1433-02 	118 				mastram 						magnam 								1
+1433-02 	119 																	tabulam, tendendi 	2
+1433-02 	120 				pavesium 						parvum 								1
+1433-02 	121 				pavesia 						magna 								1
+1433-02 	122 												antiquas 					capcias, diversis, plenas, scripturis 	4
+1433-02 	123 										magnam 			ad tenendum 				jarram, oleum 	2
+1433-02 	124 													ad tenendum 				etiam, indutas, jarras, oleum 	4
+1433-02 	125 					duo 												cadi, circulati, sic 	3
+1433-02 	126 				barrile 								debiles 						1
+1433-02 	127 				carrivum 								debilem 						1
+1433-02 	128 				grasale 			fuste 					fractum 						1
+1433-02 	129 				tristogie 														1
+1433-02 	130 					unam 		fuste 										ad mensurandum, eminam, et, panalem, sinadorium 	5
+1433-02 	131 				sartaginem 								fractam 		perforatam 				1
+1433-02 	132 				culheriam 			de ferro 			magnam 				perforatam 				1
+1433-02 	133 				ayssadonum 						magnum 								1
+1433-02 	134 				olame 														1
+1433-02 	135 				cella 				cum duobus pedibus 		rotunda 								1
+1433-02 	136 				veccemvectem 						magnum 								1
+1433-02 	137 				petias 			ferri 			parvas 								1
+1433-02 	138 				cellam 				cum duobus pedibus 		magnam, rotundam 								1
+1434-01 	6 				botas 	duas, sex 					milhayrolarum 								1
+1434-01 	7 				sedilia 	sex 		fustea 											1
+1434-01 	8 					duo 												nucea, scamna 	2
+1434-01 	9 				matalassia 	tria 													1
+1434-01 	12 					duocum 												arnatu, corio, sedilia, superaurato 	4
+1434-01 	13 					duo 												nucea, scanna 	2
+1434-01 	14 					duo 												enea, laudrialandria 	2
+1434-01 	15 					unum 												deauratum, tapassium 	2
+1434-01 	16 				tabula 	una 			cum suo inpissio? 										1
+1434-01 	17 					sex 												nucea, scabella 	2
+1434-01 	18 																	aulam, camera, in, prope 	4
+1434-01 	21 				matalassium 	unum 													1
+1434-01 	22 					unum 												fol, pulvinar 	2
+1434-01 	23 					una 												capsia, in, qua, sunt 	4
+1434-01 	25 							linea 										servieta, triginta 	2
+1434-01 	26 					duo 		lanea 				viridis 						coloris, vestimenta 	2
+1434-01 	27 				zona 	una 						argentea 							1
+1434-01 	28 				zona 	una 			cum crocus argentea superaurata 										1
+1434-01 	29 																	in, inventa, res, secunda, sequentes, stagia, sunt 	7
+1434-01 	31 																	matalassia, quatuor 	2
+1434-01 	32 																	cuberte, quatuor, sive, vane 	4
+1434-01 	33 				pulvinaria 	duo 													1
+1434-01 	34 				scabelle 	sex 		fustee 											1
+1434-01 	35 					unum 												coffretum, de corio, in, quo, sunt 	5
+1434-01 	37 																	quatuor, servieti, viginti 	3
+1434-01 	38 					duo 						crocei, rubei 						coloris, et, hominis, vestimenta 	4
+1434-01 	40 					quinque 		linie 					nove 					, a, bruna, camisie, quadraginta 	5
+1434-01 	41 												bona 					camisie, coton, et, femine, intexta, viginti 	6
+1434-01 	42 					unum 				vacuum 								coffretum, de nuce 	2
+1434-01 	46 																	forniliera, quatuor 	2
+1434-01 	47 					quinque 								ad portandum 				aquam, inde 	2
+1434-01 	48 																	de stamno, fino, platei, viginti 	4
+1434-01 	49 					sex 												cultelli, fol 	2
+1441-01 	5 				bancum 	unum 		fuste 											1
+1441-01 	6 					unam 		fuste 			parvam 							sedendi, sellam 	2
+1441-01 	7 					unam 		fuste 										capciam, pauci, valoris 	3
+1441-01 	8 					unum 												lapideum, morterium 	2
+1441-01 	9 				veru 	unum 													1
+1441-01 	10 				tendedoyras 	duas 					parvas 								1
+1441-01 	11 					unam 			cum submensalibus 									mensalem, tabulam 	2
+1441-01 	12 				bancos 	duos 		fuste 											1
+1441-01 	13 				brocum 	unum 		fuste 	cum sella bugaderia 										1
+1441-01 	14 					unum 												pro filando, tornum 	2
+1441-01 	15 				cofros 	duos 				vacuas 			veteres 						1
+1441-01 	16 					unam 			cum banquis 									colcam, tabularum 	2
+1441-01 	17 				bassachiam 	unam 													1
+1441-01 	18 				flassiatam 	unam 													1
+1441-01 	19 				linteamina 	duo 							debilia 						1
+1441-01 	20 																	bougias, folleres, quasdam, sive 	4
+1441-01 	21 					duas, duas 												et, limas, vassias 	3
+1441-01 	22 					unius 												insudis, medietatem 	2
+1441-01 	23 					unum, unum 												a, et, mallium, man, martellum 	5
+1441-01 	24 					unum 												dalli, martellum 	2
+1441-01 	25 					octo 					parvos 							diversarum, maneriarum, martellos 	3
+1441-01 	26 					unam 												claveriam, grossam 	2
+1441-01 	27 				aisetam 	unam 		ferri 											1
+1441-01 	28 				grassilham 	unam 													1
+1441-01 	29 					unam, unam 					magnam, parvam 							et, serram 	2
+1441-01 	30 				peirerie 	unum 		ferrum 											1
+1441-01 	31 					unam 					parvam 							caisietam, seram, sine 	3
+1441-01 	32 					unum 		de fusta 										districtam, factam, pro eis 	3
+1441-01 	33 					unum 												mandrier, pro securibus 	2
+1441-01 	34 				suffias 	duos 		ferri 											1
+1441-01 	35 					duas 					parvas 							mandrier, pro securibus 	2
+1441-01 	36 				tenaces 	duas 					parvas 								1
+1441-01 	37 					unam 					magnam 							fol, tenalham 	2
+1441-01 	38 				curasuoc 	unum 													1
+1441-01 	41 					unam 												minutam, molam 	2
+1441-01 	42 				brocam 	unam 		ferri 			magnam 								1
+1441-01 	43 				claveriam 	unam 					parvam 								1
+1441-01 	44 				forquellam 	unam 		ferri 											1
+1444-01 	6 					unum 												colors, cuebre, de diversas, liech 	4
+1444-01 	7 					duas 												flassiatas, mediocris, valoris 	3
+1444-01 	8 					duos, duos, unam, unum 		stagni, stagni 										et, et, missirabam, platos, potum, scutellos 	6
+1444-01 	9 																	canniapus, cori, de filo, et, libras, libras 	6
+1444-01 	10 					tres 		burelli, lane, panni 				canne 						de quibus, fecerunt, fili, fol, libras 	5
+1444-01 	11 				coffrum 	unum 		ferratum 			magnum 								1
+1444-01 	12 				coffrum 	aliud, unum 		ferratum 			parvum 								1
+1444-01 	13 				coffrum 	aliud, unum 		ferratum 			parvum 								1
+1444-01 	14 				tersoria 														1
+1444-01 	15 				garbellinos 	octo 					parvos 		novos 						1
+1444-01 	16 					unam 					parvam 							pictam, pixidem, sive, vegeta 	4
+1444-01 	17 					quandam 			cum v ponderos grossos et minutos usque quantitatem cuiuslibet? quatuor librarum 									sera, steteram 	2
+1444-01 	18 				sceteram 	quandam 			cum ponderibus .... pecias auri cum stucho 										1
+1444-01 	19 					unam 					magnam 							cayssiam, farnietam 	2
+1444-01 	20 				sacos 	duos, saumate 													1
+1444-01 	21 					duarum 					eminarum 							quatuor, quilibet, sacos 	3
+1444-01 	22 				florier 	unum 													1
+1444-01 	23 					unam 												mediam, sacam 	2
+1444-01 	24 				bancos 	duos 							novos 						1
+1444-01 	25 					tres 					magnas 							spissas, tabulas 	2
+1444-01 	26 					una 												de fornier, rascla 	2
+1444-01 	27 					unam 												cuebrepasca, tele 	2
+1444-01 	28 					unam, unam 		ferri 										ayssadam, et, palam 	3
+1444-01 	29 					duas, unam 					parvam 							alteriam, et, grossam, verrunas 	4
+1444-01 	30 					unam 		ferri 										furcam, ventandi 	2
+1444-01 	31 					duas, unum 		fuste 										et, forcatum, furcas 	3
+1444-01 	32 					duos 												coffinos, palme 	2
+1444-01 	33 					aliud, unum 					parvum 							coffinum, palme 	2
+1444-01 	34 																	Hugone, annone, dicte, domine, duodecim, eminas, habitas, in, possessionibus 	9
+1444-01 	35 					decemocto 				vini 								Hugone, ad rationem, de possessionibus, dicte, grossorum, habitas, illius, metretas, milhayrola, partium, pro qualibet, quadraginta, seu, venditi 	14
+1444-01 	36 				banastas 	tres 													1
+1444-01 	37 					unam 		ferri, lina 										pectinandi, pectinem 	2
+1444-01 	38 					unam 		panni 				alba 						chopam, froderatam, penna, violeti 	4
+1444-01 	39 					unum 		panni 				alba 						blani, froderatum, mantoletum, nubtiales, que, sunt, tela 	7
+1444-01 	40 											rubeum 						capucium, quoddam 	2
+1444-01 	41 				zonam 	unam 		argenti 	cum testuto de sirico violeti 						superdeauratam 				1
+1444-01 	42 					sex 					magnas 		bonas 					bartaruellas, et, palaniellaspalamellas, sive 	4
+1444-01 	43 				barrilas 	duas 													1
+1444-01 	44 					unam, unam 			cum cubessello 		parvam 							cellam, sedem, seram tem, sive 	4
+1444-01 	45 					duas, unam 		ferri 			magna, parvam 							alteram, cubessellas, fol, m 	4
+1444-01 	46 					unam 								pro ponderando 				cassam, farinam, munitam 	3
+1444-01 	47 				salerium 	unum 		stagni 											1
+1444-01 	48 				cloqueria 			fuste 											1
+1444-01 	49 					duo, unam 					magnam 							calata, et, gavanholam, gavanholos, sive 	5
+1444-02 	6 																	mastra, quedam 	2
+1444-02 	7 																	quedam, tabula, tendendi 	3
+1444-02 	8 				broqui 	duo 													1
+1444-02 	9 				banqui 	duo 		fuste 											1
+1444-02 	10 				tamisia 	duo 													1
+1444-02 	11 					una 												capcia, de sapo, quedam 	3
+1444-02 	12 																	celle, sedendi 	2
+1444-02 	13 							stagni 										pitalfi, quatuor 	2
+1444-02 	14 					aygaderie, due 		stagni 											0
+1444-02 	15 							stagni 										et, plati, quatuor, quatuor, scutelle 	5
+1444-02 	16 				gratuza 	una 													1
+1444-02 	17 				sacci 	duo, saumate 													1
+1444-02 	18 				berrarrii 	octo 													1
+1444-02 	19 					una 							nova 					barrila, fol 	2
+1444-02 	21 					duo, uno, unus 		fustea 										colca, et, lectus, lintiamina, lodice, matalacio, munitus, pulvinari 	8
+1444-02 	22 					una 					magna 							capcia, erant, in, qua, res, sequentes, viz 	7
+1444-02 	27 					una 												birreta, hominis, nigra 	3
+1444-02 	28 					due 												flassiate, pauci, valoris 	3
+1444-02 	29 					una 		lantea 										lartea, media 	2
+1444-02 	30 																	annone, circa, emine 	3
+1444-02 	31 																	avene, circa, emine, grosse, quindecim 	5
+1444-02 	32 				enses 	duo 													1
+1444-02 	33 					unus 												cultellus, lateralis 	2
+1444-02 	35 								cum tabulonis 		parva 							mensalis, quedam, tabula 	3
+1444-02 	36 				banqui 	duo 		fuste 											1
+1444-02 	37 				sartagines 	due 		de ferro 											1
+1444-02 	38 				cupertelle 	duo 		ferri 											1
+1444-02 	39 					una 												metalli, olla 	2
+1444-02 	40 				scissoria 			fuste 											1
+1444-02 	41 				scutelle 	octo 		fuste 											1
+1444-02 	42 					duo 		fuste 										cloquearia, fol 	2
+1444-02 	43 				culheria 	una 		ferri 											1
+1444-02 	44 				tripedes 	duo 													1
+1444-02 	45 				crucibola 	duo 													1
+1444-02 	46 								cum trissono 									marmoreum, morterium 	2
+1444-02 	47 																	circa, fili, fili, libre, vel 	5
+1444-02 	48 				jarra 	una 					terrea 								1
+1444-02 	49 				pohadoyra 	una 		de cupro, ferro 											1
+1444-02 	51 				ayssade 	due 							bone 						1
+1444-02 	52 				ayssada 								debilis 						1
+1444-02 	53 				pique 														1
+1444-02 	54 				ayssadoni 	duo 					magni 								1
+1444-02 	55 				vomeres 	duo 													1
+1444-02 	56 					due 												serre, trachales 	2
+1444-02 	57 				benhe 	due 													1
+1444-02 	58 				berrie 	due 													1
+1444-02 	59 				basti 	duo 													1
+1444-02 	60 				mula 	una 													1
+1444-02 	61 				mulus 	unus 													1
+1444-02 	62 				secures 	tres 													1
+1444-02 	63 				dallius 	unus 													1
+1444-02 	65 				colca 	una 		fustea 	cum matalacio et pulvinari 										1
+1444-02 	66 					unum 			cum torculari 									dolum, vinarium 	2
+1444-02 	67 				discartatoria 														1
+1444-02 	68 				trahedoyra 	una 													1
+1444-02 	69 					due 						rubeo 						bote, plene, vino 	3
+1444-02 	70 									vacua 								botam, quedam, vinaria 	3
+1444-02 	71 					duo 												carratelli, vinarii 	2
+1444-02 	72 																	collarerii, quatuor, vinarii 	3
+1444-02 	73 				barrile 														1
+1444-02 	74 				pala 	una 		de ferro 											1
+1444-02 	75 																	de faugueiayre, litheri 	2
+1444-02 	77 										terra 							et, quedam, vinea 	3
+1444-02 	78 										terra 							fol, quedam, quedam, sic 	4
+1444-02 	79 				quedam 						terra 								1
+1444-02 	80 										terrarum 							affare, et, pratorum, quoddam 	4
+1445-01 	4 					aliud, unum 												Anthoni, carreria, contiguum, de Jerusalem, fuerunt, hospicium, in, in, precedenti, quibus, reperte, res, scitum, sequentes 	14
+1445-01 	7 				scannum 	aliud, unum 			cum meiano etiam vacuum sine seris 										1
+1445-01 	8 				bancum 	unum 													1
+1445-01 	9 				tabularium 	unum 													1
+1445-01 	10 					due 												butigii, candelabra, ferii 	3
+1445-01 	11 				chalhadariam 	unam 													1
+1445-01 	12 				trenchetum 	unum 													1
+1445-01 	13 				calfatores 	duos 													1
+1445-01 	14 					tres 												duodenas, formarum 	2
+1445-01 	15 					unam 												sal, selletam 	2
+1445-01 	16 				brocum 	unum 													1
+1445-01 	17 				banastas 	duas 													1
+1445-01 	18 				rascellos 	quinque 													1
+1445-01 	19 					tres 												alenas, quales, tales 	3
+1445-01 	22 									vacua 								capsea, na, u 	3
+1445-01 	23 				cella 	una 									perforata 				1
+1445-01 	24 				jarreta 	una 				vacua 									1
+1445-01 	27 					una 												faciem, pauci, supra, tela, valoris 	5
+1445-01 	28 					unus 		fusteus 										banquetus, fol 	2
+1445-01 	31 				saleriam 	unam 		stagni 											1
+1445-01 	32 					unum 		ferri 										candelabrum, pauci, valoris 	3
+1445-01 	33 					unum 												Beate, Marie, horatorium 	3
+1445-01 	34 				bancum 	unum 		fuste 											1
+1445-01 	35 					unam 		fuste 										duodenam, sisoriorum 	2
+1445-01 	38 				banastonum 	unum 				vacuum 									1
+1445-01 	39 				caysetam 	unam 			cum copertello fracto 	vacuam 									1
+1445-01 	47 					unam 				vacuam 								botam, modici, valoris 	3
+1445-02 	6 					unam 				vacuam 								, botam 	2
+1445-02 	7 				trahedoyram 	unam 													1
+1445-02 	8 					unam 												, botam, milh 	3
+1445-02 	9 				caratellum 	trium 					milhayrolarum 								1
+1445-02 	10 																	embutum, gratum 	2
+1445-02 	11 				dolum 						milhayrolarum 								1
+1445-02 	12 				torculawr 														1
+1445-02 	13 				scalam 														1
+1445-02 	14 				dolum 	alium 					milhayrolarum 								1
+1445-02 	15 				pontem 														1
+1445-02 	16 					unius 												bodum, vasis 	2
+1445-02 	17 					quinque, unam 												botam, millayrolarum 	2
+1445-02 	18 				discargatariam 														1
+1445-02 	19 																	, asuarum, lectos 	3
+1445-02 	20 				cofionrum 														1
+1445-02 	21 				potum 														1
+1445-02 	22 				myssirabam 														1
+1445-02 	23 																	carcays, medium 	2
+1445-02 	24 				carcays 														1
+1445-02 	25 				bancum 														1
+1445-02 	26 																	mapas, pauci, valoris 	3
+1445-02 	27 				cofinos 														1
+1445-02 	28 				peyreriam 														1
+1445-02 	29 																	bloq, epst 	2
+1445-02 	30 				olamadi 														1
+1445-02 	31 				flaciatam 														1
+1445-02 	32 				jarram 														1
+1445-02 	33 																	fol, oleriam 	2
+1445-02 	34 				sartagines 														1
+1445-02 	35 				telas 														1
+1445-02 	36 				servellerium 														1
+1445-02 	37 				colcam 														1
+1445-02 	38 				matalaciam 														1
+1445-02 	39 				coyssium 														1
+1445-02 	40 				capsias 														1
+1445-02 	41 																	, tabulas 	2
+1445-02 	42 				bancum 														1
+1445-02 	43 																	forcas, ventendi 	2
+1445-02 	44 																	forcam, garberiam 	2
+1445-02 	45 				picam 														1
+1445-02 	46 				morterium 														1
+1445-02 	47 				trissonis 														1
+1445-02 	48 				pinnasile 														1
+1445-02 	49 				aste 														1
+1445-02 	50 				brocam 														1
+1445-02 	51 																	certa, ferramenta 	2
+1445-02 	52 																	a, mapam 	2
+1445-02 	56 				destrals 														1
+1445-02 	57 				banastam 														1
+1445-02 	58 				banastonus 														1
+1445-02 	59 				celam 														1
+	443
+censuales	1
+toalholam	1
+aissadam	1
+toalholas	2
+discarcatoria	1
+cuiusdam	3
+platelletum	2
+utraque	1
+bancale	4
+pauci	40
+capsieta	4
+cacobos	1
+liech	1
+forniliera	1
+canestellas	1
+paria	4
+vineam	10
+caisietam	1
+pparati	1
+capucia	6
+vasa	13
+aurelhonis	1
+podadoream	1
+espieu	1
+de vorio	1
+dels	1
+monti	1
+mallium	1
+vinaterias	1
+de scarvillata	2
+lateris	1
+tinas	1
+brassos	1
+sachis	2
+velas	2
+habet	1
+humidity	14
+verii	1
+evidessium	1
+tinam	4
+bocassino	3
+coffines	1
+partem	1
+putatoyra	1
+ad partem	3
+viridarium	1
+manus	1
+anulos	1
+cedendi	1
+seram	1
+pro xxxii	1
+xvii	1
+above	1
+sayham	1
+sisoria	1
+formarum	1
+vonam	1
+graticulas	1
+masaponum	1
+plenis	1
+aquam	2
+studii	1
+cart	2
+culp	1
+grazillam	1
+pro picando	1
+Enquisition	1
+deflassadonum	1
+tunicam	3
+femine	2
+pollasses	1
+clothide	1
+paussi	1
+avene	2
+longeriam	4
+nuces	1
+plenum	8
+anticum	1
+demendals	1
+tohalhonos	1
+longerias	14
+planons	1
+tiossum	1
+boysseas	1
+baliste	2
+capssietas	1
+balista	1
+triginta	4
+tela	5
+tele	13
+florenorum	2
+capssietam	1
+penna	4
+Johanne	1
+botinarum	1
+lodicem	6
+cayssonos	4
+vestimenta	2
+lodices	1
+coffretum	5
+tranellamtravellam	1
+sitam	1
+grazale	3
+quale	2
+de chameloto	1
+candelabro	1
+serram	3
+candelabra	8
+mo	1
+cessoria	3
+condulatorias	1
+oley	2
+stabulum	3
+“antiphona”	1
+serras	1
+graticulam	2
+devastatam	1
+caxia	1
+brunitum	1
+scissoria	10
+fluna	1
+camisium	2
+bassina	3
+Clementis	1
+quos	3
+quoddam	20
+ayguaderias	1
+tionerium	5
+scriveum	1
+urseum	1
+milhay	1
+etiam	2
+ayguaderiam	3
+porcum	1
+quod	4
+Spinelli	1
+bolho	1
+ad rationem	2
+coyssium	1
+de gallinis	1
+platei	1
+pavesium	8
+supradicta	1
+garengalli	1
+vfl	1
+piolam	2
+capolerios	1
+ayssadam	5
+quibus	2
+quatuor	46
+onssam	1
+operate	1
+copam	1
+deblis	1
+tutellos	1
+viratonorum	1
+depictam	3
+Adsanis	1
+traylicium	2
+sive	54
+carlinos	1
+operis	7
+clausi	1
+fit	1
+gavotorum	1
+berroyes	1
+bassachiam	11
+amigdalarum	2
+temprerium	1
+versus	1
+cubertello	2
+enseus	1
+laseratum	1
+paramentum	1
+comendendum	1
+uchena	1
+rudelletum	1
+flaciata	2
+flaciate	1
+mirabolans	1
+carteriarum	1
+cruciboles	1
+cathena	1
+gracusam	3
+pignore	3
+lodicibus	1
+trahedoyra	5
+candelabras	1
+poncha	1
+glavium	2
+ad mensurandum	3
+esmaltatam	1
+certam	4
+eminate	2
+uchenam	1
+tales	2
+distargaryram	1
+debit	2
+palam	3
+servieti	1
+coffinorum	1
+cissorium	1
+dogaminis	3
+tabularum	1
+taulo	1
+sarrias	1
+pro securibus	2
+fres	1
+arquibans	2
+pedum	3
+fayssiarum	1
+cloqueria	2
+alteram	1
+payssonum	1
+mesquini	1
+dumtaxat	1
+tersoria	1
+pistati	2
+farnietam	1
+misserabas	1
+lartea	1
+enis	2
+scanhada	1
+civitatis	2
+poderrandi	1
+Cavallerii	1
+massis	1
+forcatos	1
+patres	1
+ronc	1
+xii	1
+garberiam	1
+tianum	5
+codoni	1
+cupertello	1
+instrumentis	3
+affixatum	1
+tianetum	1
+lanternam	3
+curtains	1
+quadraginta	3
+marinarum	1
+cushions	1
+ad predictos	1
+nigram	4
+picas	1
+mappam	5
+Margarite	1
+tauletum	1
+dominam	1
+ad balneum	1
+muscarellam	1
+mappas	2
+stanguetas	1
+caissiam	2
+banderiam	2
+stabulo	1
+torqua	1
+tabulis	1
+Johannem	1
+integrarum	1
+sizoria	1
+linteaminum	1
+bancum	17
+scudellas	1
+draynum	1
+“volutas”	1
+meganorum	1
+de ferramenta	2
+xi	1
+caratellum	1
+bassachia	4
+vgr	1
+caxietam	1
+candelebra	1
+quasdam	2
+scutellam	3
+platelletarum	1
+masargne	1
+erant	4
+scutellas	16
+quasdas	1
+cacrubitam	1
+copertorium	10
+scanhatas	1
+Monteolivorum	1
+pureya	1
+rebearum	1
+m	1
+lecti	2
+trabestam	1
+nucea	3
+fenestras	1
+pontirii	1
+cavinetam	1
+bodiis	1
+colors	1
+toalhlas	1
+fratas	1
+engluges	1
+curasuoc	1
+gallas	1
+culcitram	4
+gonellam	3
+catidis	1
+scripture	1
+eidem	2
+plate	2
+lampadem	1
+pictam	2
+plata	1
+gratinam	1
+valoris	104
+plati	1
+trisorium	2
+cushion	1
+breviarium	1
+pictas	1
+grossis	1
+rasure	1
+totham	1
+tothas	1
+bad	1
+diversarum	1
+scutellos	2
+barrilas	2
+lapidea	3
+ad comendendum	1
+tiriate	1
+securin	2
+securim	4
+lapidem	1
+siprecii	1
+reginales	1
+barrilam	6
+ficus	3
+prope	1
+berrarrii	1
+gingiberi	2
+vestitam	1
+xvi	1
+servitorium	1
+carratelli	2
+destrals	2
+vendite	1
+platelli	1
+acetum	1
+Santolhi	1
+sera	3
+venditi	1
+platellum	1
+conca	1
+sigillos	1
+usitatas	2
+“ab	1
+pectinen	1
+tramete	1
+focanea	1
+cabedelli	1
+gavachiam	3
+criveum	1
+suscripte	2
+orti	4
+indivisam	1
+usitatam	1
+certorum	1
+culhayreros	1
+diversorum	2
+lanterna	2
+reliqua	1
+relique	1
+borcellas	1
+carrayssium	1
+ayssatam	1
+metrete	1
+peccunia	1
+mobilibus	1
+canniapus	1
+miysseraba	1
+blanqueti	1
+tessos	1
+useta	1
+traditos	1
+begias	1
+tine	1
+tina	1
+torculawr	1
+Fulconis	1
+vasis	4
+forquellam	1
+puorili	1
+filaras	1
+castri	1
+tamisium	5
+trissonis	1
+plechatum	1
+frachissa	1
+viii	4
+muliebrem	1
+pratorum	1
+ix	1
+barralos	1
+de Jerusalem	1
+vigintiduo	1
+traheydoyram	1
+boyssiam	1
+cacoba	1
+ii	20
+mysserabas	1
+rationum	1
+frunem	1
+in	76
+pitam	2
+salmatas	1
+picta	3
+insudis	1
+traverserio	1
+Peyretum	6
+de liberando	1
+grailhas	1
+grailham	1
+quartum	4
+ad treandum	1
+ad vindemiandum	1
+avantbrasses	1
+pohayce	1
+ayssera	1
+affare	1
+tyonerium	1
+tendedoyras	2
+barchiam	1
+ayssadonetos	1
+portam	1
+passati	1
+bougarum	1
+tendedoyram	6
+calfatorium	4
+mosconia	1
+qualis	1
+the	2
+infra	10
+payrolis	1
+facti	1
+supercelum	1
+cayssonum	1
+carteriatarum	2
+de viride	1
+Errore	1
+de listis	1
+de virido	1
+vocatas	1
+de viridi	2
+ortum	6
+dolum	4
+mollos	1
+flaciatam	3
+nucis	1
+matalassium	4
+intorticia	1
+ortus	1
+tayssietam	1
+rosati	1
+archrumenti	1
+apud	1
+bassinetus	1
+vonges	1
+gavedetam	1
+sausserios	1
+tinellos	1
+frivolem	1
+crucibolum	8
+strenhedor	1
+bassinetum	1
+mensalis	5
+tendendum	1
+de Sto	1
+homins	1
+ad remalhandum	1
+sargam	1
+coyssinum	1
+broqui	4
+arpinventi	1
+broqum	1
+de palma	1
+carcayssios	1
+toros	1
+coralli	1
+flaciatas	6
+fornitam	1
+sisoriorum	1
+cappellum	1
+for	1
+camisiam	1
+edendi	2
+librarum	6
+viayas	1
+camisias	3
+calcadoyram	2
+fol	64
+ventandi	2
+gladios	1
+rusque	1
+servilem	1
+culherios	1
+cori	1
+Rixendem	1
+dadoira	1
+pedem	1
+attamen	1
+cofrum	3
+vindemiandi	2
+post	2
+Blacassi	1
+pro duodecim	1
+almussam	1
+potos	4
+capcietam	9
+senegreti	1
+capcietas	3
+eodem	3
+plus	3
+lapid	1
+lieg	1
+rebolla	2
+sol	2
+two	1
+verrunas	2
+auricular	1
+Massilete	1
+puerorum	1
+Aycardi	1
+arcam	4
+debles	1
+cunebuli	1
+bolhon	1
+stuch	2
+decemseptem	2
+pellissiam	1
+taulerium	2
+farine	2
+furcam	3
+medium	10
+pannipurgiam	1
+ligni	3
+fracham	1
+usatos	1
+sezenam	1
+taulonos	2
+truvellum	1
+cutellos	2
+furcas	1
+arnatas	1
+precio	86
+cartinis	1
+avellum	1
+sindone	1
+embutum	3
+peyreriam	2
+brocarum	1
+paneriam	2
+xiii	1
+pentam	1
+petie	1
+petia	2
+de syndone	1
+putadoyram	1
+candelbra	1
+Anthonium	11
+na	1
+aysadetam	1
+Anthonius	1
+tia	1
+Andree	1
+pro estachiis	1
+fabri	1
+nutam	1
+paumole	1
+palme	9
+coronam	1
+vinarum	1
+singulis	3
+de bort	1
+ortale	1
+jarretum	1
+gavanholos	1
+siberi	1
+pitalpha	2
+bloquerios	1
+bodum	1
+tovalhas	1
+circulorum	3
+de Messina	1
+jarra	1
+privatas	1
+jarre	2
+florenos	1
+antellinum	1
+viholeti	1
+zona	3
+copertam	4
+copertas	1
+quasi	3
+vinarium	7
+vel	48
+panerios	1
+gardellinum	1
+mensale	1
+pecten	1
+pitalphum	1
+fyli	1
+quelibet	2
+voluit	1
+cultelli	1
+minuta	1
+room	1
+pixidem	1
+fayssia	5
+tear	1
+pavalate	1
+aule	1
+p	3
+scriptorium	1
+minutam	1
+alfe	1
+penoris	1
+Igtem	1
+transversserium	1
+targeta	1
+payrolum	4
+balansier	1
+cabedellos	1
+folderatum	3
+cancellatum	1
+stuera	1
+barilam	1
+matram	1
+quedam	20
+bradum	1
+destraleta	1
+sartago	4
+de glassia	1
+ad mutinum	1
+aurifabrie	1
+ranoyra	1
+avellanarum	1
+rodundam	2
+vanilanie	1
+Antonio	1
+massapanos	3
+ligamen	1
+cabaturis	1
+boa	1
+pro maga	1
+debitum	1
+pestrin	1
+fomnas	1
+reperte	8
+extra	1
+modum	1
+descenduda	1
+pulcrum	1
+canistrum	1
+carteriartum	1
+senem	1
+transverssium	1
+usata	1
+de dogarie	1
+ad censum	2
+epst	1
+peyssonerie	1
+quosdam	2
+scita	1
+finit	2
+paleas	1
+scanna	1
+reliquerias	1
+dreysatorium	1
+capssias	1
+pro fenia	1
+capssiam	2
+parrici	1
+panalem	4
+pilvaria	1
+xxiiiior	1
+toalhonos	2
+competentis	1
+vege	1
+clotham	1
+cad	1
+pro cera	1
+gerras	1
+flunas	1
+ad enbotandum	1
+platum	2
+stola	1
+funeria	1
+galee	1
+trahedoyram	2
+sissoria	7
+camisie	2
+fronteriam	3
+albalistam	1
+albaristam	1
+lapidis	12
+vecuradoyra	1
+puri	1
+mastici	1
+puro	2
+secures	5
+vinaygregium	1
+carrerie	1
+laundry	1
+carreria	5
+camiziam	1
+berroerium	1
+man	1
+vezibol	1
+steteram	1
+avans	1
+nonni	2
+trissonos	2
+corona	1
+censum	1
+tale	2
+ad magr	1
+platellas	1
+tellarum	2
+sc	1
+finibus	1
+se	2
+celam	1
+possessio	1
+endes	7
+colp	2
+celleria	1
+colo	1
+tambolos	1
+pervenit	3
+calabresam	1
+intexta	1
+forma	1
+forme	3
+regalium	3
+sistentes	5
+equitandi	1
+catredam	1
+cloquear	1
+dogas	3
+cruvellum	3
+cloquears	1
+non	2
+quantitate	1
+botitumbocitum	1
+pectinandi	1
+sufficientem	1
+mortuorum	1
+metretas	1
+caltadoyram	1
+apium	1
+salserias	1
+tohalholas	3
+de cotono	1
+magam	1
+barutellos	1
+lintiamen	2
+tohalholam	1
+salseriam	1
+ginonetum	1
+cafuec	1
+aysadonum	2
+em	1
+ayssadonetum	1
+en	1
+cotoni	3
+bassinas	2
+bruscos	1
+cartale	2
+denariorum	2
+bassinam	8
+verumam	1
+et	277
+munitum	7
+sistens	1
+gabias	1
+torcular	4
+molterium	1
+duodene	1
+grahilham	1
+drayumdrayuni	1
+cuebre	1
+vinirium	1
+romana	1
+felezenorum	1
+gratula	1
+onciarum	1
+bougias	1
+Jude	1
+quart	9
+qi	1
+baral	1
+panalaes	1
+plechetos	1
+sceteram	1
+gralha	1
+clopetam	1
+tessonos	1
+sede	1
+xiiii	2
+vanoa	1
+conclavati	1
+cellarium	1
+amigdolorum	1
+barberii	2
+martellum	4
+carra	1
+scuti	1
+balistam	4
+barales	1
+breviarum	2
+bassacham	1
+patinorum	2
+oratorium	2
+mensuram	2
+ad dictos	1
+existentem	3
+morati	1
+Leonem	1
+circa	68
+eiusdem	2
+gratua	1
+quat	1
+gratum	1
+quas	1
+quar	1
+quam	33
+fentorue	1
+grazeletos	1
+ydriam	1
+flassiatam	6
+mensalem	17
+ayssadonos	4
+astile	4
+banquetam	1
+mensales	4
+spiss	1
+flassiatas	4
+grasalos	1
+and	4
+territorio	1
+Frucharie	1
+sal	1
+Vide	1
+banaste	1
+pro certa	1
+tesariorumcesariorum	1
+cofros	2
+oleum	7
+sat	1
+pulvinal	3
+circulis	1
+scannum	5
+pro assellando	1
+postes	3
+manutergiorum	1
+cacidis	1
+massa	1
+avielhios	1
+suffias	1
+trissos	1
+pulvinar	16
+solidos	1
+numero	1
+forcam	2
+coloris	13
+listadam	1
+grassilham	1
+perlies	1
+capucium	9
+pavesia	8
+pruniatam	1
+frucham	1
+trachales	1
+targetam	1
+millayrolarum	1
+veccemvectem	1
+choppam	4
+serrandi	1
+entofflos	1
+cortine	1
+pedisseque	1
+duodecim	4
+sobie	1
+milayrolarum	1
+platellos	2
+plume	2
+lepores	1
+sexagintaseptem	1
+calata	1
+calaviami	1
+coffini	2
+bruni	1
+luife	1
+calumpna	1
+mediori	1
+ad numerandum	1
+caissietum	1
+tendedoyre	1
+selletam	1
+gavanholas	1
+bruna	1
+arbore	1
+balansonos	1
+bolliaruneni	1
+primo	5
+nulanestam	1
+scallam	1
+mediam	9
+racam	1
+oricoriiii	1
+aysadam	2
+ut	1
+gavanholam	3
+latitudinis	1
+papiru	1
+aratrum	1
+scripturis	1
+bassacus	1
+incipit	6
+vita	1
+scrineo	1
+pohadoyram	1
+clitellam	1
+domo	5
+banastonus	1
+ventendi	1
+panipurgia	1
+de nuce	6
+magistri	1
+annone	5
+de man	1
+togam	3
+forcas	1
+augeloti	1
+clipeum	3
+mapas	25
+tangencia	1
+de here	1
+banquetus	1
+cruce	1
+quondam	1
+putatorium	1
+cortinam	2
+de grizo	1
+banquetum	3
+branilinas	1
+incenssi	2
+mapam	10
+milhayrola	1
+mans	1
+garbellam	1
+sueria	1
+barrilarum	1
+vut	1
+“mini”	1
+vela	3
+sexdecim	4
+pro eis	1
+prus	1
+tenentur	1
+aurelherios	1
+tornalho	1
+ante	2
+mense	1
+grataboyssas	1
+pravos	1
+lodice	1
+de rompir	1
+velum	1
+corpertus	1
+doladoyras	1
+marcharum	2
+linteamen	1
+vinariis	1
+dragonis	2
+circam	1
+farinam	3
+multum	4
+targata	1
+tripedem	9
+copersellas	1
+lectum	9
+districtam	1
+scriptum	1
+perlarum	10
+quemlibettrium	1
+descargadoyra	3
+fratres	1
+fil	1
+mouna	1
+bolonhinos	1
+planas	4
+ayssade	1
+munita	1
+ayssada	1
+erat	1
+saqui	1
+zonam	3
+planam	3
+medii	1
+par	12
+medio	1
+servellerias	1
+sench	1
+pellissonum	1
+supra	3
+mortarium	1
+crunellum	1
+pro futrendo	1
+servelleriam	3
+pan	1
+de corallo	1
+bloquerium	2
+femorallia	1
+obscuram	1
+celletas	1
+quinquaginta	1
+vanoham	1
+mandrier	2
+flassiate	1
+flassiata	5
+quamlibet	3
+duprietum	1
+targietas	1
+cartayronum	3
+carrivum	1
+de modum	1
+xxxxiio	1
+satis	4
+piscandi	1
+quantitatem	4
+imperfectum	1
+comissam	1
+sizonas	1
+brocum	8
+tamissias	1
+de blanqueto	1
+curassie	1
+bloq	1
+scanhas	1
+mastretam	1
+pili	5
+de variis	1
+prunum	1
+coton	1
+collarecium	3
+cuebreliech	1
+libram	6
+rascla	1
+indivadaguadelli	1
+talha	1
+cabatam	3
+libras	5
+tendedoyra	1
+postam	1
+paneros	1
+tortoyrieras	1
+viniarium	1
+sotulares	1
+tresdecim	4
+vayssellos	1
+tetena	1
+benhe	1
+inter	9
+azinam	1
+argentum	1
+quarum	7
+hominis	12
+grazilham	2
+semensam	1
+vermelhoni	1
+cadastam	1
+portem	1
+olamadi	1
+gardavetis	1
+comensale	1
+ad iamdictos	1
+scanhadoni	1
+domus	3
+viras	1
+platelleto	1
+mappe	2
+ad selcloridum	1
+plenam	3
+esbon	1
+francie	1
+infantum	1
+plenas	1
+caysetam	1
+podadoyra	1
+tuinascle	1
+mantam	6
+dallius	1
+cinetas	1
+grazalem	1
+lectos	1
+sequentes	9
+culheria	3
+confitas	1
+viiio	2
+quales	1
+or	2
+viiii	2
+imbutum	2
+No	1
+payroletam	1
+mensam	1
+morterias	1
+tabulonos	1
+instrumenta	3
+de coralli	1
+chalonum	1
+auricularis	1
+turqsas	1
+thamisium	1
+lapidi	1
+auricularia	3
+blanas	1
+torcam	1
+hereditatem	1
+media	4
+alteriam	1
+endessium	1
+autem”	1
+de tela	1
+crussibolum	1
+mathalacio	1
+de pulpra	1
+usatas	2
+petiam	1
+crocum	1
+cororis	1
+coyffinum	1
+morterios	3
+factum	2
+xxvi	1
+petias	12
+clame	1
+quendam	7
+coralhi	1
+ac	4
+ab	1
+coralho	1
+desburata	1
+pantas	1
+lodisse	1
+ar	2
+at	2
+fili	12
+munitam	5
+valiste	1
+bassinum	4
+tirados	1
+martellos	3
+desubtus	1
+munitas	1
+operum	2
+butigii	1
+macerum	1
+concam	4
+cazale	1
+molles	1
+astes	4
+bassam	2
+milhii	1
+brecii	1
+Bertrandi	2
+burdi	1
+platelletos	1
+omnibus	2
+massappanum	1
+eminat	1
+eminas	8
+codonati	1
+eminam	5
+u	1
+vinee	8
+vinea	2
+oran	1
+subtus	1
+monta	1
+scalam	5
+sunt	19
+pique	2
+scamnum	1
+arpimenti	1
+peonie	1
+forfitete	1
+sotularium	4
+ayssadonum	8
+quatuordecim	4
+z	1
+scitam	1
+rapam	1
+vaza	1
+forsites	1
+candelabrum	8
+veru	8
+ferii	1
+servieta	1
+amoelherium	1
+olanie	2
+penes	4
+olames	1
+statutas	1
+cabanum	1
+scalpis	1
+canivetas	1
+auricularum	1
+grasilhas	1
+rebrandatorium	1
+petiarum	1
+trenchador	1
+tirasuant	1
+sercapos	1
+altaris	1
+absque	2
+castanherii	1
+brackets	1
+hominabatur	1
+manicarum	2
+pro taulio	1
+milh	2
+subscripte	4
+fillati	1
+milhayrolas	8
+dictos	1
+mula	1
+Petrum	5
+lintiaminibus	1
+sacos	4
+cofionrum	1
+contiguum	1
+passinum	1
+Januen	1
+paraxides	5
+dicte	9
+paraxidem	1
+dicta	1
+dicto	1
+dicti	19
+pica	1
+toalhetas	1
+relha	1
+via	1
+calfatores	1
+lxxxta	2
+cofferias	1
+vii	4
+verdeti	2
+discartatoria	1
+viz	10
+corte	1
+fuerat	1
+mensuras	1
+aste	3
+palmore	1
+myssirabaum	1
+mantelum	1
+putatoyram	1
+massam	1
+laserata	1
+botici	1
+gassas	1
+carteriarturam	1
+“tu	1
+linteaminas	1
+coaperta	1
+St	1
+nigris	1
+situm	4
+edeo	1
+sacam	1
+laudrialandria	1
+marcati	1
+limas	2
+suelham	1
+bancalium	1
+bancal	1
+bancas	1
+postelham	1
+v	3
+dictam	2
+cofre	1
+froderatum	1
+codicem	1
+ayssonum	1
+tabulam	40
+tabulas	14
+engluvies	1
+poste	1
+suictum	1
+litheri	1
+cucupendium	1
+enbutam	1
+mape	4
+colliandii	1
+de roheyha	1
+botam	17
+pravas	1
+botas	11
+plena	4
+plene	2
+chopa	3
+de tabula	1
+discargatoriam	1
+ferramenta	2
+palmorum	7
+ferramente	1
+superaurato	1
+jarreta	2
+pitalfum	1
+fl	36
+a	10
+condulos	2
+cavinetorum	1
+scabelle	1
+sedilia	2
+cortinum	1
+ad imbotandi	1
+pans	1
+mofici	1
+rotas	1
+de marmere	1
+menemeve	1
+laternam	1
+medie	5
+de filo	1
+verutum	1
+poncham	1
+vomerem	3
+mulieris	4
+rotam	2
+milliaria	1
+de ambro	1
+vomeres	1
+sedendi	10
+ad modum	2
+de ambra	1
+pena	4
+englinnes	2
+racemorum	1
+pedadoyre	1
+especiarum	1
+trahedoyras	1
+orri	1
+ad descerandum	1
+good	1
+crucibolla	2
+usitatos	1
+coperoze	1
+misserabe	1
+vannas	1
+Blaquerie	1
+iiiior	7
+dicitur	2
+ebraicos	1
+ayssate	1
+endessia	1
+cacobum	15
+ideo	1
+Laari	1
+carratellos	5
+grossam	4
+aysade	1
+grossas	1
+ronssinum	1
+tabuletam	1
+inferius	1
+pedasses	1
+securas	1
+computato	1
+choipam	1
+bemhe	1
+barrale	4
+frunamfruvam	1
+securam	1
+moundetorarum	1
+bocassiono	1
+nobilis	1
+paneria	1
+muscale	1
+dardos	1
+plecham	1
+servellerium	1
+mortier	1
+patonos	1
+libros	3
+barrili	1
+celletam	1
+barrile	3
+barrila	1
+futas	1
+ferraginem	7
+bartaruellas	1
+scabella	1
+integra	1
+ad auriendum	1
+gracuam	1
+quartos	1
+augnum	1
+Hugo	1
+viridi	2
+blani	6
+Cordellarie	1
+cadi	1
+viride	1
+marteletos	1
+foris	1
+brocam	2
+Guillelmo	2
+eque	1
+Guillelmi	5
+gratuza	1
+pecie	1
+brocas	1
+confili	1
+quadam	4
+colcas	3
+colcam	29
+cissoria	2
+discargatariam	1
+de gans	1
+de diversas	1
+Aynardi	1
+Urbaneum	1
+bugadam	1
+sequuntur	1
+de talhas	1
+sexaginta	1
+cupertelle	1
+factam	2
+tutricis	2
+vaoris	1
+Massiliensis	1
+picam	2
+de ris	1
+armigeris	1
+scrineum	5
+ad stindendum	1
+dolium	3
+vinum	6
+Bernardi	1
+vassias	1
+lib	6
+ortos	1
+mapa	1
+possessionibus	1
+farneriam	1
+mathalacium	1
+tolares	1
+scussella	1
+de funeo	1
+broquum	1
+pugillar	1
+gaffam	1
+cubutiam	1
+claratum	1
+plat	1
+esse	2
+viginti	8
+brocos	5
+grossorum	2
+stayre	1
+alphe	1
+vegeta	1
+“missionem”	1
+de davit	1
+vegete	1
+quorum	2
+cayssiam	6
+pulvinawr	1
+cayssias	1
+cardas	1
+cayssonam	1
+balansam	1
+certe	1
+tunica	1
+frechissa	1
+certa	3
+Francie	6
+tinellum	1
+modicii	1
+martelos	1
+fino	1
+telarum	12
+scanhadas	1
+fons	2
+piperis	1
+matalacium	15
+de paribus	1
+cuberte	1
+vocatis	1
+banastam	4
+culherias	1
+quem	2
+tenaces	1
+cugluges	1
+cadratum	1
+culheriam	2
+de fornier	1
+banastas	3
+ayssetam	3
+clavium	1
+aregenti	1
+devastato	1
+sedem	1
+ayssetas	1
+scalpeum	1
+ad prefatos	3
+sartaginem	15
+tormundam	1
+usitata	1
+sartagines	5
+obscuri	2
+x	3
+usitati	1
+scultellonos	1
+seu	5
+vino	13
+emine	3
+culcitra	3
+vine	1
+emina	1
+cameria	1
+benhas	2
+Fol	8
+crunlola	1
+quartam	1
+invenisse	2
+cartum	1
+chalhadariam	1
+barratis	1
+tristegam	1
+cannicie	1
+jarretas	1
+plura	2
+altera	2
+cartinos	1
+de burdo	3
+piram	1
+condam	8
+jarretam	3
+colorum	1
+annis	3
+de corio	3
+nanetam	1
+tenalham	3
+bote	2
+tenalhas	3
+ad salsandum	1
+conchetas	1
+boneratam	1
+arnatu	1
+olla	2
+peccunias	1
+olle	2
+pioletam	1
+scandallum	1
+cirocatellorum	1
+de sapo	12
+giponum	1
+auricule	1
+sardinarum	1
+astiles	1
+pohadoyra	1
+froderatam	1
+unciarum	2
+capsia	14
+cofinos	1
+englugium	1
+garbellinos	1
+antena	1
+tamis	3
+verrubium	1
+partitorium	1
+vane	1
+inceptorum	1
+mantuletum	2
+penhal	1
+faciem	1
+cartaletos	1
+positam	1
+lintiamina	23
+linteaminbus	1
+capsea	1
+forcatum	1
+eminatarum	8
+dictum	3
+cassam	5
+patiespatres	1
+quindecim	1
+pitheiram	1
+circumquaque	1
+quantititas	1
+ad penthinandum	1
+gavinetas	1
+chestnuts	1
+quodddam	1
+enforbi	1
+bossas	1
+foleam	1
+devenerunt	1
+gavinetam	1
+tapassium	1
+trapalam	1
+solerias	1
+latitudis	1
+mantulum	8
+vidastes	1
+pestrium	1
+de vino	1
+ad vindemandum	1
+sacci	1
+siseria	1
+trenelle	1
+Jordani	1
+pentos	1
+trossum	2
+bancos	12
+crudam	1
+fustaneri	1
+mastram	17
+virgas	1
+cacoys	1
+aisadas	1
+crudas	4
+scriptos	1
+trisonos	1
+arrestadoyras	1
+cultellus	1
+Hugone	2
+scamna	1
+armis	1
+calfatoria	2
+cultellum	4
+de moflas	1
+cul	1
+ayssiam	1
+graylha	1
+salerium	1
+pavezium	1
+sartagine	1
+retaules	1
+lapideum	5
+ayssias	1
+d	2
+vinaria	8
+transverserium	2
+vinarii	3
+craticulam	1
+secunda	1
+papiro	1
+pestim	1
+Gauteri	1
+meganos	1
+cufellas	1
+pitalfos	5
+pala	1
+tersor	1
+saculum	5
+rebrondados	1
+scala	1
+de syrico	1
+mesclati	1
+per	3
+missirabam	3
+sumptum	1
+retro	2
+bustriam	1
+disploydem	1
+mantoletam	1
+saleriam	3
+salsate	1
+tornum	1
+goma	1
+pulvinaria	5
+ladere	1
+quilibet	1
+salerias	2
+civitate	1
+discargaderiam	1
+pargamenas	1
+colca	5
+palium	1
+flunam	1
+sayha	1
+punctam	2
+plegadoyram	1
+scissoriorum	2
+habitas	2
+integram	1
+modici	51
+modica	3
+sistoria	1
+The	1
+Anthoni	2
+jarras	3
+mastra	4
+cannarum	3
+coufini	2
+pervenerunt	12
+Martini	1
+suis	1
+tabularium	4
+staterium	1
+“roheyha”	2
+pracha	1
+jarram	17
+baulass	1
+gallum	1
+truvellumtrunellum	1
+cotonine	1
+postem	1
+sesdecim	1
+habuit	1
+Bertrandus	1
+de sanguinia	1
+de Bugia	1
+carteriatam	2
+carteriatias	1
+veruta	1
+rofle	1
+stuerium	1
+saquos	1
+grazalos	1
+lectus	1
+cavalletum	1
+ad secandum	1
+capitergia	3
+calcis	1
+nigri	6
+nigre	1
+cupertellas	2
+nigra	2
+trissonum	2
+cupertellam	3
+arabice	1
+deauratum	1
+palte	1
+onssia	1
+exequiarum	1
+cellas	4
+fausilhas	1
+salsacarum	1
+cotam	2
+de violeto	1
+patrenostres	1
+pollastrium	1
+rizii	1
+pargameno	3
+cellam	9
+pargameni	1
+nubtiales	1
+coffinos	6
+ponhetey	1
+remis	1
+Al	1
+lapidibus	1
+claveriam	2
+thonine	1
+scueriam	1
+tinetam	1
+confrontatam	1
+gr	55
+auritorium	1
+tripodes	1
+computibus	2
+trissoni	1
+scanni	1
+spesso	1
+caissonum	1
+include	1
+alenas	2
+potensam	1
+faussilham	1
+carratellum	11
+nomine	1
+vegetem	4
+vegetes	8
+matalassia	2
+faussilhas	3
+potensas	1
+fini	1
+cayssonetum	1
+de mena	1
+f	2
+olam	2
+olas	1
+mensse	1
+fuerunt	7
+car	1
+molam	2
+matalacio	7
+tamisia	1
+matalacia	4
+berrie	1
+mutui	1
+milhayroarum	1
+benche	1
+platelleti	2
+marmoreum	3
+renvoi	1
+de plombo	1
+mellis	2
+ad tendendum	5
+salmate	1
+linteamina	21
+tranellas	1
+sculette	1
+asuarum	1
+“ossors”	1
+de mala	1
+birreta	1
+tapicium	1
+vinag	1
+mensutis	1
+eranis	1
+grazele	1
+sine	11
+bastum	3
+scanum	1
+tranchetum	1
+scalpies	1
+cera	1
+telas	2
+corio	1
+telam	1
+traverseriis	1
+discaricatoria	1
+corii	1
+caderiam	2
+remanet	1
+clari	2
+bredolas	1
+centum	1
+enbuti	1
+barriletam	1
+certos	1
+spissa	1
+bredolam	12
+cuebrepasca	1
+virgam	2
+spissi	1
+ad ventandum	1
+translitium	1
+carcays	3
+Pape	1
+pro qualibet	2
+fayolorumfayclorum	1
+banastonorum	1
+gavanholum	1
+matalaciam	1
+camera	2
+rastellandi	1
+panem	7
+bredola	1
+grahilha	1
+coffetum	1
+solidis	1
+solum	1
+ad fl	1
+clausam	1
+folderata	1
+cofreta	1
+arnesium	2
+quodlibet	4
+istoriatam	1
+iii	22
+potum	12
+trenchetum	1
+cumasculumcrunasculum	1
+bassinetam	1
+simplicis	1
+mocanda	1
+meianum	1
+pontem	2
+oleris	1
+crossed	1
+dolia	1
+bispertita	1
+de stamno	1
+tas	2
+stanhas	2
+loco	1
+tam	27
+armarium	1
+pro expensis	1
+usus	1
+dixerunt	2
+sic	4
+clengaria	1
+hospicium	19
+payrol	1
+cloquearia	9
+ferios	1
+picherium	1
+Juvenis	1
+cayssetas	1
+martol	1
+calotis	1
+cayssetam	1
+coopertorium	4
+stivallorum	1
+blada	1
+Cambale	1
+spissas	1
+carteriata	1
+psitaci	1
+ayssadoni	2
+spissam	1
+enea	1
+capsietam	1
+butum	1
+platellarum	1
+lb	20
+ll	1
+culputum	1
+sepatum	1
+muletum	1
+pro esmantar	1
+de girofles	1
+calelh	1
+azina	1
+serre	1
+adornment	1
+serra	1
+lectitam	1
+fayssiam	1
+mantellum	6
+ollam	2
+tabularios	1
+ollas	1
+officium	1
+olame	2
+manicas	1
+rectam	1
+pro dreyssiotono	1
+taciam	1
+bouges	1
+bedelli	1
+modi	1
+stabellum	1
+tamitz	1
+timone	1
+indutas	1
+indutam	1
+basswachia	1
+dixit	4
+seutz	1
+illa	1
+out	1
+danis	1
+semen	1
+medietatem	2
+Johannis	3
+fecerunt	1
+florenis	1
+res	15
+canestellam	3
+florata	1
+kalendarium	2
+canestella	1
+cause	1
+reg	2
+payrola	1
+barrillam	1
+payroli	1
+rastellos	1
+qua	9
+que	8
+aquiferas	1
+qui	2
+barrillas	7
+quo	13
+palaniellaspalamellas	1
+myssirabam	2
+ayssadas	5
+conduletos	1
+vanoam	3
+metalli	5
+bastitam	1
+lateralis	1
+de possessionibus	1
+basti	1
+corpertorium	1
+viridam	2
+myssirabas	1
+canellum	1
+omnia	1
+possessionem	2
+zucar	1
+Blacayroni	1
+mulierum	1
+capam	1
+broquorum	1
+paves	1
+panalatorium	1
+cadum	1
+agferas	1
+gradoyram	1
+cunabulum	1
+banqui	4
+circulati	1
+banqum	2
+poti	1
+coffrum	8
+dolhi	1
+pote	1
+valde	1
+scutelle	5
+vinariam	6
+scutella	2
+lanssetas	1
+eminatam	1
+cornutum	1
+eminatas	4
+vas	9
+bochardi	1
+grazaletos	1
+fronteria	1
+cabrionos	1
+bed	1
+ad parandum	1
+tendendi	11
+lapideam	2
+de pureya	2
+gilatum	1
+sp	1
+illaneatos	1
+soleam	1
+luquetum	2
+violeti	3
+gallinas	3
+q	5
+tamissium	1
+trayllissium	1
+folderatam	2
+bastita	1
+laterale	1
+“eruere”	1
+xiiiior	1
+curtum	1
+luise	1
+gracua	1
+pro tendendo	1
+grazalleti	1
+muytellos	1
+stangni	3
+cavestellum	1
+scissororum	1
+mantoletum	2
+sarram	1
+anulum	4
+montani	1
+pitalfi	1
+de gantelleti	1
+enses	1
+inde	1
+ensem	6
+horatorium	1
+cosseriam	1
+mbassinum	1
+tessors	2
+bessos	1
+platos	8
+seram tem	1
+satas	2
+panalech	1
+fructus	1
+varia	3
+pausi	1
+foederatam	1
+superllitilium	1
+libre	1
+spicinardi	1
+grossos	1
+aream	1
+aveti	1
+bassaquos	2
+scissoriarum	1
+collarerii	1
+cofretos	1
+scudellarum	1
+holames	1
+de pureyza	1
+paletam	1
+amidoi	1
+berroerios	3
+Beate	1
+qt	1
+relham	5
+morteria	4
+capcias	8
+capciam	28
+bressium	1
+botayrolas	1
+crudellas	1
+quartayronum	1
+grossi	4
+salserium	1
+petiis	1
+grosse	1
+Antonium	1
+Petri	1
+maneriarum	1
+de faugueiayre	1
+coffinum	4
+transverssia	1
+tabula	17
+diversis	3
+crudi	1
+tabule	1
+florier	1
+de portis	1
+precedenti	1
+mediocris	1
+dalli	1
+pro filando	1
+peirerie	1
+avellanete	1
+partium	1
+fustaminum	1
+furnus	1
+antica	1
+panellos	1
+coopertorio	1
+aqui	1
+baneste	1
+de Monteolivo	2
+servicium	3
+cloquam	1
+barral	1
+marinoris	1
+morterium	21
+totum	3
+mathalassio	1
+ca	1
+trostyos	1
+grasals	1
+ipsius	4
+pariete	2
+onsiam	1
+grasale	2
+scutellarum	2
+auriculariorum	1
+munitos	1
+confiturarum	1
+gomme	1
+broquetum	2
+cubessellas	1
+reperisse	4
+crussibola	1
+banastonum	2
+sellam	1
+broquos	2
+cartyassium	1
+capcia	3
+bassas	1
+Anthonii	2
+roasting	1
+de quibus	1
+sargaginem	1
+cervelleriam	1
+almarnias	1
+gratusas	1
+cohieras	1
+aisetam	1
+bota	5
+de rompre	2
+ultra	1
+pedibus	1
+rascellos	1
+siti	1
+pectinem	1
+porterium	1
+vi	16
+cortinarum	11
+crusibolum	2
+desuper	1
+romancio	1
+balansias	1
+conserva	1
+lodissem	1
+cellestam	1
+endesium	1
+folleres	1
+flassiatum	1
+undecim	5
+ponderis	3
+rethalium	1
+pitalphos	1
+misirabam	1
+tripedes	11
+gantelletorum	1
+mont	1
+mandoletum	1
+ecclesie	1
+pro puteo	1
+aramgati	1
+masqueta	1
+ad dictum	1
+orrios	1
+banquos	4
+cuiuslibet	5
+i	6
+scitum	3
+depictum	6
+graciculam	1
+cubertellas	1
+capantam	1
+quantitas	1
+sibi	1
+chopas	1
+de armis	1
+predicta	1
+duodenas	5
+euputas	1
+guarlandellum	1
+dogamina	1
+duodenam	12
+chopam	12
+patresnostres	1
+bladi	1
+manutergia	5
+beterium	1
+tersonis	1
+chalons	1
+cartularium	1
+de canhetotauheto	1
+banastonetum	1
+sacum	4
+orologinem	1
+Massilie	2
+milliariorum	1
+Marie	1
+stagia	1
+boscellum	1
+pro paramento	1
+sinadorium	1
+gossarum	1
+ad 	6
+aulam	5
+rota	1
+birquetum	1
+Folio	3
+oleriam	5
+pulvinari	4
+de Berra	1
+tariam	1
+olerias	2
+pillows	1
+Maurini	1
+est	20
+butigie	1
+Auruvellariead	1
+ad ventandi	1
+raupam	2
+botelham	2
+olivayretam	1
+boqueria	1
+simplex	1
+ecclesia	1
+destructam	2
+satisbonas	1
+agulham	1
+civitatem	1
+banastonos	1
+andes	1
+inventa	1
+payroleta	1
+pollas	1
+xxiiii	1
+tauletam	4
+de retro	1
+dreyssatorium	2
+stanna	1
+taceas	3
+grazaleti	1
+aramjati	1
+meri	1
+tassonum	1
+gabiam	4
+manutergium	4
+munitus	1
+tsis	1
+atineis	1
+massapanum	12
+anforam	3
+gratuas	1
+mulus	2
+dobletum	3
+arquibanqui	1
+jarrarum	1
+pictum	6
+mulum	1
+November	1
+tomellam	1
+anforas	2
+eam	2
+Dulciete	2
+socum	2
+restitutere	1
+orto	1
+linteaminen	1
+cacaba	1
+librorum	1
+tacearum	1
+ultimo	2
+caunissecauvisse	1
+tristogie	1
+pueri	2
+quolibet	4
+enbutum	2
+armeiatum	2
+bassaqui	1
+below	1
+cella	5
+½	17
+celle	1
+bredula	1
+domine	32
+capsiam	3
+datilis	1
+domina	1
+pinnasile	1
+domino	1
+domini	3
+bladum	4
+sellas	7
+indivise	1
+egredarium	1
+penne	1
+hospicii	1
+serrapos	1
+Sarturan	1
+capsias	2
+crucibola	7
+folio	5
+gavedam	1
+tinelletum	1
+fusteorum	1
+de pignore	1
+pessias	3
+ciphum	1
+curassas	1
+cessors	1
+drayni	1
+quarti	1
+stag	1
+pondus	1
+comunis	4
+mathalassium	1
+quarta	2
+ad ipsos	5
+iuxta	3
+christati	1
+illius	1
+pilam	2
+ad vendendum	2
+de pictam	1
+cofretum	6
